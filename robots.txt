@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://your-blog.netlify.app/sitemap.xml
-Host: https://your-blog.netlify.app
+Sitemap: https://gintooooonic.github.io/sitemap.xml
+Host: https://gintooooonic.github.io
