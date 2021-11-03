@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[개발일기]]></title><description><![CDATA[개발일기 블로그입니다.]]></description><link>https://gintooooonic.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 02 Nov 2021 15:09:42 GMT</lastBuildDate><item><title><![CDATA[2026년 12월 31일 목요일]]></title><description><![CDATA[오늘 뭐 했지 학생과 직장인으로서의 지난 20대를 회고 개발자로서 얼마나 성장했고 어떤 성공을 이루었는가 내일 뭐 할까 끊임없이 공부하고 노력하기 한 줄 일기 2021년에 작성해본 5년 뒤의 TIL]]></description><link>https://gintooooonic.github.io/TIL/draft/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/draft/</guid><pubDate>Thu, 31 Dec 2026 23:59:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[개발일기]]></title><description><![CDATA[개발일기 블로그입니다.]]></description><link>https://gintooooonic.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 03 Nov 2021 14:47:39 GMT</lastBuildDate><item><title><![CDATA[2026년 12월 31일 목요일]]></title><description><![CDATA[오늘 뭐 했지 학생과 직장인으로서의 지난 20대를 회고 개발자로서 얼마나 성장했고 어떤 성공을 이루었는가 내일 뭐 할까 끊임없이 공부하고 노력하기 한 줄 일기 2021년에 작성해본 5년 뒤의 TIL]]></description><link>https://gintooooonic.github.io/TIL/draft/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/draft/</guid><pubDate>Thu, 31 Dec 2026 23:59:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
     &gt;
@@ -29,7 +29,46 @@
 &lt;li&gt;끊임없이 공부하고 노력하기&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;한-줄-일기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%95%9C-%EC%A4%84-%EC%9D%BC%EA%B8%B0&quot; aria-label=&quot;한 줄 일기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;한 줄 일기&lt;/h2&gt;
-&lt;p&gt;2021년에 작성해본 5년 뒤의 TIL&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2021년 11월 2일 화요일]]></title><description><![CDATA[오늘 뭐 했지 그룹 프로젝트 TypeORM Entity 작성하고 테이블 생성 메인 페이지 리스트 뷰 게시글 리스트 API 첫 이력서 작성해보기 내일 뭐 할까 그룹 프로젝트 한 줄 일기 정신 건강 챙기기. Refresh!]]></description><link>https://gintooooonic.github.io/TIL/2021-11-02/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/2021-11-02/</guid><pubDate>Tue, 02 Nov 2021 23:59:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;2021년에 작성해본 5년 뒤의 TIL&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2021년 11월 3일 수요일]]></title><description><![CDATA[오늘 뭐 했지 그룹 프로젝트 메인 페이지에서 계속 작업 중 내일 뭐 할까 그룹 프로젝트 한 줄 일기 매일이 그룹 프로젝트 풀 스케줄.
+하지만 짬을 내서 코딩 테스트나 학습 정리를 해보는 건 어떨까? TIL…]]></description><link>https://gintooooonic.github.io/TIL/2021-11-03/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/2021-11-03/</guid><pubDate>Wed, 03 Nov 2021 23:59:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 18.666666666666668%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsSAAALEgHS3X78AAAAkklEQVQY02NQUlL6j4oVwVhOUem/n4rc/wI1mf/BQNpbRf6/OlBcURGmRgkrZsBloAxQo6uS3P9WFfH/ZSqS/yepiv1XVFAAW6QENliROAMhLlD6LwvUYKKq/D9DT+1/vLbK/6n6Sv9LdYByQHFFJdyuZMDldHl5+f8G+vr//f39/7u5u/8PBNJ+zk5gV+LSA8IAB3509+vAe/8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;logo&quot;
+        title=&quot;logo&quot;
+        src=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png&quot;
+        srcset=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a46d/logo.png 300w,
+/static/ae984cd4b9212e714a033f16191363f6/0a47e/logo.png 600w,
+/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;그룹 프로젝트&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;메인 페이지에서 계속 작업 중&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;내일-뭐-할까&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%82%B4%EC%9D%BC-%EB%AD%90-%ED%95%A0%EA%B9%8C&quot; aria-label=&quot;내일 뭐 할까 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;내일 뭐 할까&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;그룹 프로젝트&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;한-줄-일기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%95%9C-%EC%A4%84-%EC%9D%BC%EA%B8%B0&quot; aria-label=&quot;한 줄 일기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;한 줄 일기&lt;/h2&gt;
+&lt;p&gt;매일이 그룹 프로젝트 풀 스케줄.
+하지만 짬을 내서 코딩 테스트나 학습 정리를 해보는 건 어떨까?&lt;/p&gt;
+&lt;p&gt;TIL 내용이 극도로 짧아지면서 점점 작성할 이유를 잃어가는 느낌이 있다.
+나중에 TIL 글들만 싹 다 정리할 것 같기도 하고.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2021년 11월 2일 화요일]]></title><description><![CDATA[오늘 뭐 했지 그룹 프로젝트 TypeORM Entity 작성하고 테이블 생성 메인 페이지 리스트 뷰 게시글 리스트 API 첫 이력서 작성해보기 내일 뭐 할까 그룹 프로젝트 한 줄 일기 정신 건강 챙기기. Refresh!]]></description><link>https://gintooooonic.github.io/TIL/2021-11-02/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/2021-11-02/</guid><pubDate>Tue, 02 Nov 2021 23:59:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
     &gt;
