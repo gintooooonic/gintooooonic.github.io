@@ -1,7 +1,7 @@
 ---
 title: 부스트캠프 챌린지에 대한 기억 - 부스트캠프 웹모바일 6기
 date: '2021-08-22 00:00:00'
-category: etc
+category: Thoughts
 draft: false
 ---
 
