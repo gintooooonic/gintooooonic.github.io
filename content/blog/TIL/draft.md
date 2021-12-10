@@ -5,8 +5,6 @@ category: TIL
 draft: true
 ---
 
-![logo](logo.png)
-
 ## 오늘 뭐 했지
 
 - 학생과 직장인으로서의 지난 20대를 회고
