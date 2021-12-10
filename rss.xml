@@ -1,25 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[개발일기]]></title><description><![CDATA[개발일기 블로그입니다.]]></description><link>https://gintooooonic.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 03 Nov 2021 14:47:39 GMT</lastBuildDate><item><title><![CDATA[2026년 12월 31일 목요일]]></title><description><![CDATA[오늘 뭐 했지 학생과 직장인으로서의 지난 20대를 회고 개발자로서 얼마나 성장했고 어떤 성공을 이루었는가 내일 뭐 할까 끊임없이 공부하고 노력하기 한 줄 일기 2021년에 작성해본 5년 뒤의 TIL]]></description><link>https://gintooooonic.github.io/TIL/draft/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/draft/</guid><pubDate>Thu, 31 Dec 2026 23:59:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 18.666666666666668%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsSAAALEgHS3X78AAAAkklEQVQY02NQUlL6j4oVwVhOUem/n4rc/wI1mf/BQNpbRf6/OlBcURGmRgkrZsBloAxQo6uS3P9WFfH/ZSqS/yepiv1XVFAAW6QENliROAMhLlD6LwvUYKKq/D9DT+1/vLbK/6n6Sv9LdYByQHFFJdyuZMDldHl5+f8G+vr//f39/7u5u/8PBNJ+zk5gV+LSA8IAB3509+vAe/8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;logo&quot;
-        title=&quot;logo&quot;
-        src=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png&quot;
-        srcset=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a46d/logo.png 300w,
-/static/ae984cd4b9212e714a033f16191363f6/0a47e/logo.png 600w,
-/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png 800w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[개발일기]]></title><description><![CDATA[개발일기 블로그입니다.]]></description><link>https://gintooooonic.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 10 Dec 2021 14:42:16 GMT</lastBuildDate><item><title><![CDATA[2026년 12월 31일 목요일]]></title><description><![CDATA[오늘 뭐 했지 학생과 직장인으로서의 지난 20대를 회고 개발자로서 얼마나 성장했고 어떤 성공을 이루었는가 내일 뭐 할까 끊임없이 공부하고 노력하기 한 줄 일기 2021년에 작성해본 5년 뒤의 TIL]]></description><link>https://gintooooonic.github.io/TIL/draft/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/draft/</guid><pubDate>Thu, 31 Dec 2026 23:59:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;학생과 직장인으로서의 지난 20대를 회고&lt;/li&gt;
 &lt;li&gt;개발자로서 얼마나 성장했고 어떤 성공을 이루었는가&lt;/li&gt;
@@ -29,406 +8,64 @@
 &lt;li&gt;끊임없이 공부하고 노력하기&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;한-줄-일기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%95%9C-%EC%A4%84-%EC%9D%BC%EA%B8%B0&quot; aria-label=&quot;한 줄 일기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;한 줄 일기&lt;/h2&gt;
-&lt;p&gt;2021년에 작성해본 5년 뒤의 TIL&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2021년 11월 3일 수요일]]></title><description><![CDATA[오늘 뭐 했지 그룹 프로젝트 메인 페이지에서 계속 작업 중 내일 뭐 할까 그룹 프로젝트 한 줄 일기 매일이 그룹 프로젝트 풀 스케줄.
-하지만 짬을 내서 코딩 테스트나 학습 정리를 해보는 건 어떨까? TIL…]]></description><link>https://gintooooonic.github.io/TIL/2021-11-03/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/2021-11-03/</guid><pubDate>Wed, 03 Nov 2021 23:59:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;2021년에 작성해본 5년 뒤의 TIL&lt;/p&gt;</content:encoded></item><item><title><![CDATA[부스트캠프 끝, 이제 뭐하지?]]></title><description><![CDATA[한여름에 반팔 입고 시작했던 부스트캠프.
+그룹 프로젝트 최종 발표를 끝으로 막을 내렸다. 이제 본격적으로 부캠 연계 채용이 시작되겠지만,
+내년에 학교로 돌아가야하는 나로서는 기대할 수 있는게 별로 없을 것 같다.…]]></description><link>https://gintooooonic.github.io/Thoughts/211210-boostcamp-membership/</link><guid isPermaLink="false">https://gintooooonic.github.io/Thoughts/211210-boostcamp-membership/</guid><pubDate>Fri, 10 Dec 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 18.666666666666668%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsSAAALEgHS3X78AAAAkklEQVQY02NQUlL6j4oVwVhOUem/n4rc/wI1mf/BQNpbRf6/OlBcURGmRgkrZsBloAxQo6uS3P9WFfH/ZSqS/yepiv1XVFAAW6QENliROAMhLlD6LwvUYKKq/D9DT+1/vLbK/6n6Sv9LdYByQHFFJdyuZMDldHl5+f8G+vr//f39/7u5u/8PBNJ+zk5gV+LSA8IAB3509+vAe/8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 22.333333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA0ElEQVQY032PPQ/BUBSG36saEZGgaXw2VNkMBiIx6OQPaMVXYjOZ7QZBLAaDxQ/xwyRFJdcr7SAGJ3ny3Nyc895zgaA6pEHypEAqiMSytI3asomFLGJwq2LoW3CfTTiegak0kW6l2GNCSShhjgiNObmQDdmRLYRypE/oXdccXsG97+H6JwbueD5jLA98rM8eByJq0xq+Sid1UiYGsSDUCp3FTOoM+WxWJyUSh/uwGdiGmk6yJ8fFPnMZ/C2hBh5JYPgCg2g/sOMBE95r3d+f4g1U0THQjVDPmQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;logo&quot;
-        title=&quot;logo&quot;
-        src=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png&quot;
-        srcset=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a46d/logo.png 300w,
-/static/ae984cd4b9212e714a033f16191363f6/0a47e/logo.png 600w,
-/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png 800w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        alt=&quot;boostcamp&quot;
+        title=&quot;boostcamp&quot;
+        src=&quot;/static/84e2e23434d989d9e351cdb0c1ea5d4f/00d43/boostcamp.png&quot;
+        srcset=&quot;/static/84e2e23434d989d9e351cdb0c1ea5d4f/5a46d/boostcamp.png 300w,
+/static/84e2e23434d989d9e351cdb0c1ea5d4f/0a47e/boostcamp.png 600w,
+/static/84e2e23434d989d9e351cdb0c1ea5d4f/00d43/boostcamp.png 1000w&quot;
+        sizes=&quot;(max-width: 1000px) 100vw, 1000px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;그룹 프로젝트&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;메인 페이지에서 계속 작업 중&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;내일-뭐-할까&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%82%B4%EC%9D%BC-%EB%AD%90-%ED%95%A0%EA%B9%8C&quot; aria-label=&quot;내일 뭐 할까 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;내일 뭐 할까&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;그룹 프로젝트&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;한-줄-일기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%95%9C-%EC%A4%84-%EC%9D%BC%EA%B8%B0&quot; aria-label=&quot;한 줄 일기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;한 줄 일기&lt;/h2&gt;
-&lt;p&gt;매일이 그룹 프로젝트 풀 스케줄.
-하지만 짬을 내서 코딩 테스트나 학습 정리를 해보는 건 어떨까?&lt;/p&gt;
-&lt;p&gt;TIL 내용이 극도로 짧아지면서 점점 작성할 이유를 잃어가는 느낌이 있다.
-나중에 TIL 글들만 싹 다 정리할 것 같기도 하고.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2021년 11월 2일 화요일]]></title><description><![CDATA[오늘 뭐 했지 그룹 프로젝트 TypeORM Entity 작성하고 테이블 생성 메인 페이지 리스트 뷰 게시글 리스트 API 첫 이력서 작성해보기 내일 뭐 할까 그룹 프로젝트 한 줄 일기 정신 건강 챙기기. Refresh!]]></description><link>https://gintooooonic.github.io/TIL/2021-11-02/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/2021-11-02/</guid><pubDate>Tue, 02 Nov 2021 23:59:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;한여름에 반팔 입고 시작했던 부스트캠프.
+그룹 프로젝트 최종 발표를 끝으로 막을 내렸다.&lt;/p&gt;
+&lt;p&gt;이제 본격적으로 부캠 연계 채용이 시작되겠지만,
+내년에 학교로 돌아가야하는 나로서는 기대할 수 있는게 별로 없을 것 같다.&lt;/p&gt;
+&lt;p&gt;5개월동안 성장 동력이 되어준 부스트캠프가 끝났으니,
+앞으로 어떤 노력을 통해 &lt;code class=&quot;language-text&quot;&gt;Boost&lt;/code&gt;할 수 있을지나 고민해보고 있다.
+앞으로의 계획!&lt;/p&gt;
+&lt;h2 id=&quot;부캠에서-공부한-것들-정리해보기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%B6%80%EC%BA%A0%EC%97%90%EC%84%9C-%EA%B3%B5%EB%B6%80%ED%95%9C-%EA%B2%83%EB%93%A4-%EC%A0%95%EB%A6%AC%ED%95%B4%EB%B3%B4%EA%B8%B0&quot; aria-label=&quot;부캠에서 공부한 것들 정리해보기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;부캠에서 공부한 것들 정리해보기&lt;/h2&gt;
+&lt;p&gt;공부하는 내용을 블로그든 Notion이든 기록해두려고 했는데,
+개발하는데만 바빠서 잘 못하고 있었다.
+내 기억에만 의존했다간 나중에 다 까먹을 것 같아서,
+공부했던 내용들을 좀 정리해보면 좋을 것 같다.&lt;/p&gt;
+&lt;h2 id=&quot;알고리즘-공부&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B3%B5%EB%B6%80&quot; aria-label=&quot;알고리즘 공부 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;알고리즘 공부&lt;/h2&gt;
+&lt;p&gt;반년 가까이 손을 떼고 있었던 코딩 테스트 공부..&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;하루 N문제 풀기&lt;/code&gt; 이렇게라도 하면서 연습해야할 것 같다.
+지금 실력으론 기업 코테는 어림도 없다.&lt;/p&gt;
+&lt;h2 id=&quot;자바와-스프링&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9E%90%EB%B0%94%EC%99%80-%EC%8A%A4%ED%94%84%EB%A7%81&quot; aria-label=&quot;자바와 스프링 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;자바와 스프링&lt;/h2&gt;
+&lt;p&gt;쭉 올라오는 백엔드 채용 공고를 보면서,
+역시 자바 공부를 해야겠구나 싶었다.&lt;/p&gt;
+&lt;p&gt;우선 집에 있는 &lt;code class=&quot;language-text&quot;&gt;자바의 정석&lt;/code&gt; 책으로 시작.
+2월까지 &lt;code class=&quot;language-text&quot;&gt;부스트캠프 JAVA 과정&lt;/code&gt; 같은 느낌으로 공부해보자.&lt;/p&gt;
+&lt;h2 id=&quot;cs&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#cs&quot; aria-label=&quot;cs permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;CS&lt;/h2&gt;
+&lt;p&gt;CS 공부도 틈틈이 해아할 것 같다.
+왜 이렇게 공부할게 많지..?&lt;/p&gt;
+&lt;h2 id=&quot;목표&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%AA%A9%ED%91%9C&quot; aria-label=&quot;목표 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;목표&lt;/h2&gt;
+&lt;p&gt;현재 목표는 마지막 한 학기 취업계 낸다고 치고,
+내년 상반기부터 여기저기 지원해보는 것.&lt;/p&gt;
+&lt;p&gt;그래서 이번 겨울 안에 나 스스로를 어느 정도 완성시켜야겠다는 생각이 든다.
+해야할 게 조금 많아 보이긴 하지만, 높은 목표를 잡았으니 피해갈 수 없는 일이다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[부스트캠프 챌린지에 대한 기억 - 부스트캠프 웹모바일 6기]]></title><description><![CDATA[부스트캠프 챌린지 과정이 끝나고 일주일이 후다닥 지나갔다. 지난…]]></description><link>https://gintooooonic.github.io/Thoughts/210822-boostcamp-challenge/</link><guid isPermaLink="false">https://gintooooonic.github.io/Thoughts/210822-boostcamp-challenge/</guid><pubDate>Sun, 22 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 18.666666666666668%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsSAAALEgHS3X78AAAAkklEQVQY02NQUlL6j4oVwVhOUem/n4rc/wI1mf/BQNpbRf6/OlBcURGmRgkrZsBloAxQo6uS3P9WFfH/ZSqS/yepiv1XVFAAW6QENliROAMhLlD6LwvUYKKq/D9DT+1/vLbK/6n6Sv9LdYByQHFFJdyuZMDldHl5+f8G+vr//f39/7u5u/8PBNJ+zk5gV+LSA8IAB3509+vAe/8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;logo&quot;
-        title=&quot;logo&quot;
-        src=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png&quot;
-        srcset=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a46d/logo.png 300w,
-/static/ae984cd4b9212e714a033f16191363f6/0a47e/logo.png 600w,
-/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png 800w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;그룹 프로젝트&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;TypeORM Entity 작성하고 테이블 생성&lt;/li&gt;
-&lt;li&gt;메인 페이지 리스트 뷰&lt;/li&gt;
-&lt;li&gt;게시글 리스트 API&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;첫 이력서 작성해보기&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;내일-뭐-할까&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%82%B4%EC%9D%BC-%EB%AD%90-%ED%95%A0%EA%B9%8C&quot; aria-label=&quot;내일 뭐 할까 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;내일 뭐 할까&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;그룹 프로젝트&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;한-줄-일기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%95%9C-%EC%A4%84-%EC%9D%BC%EA%B8%B0&quot; aria-label=&quot;한 줄 일기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;한 줄 일기&lt;/h2&gt;
-&lt;p&gt;정신 건강 챙기기. Refresh!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2021년 11월 1일 월요일]]></title><description><![CDATA[오늘 뭐 했지 그룹 프로젝트 개발 시작 DB 인스턴스 세팅 SSH 터널링으로 DB 연결하려다 두들겨 맞았음 내일 뭐 할까 DB 문제 해결 메인 페이지 작업 한 줄 일기 Show must go on]]></description><link>https://gintooooonic.github.io/TIL/2021-11-01/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/2021-11-01/</guid><pubDate>Mon, 01 Nov 2021 23:59:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 18.666666666666668%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsSAAALEgHS3X78AAAAkklEQVQY02NQUlL6j4oVwVhOUem/n4rc/wI1mf/BQNpbRf6/OlBcURGmRgkrZsBloAxQo6uS3P9WFfH/ZSqS/yepiv1XVFAAW6QENliROAMhLlD6LwvUYKKq/D9DT+1/vLbK/6n6Sv9LdYByQHFFJdyuZMDldHl5+f8G+vr//f39/7u5u/8PBNJ+zk5gV+LSA8IAB3509+vAe/8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;logo&quot;
-        title=&quot;logo&quot;
-        src=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png&quot;
-        srcset=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a46d/logo.png 300w,
-/static/ae984cd4b9212e714a033f16191363f6/0a47e/logo.png 600w,
-/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png 800w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;그룹 프로젝트 개발 시작&lt;/li&gt;
-&lt;li&gt;DB 인스턴스 세팅&lt;/li&gt;
-&lt;li&gt;SSH 터널링으로 DB 연결하려다 두들겨 맞았음&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;내일-뭐-할까&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%82%B4%EC%9D%BC-%EB%AD%90-%ED%95%A0%EA%B9%8C&quot; aria-label=&quot;내일 뭐 할까 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;내일 뭐 할까&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;DB 문제 해결&lt;/li&gt;
-&lt;li&gt;메인 페이지 작업&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;한-줄-일기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%95%9C-%EC%A4%84-%EC%9D%BC%EA%B8%B0&quot; aria-label=&quot;한 줄 일기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;한 줄 일기&lt;/h2&gt;
-&lt;p&gt;Show must go on&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2021년 10월 31일 일요일]]></title><description><![CDATA[오늘 뭐 했지  프로젝트 TypeScript, TypeORM, Emotion 맛보기 아직도 로그인 구현은 간단하지 않더라는 것.. 끝내진 못했지만 타입스크립트 연습은 조금 한 것 같음 내일 뭐 할까 그룹 프로젝트 개발 시작! 한 줄 일기 Show…]]></description><link>https://gintooooonic.github.io/TIL/2021-10-31/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/2021-10-31/</guid><pubDate>Sun, 31 Oct 2021 23:59:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 18.666666666666668%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsSAAALEgHS3X78AAAAkklEQVQY02NQUlL6j4oVwVhOUem/n4rc/wI1mf/BQNpbRf6/OlBcURGmRgkrZsBloAxQo6uS3P9WFfH/ZSqS/yepiv1XVFAAW6QENliROAMhLlD6LwvUYKKq/D9DT+1/vLbK/6n6Sv9LdYByQHFFJdyuZMDldHl5+f8G+vr//f39/7u5u/8PBNJ+zk5gV+LSA8IAB3509+vAe/8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;logo&quot;
-        title=&quot;logo&quot;
-        src=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png&quot;
-        srcset=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a46d/logo.png 300w,
-/static/ae984cd4b9212e714a033f16191363f6/0a47e/logo.png 600w,
-/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png 800w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;tiny-slido&lt;/code&gt; 프로젝트&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;TypeScript, TypeORM, Emotion 맛보기&lt;/li&gt;
-&lt;li&gt;아직도 로그인 구현은 간단하지 않더라는 것..&lt;/li&gt;
-&lt;li&gt;끝내진 못했지만 타입스크립트 연습은 조금 한 것 같음&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;내일-뭐-할까&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%82%B4%EC%9D%BC-%EB%AD%90-%ED%95%A0%EA%B9%8C&quot; aria-label=&quot;내일 뭐 할까 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;내일 뭐 할까&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;그룹 프로젝트 개발 시작!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;한-줄-일기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%95%9C-%EC%A4%84-%EC%9D%BC%EA%B8%B0&quot; aria-label=&quot;한 줄 일기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;한 줄 일기&lt;/h2&gt;
-&lt;p&gt;Show must go on&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2021년 10월 30일 토요일]]></title><description><![CDATA[오늘 뭐 했지 TypeScript & TypeORM 세팅해보기 TypeORM 모델(Entity) 작성해서 돌려봄 모듈과 관련된 각종 에러를 해결하지 못했음 에 대해 더 조사해봐야겠음 내일 뭐 할까 그룹 프로젝트 ERD…]]></description><link>https://gintooooonic.github.io/TIL/2021-10-30/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/2021-10-30/</guid><pubDate>Sat, 30 Oct 2021 22:13:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 18.666666666666668%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsSAAALEgHS3X78AAAAkklEQVQY02NQUlL6j4oVwVhOUem/n4rc/wI1mf/BQNpbRf6/OlBcURGmRgkrZsBloAxQo6uS3P9WFfH/ZSqS/yepiv1XVFAAW6QENliROAMhLlD6LwvUYKKq/D9DT+1/vLbK/6n6Sv9LdYByQHFFJdyuZMDldHl5+f8G+vr//f39/7u5u/8PBNJ+zk5gV+LSA8IAB3509+vAe/8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;logo&quot;
-        title=&quot;logo&quot;
-        src=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png&quot;
-        srcset=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a46d/logo.png 300w,
-/static/ae984cd4b9212e714a033f16191363f6/0a47e/logo.png 600w,
-/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png 800w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;TypeScript &amp;#x26; TypeORM 세팅해보기&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;TypeORM 모델(Entity) 작성해서 돌려봄&lt;/li&gt;
-&lt;li&gt;모듈과 관련된 각종 에러를 해결하지 못했음&lt;/li&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;tsconfig&lt;/code&gt;에 대해 더 조사해봐야겠음&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;내일-뭐-할까&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%82%B4%EC%9D%BC-%EB%AD%90-%ED%95%A0%EA%B9%8C&quot; aria-label=&quot;내일 뭐 할까 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;내일 뭐 할까&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;그룹 프로젝트 ERD 설계&lt;/li&gt;
-&lt;li&gt;주중에 &lt;code class=&quot;language-text&quot;&gt;내일 뭐 할까&lt;/code&gt;에 적어놓고 못했던 것들&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;한-줄-일기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%95%9C-%EC%A4%84-%EC%9D%BC%EA%B8%B0&quot; aria-label=&quot;한 줄 일기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;한 줄 일기&lt;/h2&gt;
-&lt;p&gt;돈 워리 비 해피&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2021년 10월 29일 금요일]]></title><description><![CDATA[오늘 뭐 했지 그룹 프로젝트  프로젝트 생성 내일 뭐 할까 주말동안 그룹 프로젝트에서 필요한 기술들을 조금 공부해보자  프로젝트에서 기술 활용해보기 TypeScript TypeORM JWT Emotion 무한 스크롤 GitHub Actions…]]></description><link>https://gintooooonic.github.io/TIL/2021-10-29/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/2021-10-29/</guid><pubDate>Fri, 29 Oct 2021 23:05:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 18.666666666666668%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsSAAALEgHS3X78AAAAkklEQVQY02NQUlL6j4oVwVhOUem/n4rc/wI1mf/BQNpbRf6/OlBcURGmRgkrZsBloAxQo6uS3P9WFfH/ZSqS/yepiv1XVFAAW6QENliROAMhLlD6LwvUYKKq/D9DT+1/vLbK/6n6Sv9LdYByQHFFJdyuZMDldHl5+f8G+vr//f39/7u5u/8PBNJ+zk5gV+LSA8IAB3509+vAe/8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;logo&quot;
-        title=&quot;logo&quot;
-        src=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png&quot;
-        srcset=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a46d/logo.png 300w,
-/static/ae984cd4b9212e714a033f16191363f6/0a47e/logo.png 600w,
-/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png 800w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;그룹 프로젝트&lt;/li&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;tiny-slido&lt;/code&gt; 프로젝트 생성&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;내일-뭐-할까&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%82%B4%EC%9D%BC-%EB%AD%90-%ED%95%A0%EA%B9%8C&quot; aria-label=&quot;내일 뭐 할까 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;내일 뭐 할까&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;주말동안 그룹 프로젝트에서 필요한 기술들을 조금 공부해보자&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;tiny-slido&lt;/code&gt; 프로젝트에서 기술 활용해보기&lt;/li&gt;
-&lt;li&gt;TypeScript&lt;/li&gt;
-&lt;li&gt;TypeORM&lt;/li&gt;
-&lt;li&gt;JWT&lt;/li&gt;
-&lt;li&gt;Emotion&lt;/li&gt;
-&lt;li&gt;무한 스크롤&lt;/li&gt;
-&lt;li&gt;GitHub Actions 자동 배포&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;주중에 &lt;code class=&quot;language-text&quot;&gt;내일 뭐 할까&lt;/code&gt;에 적어놓고 못했던 것들&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;한-줄-일기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%95%9C-%EC%A4%84-%EC%9D%BC%EA%B8%B0&quot; aria-label=&quot;한 줄 일기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;한 줄 일기&lt;/h2&gt;
-&lt;p&gt;공부하는 내용들을 블로그에 적어도 좋을 것 같다.&lt;/p&gt;
-&lt;p&gt;곧 이력서를 적어야 하는데 어떤 내용을 담을지 하나도 모르겠다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2021년 10월 28일 목요일]]></title><description><![CDATA[오늘 뭐 했지 그룹 프로젝트 열심히 했음.. 야근도 했음.. 백신 맞고 누워있기 내일 뭐 할까 그룹 프로젝트 관련 주말에 뭐 공부할지? ERD 그려보기 한 줄 일기 건강이 최고다]]></description><link>https://gintooooonic.github.io/TIL/2021-10-28/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/2021-10-28/</guid><pubDate>Thu, 28 Oct 2021 23:05:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 18.666666666666668%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsSAAALEgHS3X78AAAAkklEQVQY02NQUlL6j4oVwVhOUem/n4rc/wI1mf/BQNpbRf6/OlBcURGmRgkrZsBloAxQo6uS3P9WFfH/ZSqS/yepiv1XVFAAW6QENliROAMhLlD6LwvUYKKq/D9DT+1/vLbK/6n6Sv9LdYByQHFFJdyuZMDldHl5+f8G+vr//f39/7u5u/8PBNJ+zk5gV+LSA8IAB3509+vAe/8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;logo&quot;
-        title=&quot;logo&quot;
-        src=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png&quot;
-        srcset=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a46d/logo.png 300w,
-/static/ae984cd4b9212e714a033f16191363f6/0a47e/logo.png 600w,
-/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png 800w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;그룹 프로젝트&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;열심히 했음.. 야근도 했음..&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;백신 맞고 누워있기&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;내일-뭐-할까&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%82%B4%EC%9D%BC-%EB%AD%90-%ED%95%A0%EA%B9%8C&quot; aria-label=&quot;내일 뭐 할까 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;내일 뭐 할까&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;그룹 프로젝트 관련&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;주말에 뭐 공부할지?&lt;/li&gt;
-&lt;li&gt;ERD 그려보기&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;한-줄-일기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%95%9C-%EC%A4%84-%EC%9D%BC%EA%B8%B0&quot; aria-label=&quot;한 줄 일기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;한 줄 일기&lt;/h2&gt;
-&lt;p&gt;건강이 최고다&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2021년 10월 27일 수요일]]></title><description><![CDATA[…]]></description><link>https://gintooooonic.github.io/TIL/2021-10-27/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/2021-10-27/</guid><pubDate>Wed, 27 Oct 2021 23:59:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 18.666666666666668%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsSAAALEgHS3X78AAAAkklEQVQY02NQUlL6j4oVwVhOUem/n4rc/wI1mf/BQNpbRf6/OlBcURGmRgkrZsBloAxQo6uS3P9WFfH/ZSqS/yepiv1XVFAAW6QENliROAMhLlD6LwvUYKKq/D9DT+1/vLbK/6n6Sv9LdYByQHFFJdyuZMDldHl5+f8G+vr//f39/7u5u/8PBNJ+zk5gV+LSA8IAB3509+vAe/8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;logo&quot;
-        title=&quot;logo&quot;
-        src=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png&quot;
-        srcset=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a46d/logo.png 300w,
-/static/ae984cd4b9212e714a033f16191363f6/0a47e/logo.png 600w,
-/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png 800w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;그룹 프로젝트&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;반응형 웹 디자인에 대해 조사&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;viewport&lt;/code&gt;와 &lt;code class=&quot;language-text&quot;&gt;@media&lt;/code&gt; 사용해 간단히 적용해봄&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;내일-뭐-할까&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%82%B4%EC%9D%BC-%EB%AD%90-%ED%95%A0%EA%B9%8C&quot; aria-label=&quot;내일 뭐 할까 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;내일 뭐 할까&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;그룹 프로젝트 기획 마무리 및 발표 준비&lt;/li&gt;
-&lt;li&gt;발표 준비 끝나면 시간 없을 듯?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;한-줄-일기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%95%9C-%EC%A4%84-%EC%9D%BC%EA%B8%B0&quot; aria-label=&quot;한 줄 일기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;한 줄 일기&lt;/h2&gt;
-&lt;p&gt;평일에 할 일을 차곡차곡 쌓아놓고 주말로 미루는 느낌.&lt;/p&gt;
-&lt;p&gt;학습하자!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2021년 10월 26일 화요일]]></title><description><![CDATA[오늘 뭐 했지 그룹 프로젝트 끝 (핑계: 저녁 약속 있었음) 내일 뭐 할까 내일은 PS…]]></description><link>https://gintooooonic.github.io/TIL/2021-10-26/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/2021-10-26/</guid><pubDate>Tue, 26 Oct 2021 23:59:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 18.666666666666668%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsSAAALEgHS3X78AAAAkklEQVQY02NQUlL6j4oVwVhOUem/n4rc/wI1mf/BQNpbRf6/OlBcURGmRgkrZsBloAxQo6uS3P9WFfH/ZSqS/yepiv1XVFAAW6QENliROAMhLlD6LwvUYKKq/D9DT+1/vLbK/6n6Sv9LdYByQHFFJdyuZMDldHl5+f8G+vr//f39/7u5u/8PBNJ+zk5gV+LSA8IAB3509+vAe/8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;logo&quot;
-        title=&quot;logo&quot;
-        src=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png&quot;
-        srcset=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a46d/logo.png 300w,
-/static/ae984cd4b9212e714a033f16191363f6/0a47e/logo.png 600w,
-/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png 800w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;그룹 프로젝트&lt;/li&gt;
-&lt;li&gt;끝 (핑계: 저녁 약속 있었음)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;내일-뭐-할까&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%82%B4%EC%9D%BC-%EB%AD%90-%ED%95%A0%EA%B9%8C&quot; aria-label=&quot;내일 뭐 할까 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;내일 뭐 할까&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;내일은 PS 하자..&lt;/li&gt;
-&lt;li&gt;겨울방학 이후에 할 수 있는 활동이나 인턴 채용 있으면 일정을 정리해놓자&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;한-줄-일기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%95%9C-%EC%A4%84-%EC%9D%BC%EA%B8%B0&quot; aria-label=&quot;한 줄 일기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;한 줄 일기&lt;/h2&gt;
-&lt;p&gt;프로젝트 기획이 쉽지 않음을 다시 한번 느낀다.
-사실 혼자 하는 프로젝트라면 그냥 손이 가는 대로 기획하고 개발했겠지만,
-팀으로 작업을 해야 하고 특정한 절차를 거쳐 기획을 하고 문서화까지 끝내야 하니 굉장히 낯설고 어려운 것 같다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2021년 10월 25일 월요일]]></title><description><![CDATA[오늘 뭐 했지 그룹 프로젝트의 시작 Greetings! 👋 프로젝트 주제 정하기 각종 규칙과 기술 스택 이야기 Docker에 대해 조사 WebRTC에 대해 조사 프로젝트 기획에 대한 이런저런 생각들 내일 뭐 할까 내일도 TIL 작성하기 (매일 TIL…]]></description><link>https://gintooooonic.github.io/TIL/2021-10-25/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/2021-10-25/</guid><pubDate>Mon, 25 Oct 2021 23:59:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 18.666666666666668%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsSAAALEgHS3X78AAAAkklEQVQY02NQUlL6j4oVwVhOUem/n4rc/wI1mf/BQNpbRf6/OlBcURGmRgkrZsBloAxQo6uS3P9WFfH/ZSqS/yepiv1XVFAAW6QENliROAMhLlD6LwvUYKKq/D9DT+1/vLbK/6n6Sv9LdYByQHFFJdyuZMDldHl5+f8G+vr//f39/7u5u/8PBNJ+zk5gV+LSA8IAB3509+vAe/8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;logo&quot;
-        title=&quot;logo&quot;
-        src=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png&quot;
-        srcset=&quot;/static/ae984cd4b9212e714a033f16191363f6/5a46d/logo.png 300w,
-/static/ae984cd4b9212e714a033f16191363f6/0a47e/logo.png 600w,
-/static/ae984cd4b9212e714a033f16191363f6/5a190/logo.png 800w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;그룹 프로젝트의 시작&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Greetings! 👋&lt;/li&gt;
-&lt;li&gt;프로젝트 주제 정하기&lt;/li&gt;
-&lt;li&gt;각종 규칙과 기술 스택 이야기&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Docker에 대해 조사&lt;/li&gt;
-&lt;li&gt;WebRTC에 대해 조사&lt;/li&gt;
-&lt;li&gt;프로젝트 기획에 대한 이런저런 생각들&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;내일-뭐-할까&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%82%B4%EC%9D%BC-%EB%AD%90-%ED%95%A0%EA%B9%8C&quot; aria-label=&quot;내일 뭐 할까 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;내일 뭐 할까&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;내일도 TIL 작성하기 (매일 TIL을 작성할 수 있도록 해보자!)&lt;/li&gt;
-&lt;li&gt;열심히 프로젝트 기획하기&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;슬슬 코테 준비도 해야하지 않을까?&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;목표 설정하기&lt;/li&gt;
-&lt;li&gt;매일 백준 N문제 풀기&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/gintooooonic/problem-solving&quot;&gt;gintooooonic/problem-solving&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;한-줄-일기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%95%9C-%EC%A4%84-%EC%9D%BC%EA%B8%B0&quot; aria-label=&quot;한 줄 일기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;한 줄 일기&lt;/h2&gt;
-&lt;p&gt;그룹 프로젝트 재밌을 것 같아서 기대되고,,, 내게 가장 필요하다고 생각했던 활동인만큼 많은 것을 얻어갈 수 있었으면 좋겠다!&lt;/p&gt;
-&lt;p&gt;TIL은 이 정도로 간단하게 매일 작성해보자.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[부스트캠프 챌린지에 대한 기억 - 부스트캠프 웹모바일 6기]]></title><description><![CDATA[부스트캠프 챌린지 과정이 끝나고 일주일이 후다닥 지나갔다. 지난…]]></description><link>https://gintooooonic.github.io/etc/210822-boostcamp-challenge/</link><guid isPermaLink="false">https://gintooooonic.github.io/etc/210822-boostcamp-challenge/</guid><pubDate>Sun, 22 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1000px;&quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 22.333333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsSAAALEgHS3X78AAAAs0lEQVQY02NggAAfIA4CYksgtgFiRwZGFisgncqg0xLMkPDfnCH4qxND6G9PhpBfkQzB3x0ZIv87MsgEKwHVmDEwcfBCzWGE0mDDJgJxDRDXgTEjczuQrmVwOZXHEPG/gCHkZwPQsFYgzmMI+TENKNbBoJxhD1TjDVTrDqRlGZAAKxCzQ2kWIOZgYOFjAdvY+5+JIegzF0PoHy6gYcxg1SE/5RnC/4uD5Vl4OYA0N1Q/9QEA+rsnYZLvDxIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 22.333333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA0ElEQVQY032PPQ/BUBSG36saEZGgaXw2VNkMBiIx6OQPaMVXYjOZ7QZBLAaDxQ/xwyRFJdcr7SAGJ3ny3Nyc895zgaA6pEHypEAqiMSytI3asomFLGJwq2LoW3CfTTiegak0kW6l2GNCSShhjgiNObmQDdmRLYRypE/oXdccXsG97+H6JwbueD5jLA98rM8eByJq0xq+Sid1UiYGsSDUCp3FTOoM+WxWJyUSh/uwGdiGmk6yJ8fFPnMZ/C2hBh5JYPgCg2g/sOMBE95r3d+f4g1U0THQjVDPmQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -475,11 +112,11 @@ CS 중심의 커리큘럼인 만큼 학교 전공 수업에서 접해본 개념�
 그러나 직접 구현하는 것은 또 다른 문제였다. 더 높은 차원의 이해를 요구했으며, 구현하면서 더 직관적이고 자세하게 개념을 이해할 수 있었다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 550px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 550px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 45.33333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsSAAALEgHS3X78AAACoElEQVQozy2Qa0hTYQCGTwT9DvpTUH+CiqI8ZgqGFNk0c9FMXV5T0BrOkhxdzArn3czWDZuZaRohFUIgRlo2L2WlpSxtzk3XxeNlJYXXgii+p1P044EXXnheeKUOwDY/x+AXNxM/FD5OexjwOmib+Sra1e6ZSgv4jA5Ny54PC7zp+yQq79WInBvZFNbkUd1whz67wvD7WRxDU0hPf/3mjXeEsdn3OBQHA6NvUWY/qAMuYVuY/ydsU4W9bR65pK6QeHOY0GbLQnd+E5rjG9iWtpbEk9F0dbtwe2aQbN8XGJx00ON8RcOTu7zo76Ki0cL9zirhnPXyd3BAFV64fE6OzdegPe4vUvKjRPqVWJIMCWRkZpB+YT+Zlwy4h+eQ2qYmeNr9iNLqPHRpwaQW7EWXK5NfbxKuMSePvWM4VWFOcYacVKJFl6gVuQVmYbwah7EwFWNpMsll4UTmB/Cw9TlSi2uAWw8qMZTpiT0TQmLZDjSpWyisPSW6HS9petdLtyp81NAuZ1kzOJyTIqKOhokooz/6FJm4yI3EJvihO+VPpiUNqVMZob3HhqkiiZiLgeiLgjiQq6W5q0nY+jpoGuqnUXnnw3fk9peviTgriwOHfIUpXObYPl8OHgokOm8b+4uDCDmyB8k92YNLGSTLmkaEOYDInCCKak7T1dsp7ONObFPjWBru+cCCfPm2wopddSLcGCZi8vzQl6gU+aI3+xJfsJ4N0WYkk3WM1rctnLCmYLDsw1RqIKs8HbunR9hH+3nscdKsOH2uWxvllZETSNsRSzResSy0mVVhVazRXWN1RDnLd99n8Y5vSNJWWJd4k9RzwRgtccSfCWdP9mZqW+uF+/MQHSN2htUPpaXV8uLQnywK/SUkDULaCf8I/s/fHCL4A8e732gkM/faAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 45.33333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsTAAALEwEAmpwYAAACpUlEQVQozy3R+0/NcRzH8a+ZP8BvbGbDvjaWnZZ+cEabdIoTKnJKOhsndJzUcIw26dSRZYlyr2Rh2GRY0WilOl3WyqETvse5qOx0ushlXVyHPk9f5ofXL+/t9Xhv77fkAJq+fEYZ8zH8bZC3430oowot4+9FCwjHtKABtEPKuPza+wlnT4CK21XiaEU29spcyqur6H42gL9/CsXzHqnp9zRPR98QnOxHCSq8DPQSmBzg9ZhHNH2e+IvSrILulmG54Eo+Kba1xGZrRFzRMqIOLiXCvBjDgfU0t7/A3zepgt++oowoOD3dVNffosPVRtmDEm42XRTeiWHR8OMHThU8V3JaTsrTobeGYcpPFJbSJHZYjGRkZpBVksqek0Y83nEV/DBKY9cjTl4tYGP6akz2DcTnazhy3SK8g27xODhAjwoes++TU4/riTPqybXlCsvZrZgLdmA+YWR7USzx9jDuPW5Aqve94npNJebiJJKP6DAWR6JLW46t0iq63J2i1tVFhwq23++RD53PJCPPxOZ968RmczgGk4atCSEkp4QRdzicvcVpSK3BPlqdDg6Wp2E4vQJD4Sq2qXeqa6sRzT0OUau4qAu4tfxEbulwsik3nNR0jdiv12BNCGXnrhUk5keovZVEZ8Ui+Ua68Q95yCnPIt4WrhZWYr98iHanQ7iCinjyLsiFuhotfJdLr/UxN6aa6PQNwpC3nMTCMBKPh7LFFkrKsSWEGHKQLKVDNLgaOVy2k92n4rEWmbGe2cUzf6foDfSKev8rHva7tTcr78rzE/qRImBW1AcxW9fIvJgqFm0sY0HcJeasu8PM1R+RJHX3wuQbmAojMZ9KZltOLPpsDRWPqoRvzCscvufqU6a1klQsz4yaYkb0LySdENIa+JfI/4ni75w/cJTehS1SD6MAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -563,11 +200,11 @@ CS 중심의 커리큘럼인 만큼 학교 전공 수업에서 접해본 개념�
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 460px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 460px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAXAQEAAwAAAAAAAAAAAAAAAAADAAEC/9oADAMBAAIQAxAAAAG+dJNbNFnHIR5Gh//EABsQAQEAAgMBAAAAAAAAAAAAAAECABEDEiEi/9oACAEBAAEFAmwyvB5Jc3t7/IbIBi/cmtH/xAAZEQEAAgMAAAAAAAAAAAAAAAABAAIQITH/2gAIAQMBAT8BaJg2y/Z//8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEQESH/2gAIAQIBAT8Btmwj/8QAHxAAAQMEAwEAAAAAAAAAAAAAAAECERIhQZExMnHR/9oACAEBAAY/AlS8jXYg+FT0bo4bT4dW6FlJuRhMEH//xAAcEAEAAgMBAQEAAAAAAAAAAAABABEhMUFRYaH/2gAIAQEAAT8hBanTGIvCbRSvUbHh/UzJdpTAg5uwOHRbmTjQI1T9n//aAAwDAQACAAMAAAAQP+dC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAwEBPxATUknqNw8v/8QAGhEBAAEFAAAAAAAAAAAAAAAAADEBEVHw8f/aAAgBAgEBPxDBK+uKoP/EAB8QAQADAAEEAwAAAAAAAAAAAAEAESExQVGBsXGRof/aAAgBAQABPxBOqKvluYfFfs4kki6td17RQphQUFXftYLux7g++I1bC0PHPMKB0oBafMJFqKb0zOkz2vUGgi7UHqV9z//Z&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAIBAwT/xAAXAQEAAwAAAAAAAAAAAAAAAAADAAEC/9oADAMBAAIQAxAAAAGojJrTes45iPY0H//EABwQAAICAgMAAAAAAAAAAAAAAAECABESIgMTMf/aAAgBAQABBQIuAH1nYplzPVfFAwcXOM0P/8QAGREAAwADAAAAAAAAAAAAAAAAAAECECEx/9oACAEDAQE/AXDWJ2yun//EABYRAAMAAAAAAAAAAAAAAAAAAAERIP/aAAgBAgEBPwFmP//EAB4QAAIBBAMBAAAAAAAAAAAAAAABIQIRQZESMnHB/9oACAEBAAY/AmsiqxYk5VqnQoVvDqtEpOcnwsf/xAAbEAEBAQEBAQEBAAAAAAAAAAABEQAxQSFxgf/aAAgBAQABPyH6bPTkV+BM9ZJyO+1Qp/etgvMwWv1gz0TVnrWHBzJNy7//2gAMAwEAAgADAAAAEB/vQ//EABcRAAMBAAAAAAAAAAAAAAAAAAABIRH/2gAIAQMBAT8QW6xqlOkuf//EABoRAAICAwAAAAAAAAAAAAAAAAABEVExkfD/2gAIAQIBAT8QoJddoYsH/8QAHxABAAICAgIDAAAAAAAAAAAAAQARITFBgVGhYXGR/9oACAEBAAE/EHQGFRq2xr6K9wBwqyxmhyh8RG9IwBN67Y2GqKpfaJpPgi9VKsWvgB53AYCBFvqHmbHQAfkR6WF54J//2Q==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -597,11 +234,11 @@ CS 중심의 커리큘럼인 만큼 학교 전공 수업에서 접해본 개념�
 일부러 기대를 죽였던 것 같다. 그렇게 일주일이 지난 목요일..&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 575px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 575px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 58.666666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAABzElEQVQoz62QS0tbURSFz09p6bAIWunAWnTSUSdCsaitA4sVFVqKP6GTFgfOCm0RwYEjixeNSax5GfOov0EcJJebm/fbJBNNlnsdvTFYakE88LHPXWeddc/eanR3G89dBoZ3DDy7Yohsb3W/h2+gNdf12Yh7BwPra3iwsgz1cs+Nd+EQ5iIH+BCPYCF6iE9/Ylg6iuFjPKqZPTzAfDQsnku4nwkHsSjeWbn7PhZB/9pPPF75CjW275XLcUwF/XgbCmBaeBPyy4XQlebHZNCH14F9Dff0TEidCPjwyreHcfH0r37Hwy+fodjaC48Lg8YmnmwJxiUDPftB41eXv7VNPJWMvo11PPrxDcptJrBrJuEVPMkEPOa/SN5CAl7LxG/bgsI9L1Wp1XB8cgI7nUa90UDt9BTlahXUWYvlMhrNJs47HZy12zj/D6rVaqFSqaBYLKJQKKBUKqEsIfV6HTUJrUooPVwdCb0N/UKaGcBAhjG8LX+6y2Koakibtm0jm80iLW3ncjldTdPUWiqVgmVZ2kO45zn13rPuC5syHxpIPp/Xpkwmo8NYqfOSozk/odfROCqnK90yD9kyK9t34Aho5qs5T47DmTe9jt7b8gUBcDZaC/u8UwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 58.666666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsTAAALEwEAmpwYAAABzElEQVQoz62QW0tbQRSF57/UggiCJvRBTX3wH4gUWy8IXnqhFPwVvqQtlYoUH/reamKiQmvMPWn/g4gt5n5yO7lgCFSzutd4TpoKeREHPtbs2TNr9t5q8mAfLmHc7+0yRnwerYwnbsEz18G/3OSRH0OftvBg8x3UdOAblqIhvErG8DwexetkHG9+JLD+M6n1ZSKG1VgEa5Ijq/EIXiSiWIrIG8mtxMJYkPdDH99j+IMbaj58oh9S5wRepC7LxWehEyyEg1qfBI8xGwpgTvaLkSBmgwE8lXgm8B3TkhvcfIuH7g2ox9LulJQ84vkCh/crRj03jAgOa89zh3fX0pszpxU7hUe+PQx+3sHAzjaU7/cv7At+zbml/eL+HKYuNAr3vJRRLOL07AxGqYTm5SXqjQaqtRrMel3URMU00Wq3cdXp4M/1tebK0t7YRjWbTZjyqCjGlUpFw7ghxjUxJm0x5OqIaT/svDasVqsol8ta61LZXZZtqlhNPp9HoVDQykqz2SxSqRQMw0A6nUYmk0Eul9Pau7fvlWRc3QrZEhO2KS9yb8OYpr2f8oyf0ZgxO+saclasir8QJglnSeVDjoOjYDcswL7LD1qt1n8t/wW8GjV8uKA7sgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
