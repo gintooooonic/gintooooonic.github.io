@@ -9,6 +9,10 @@ draft: false
 
 ![java-indonesia](java-indonesia.png)
 
+<p align="center" style="color: #888888; font-size: 12px;">
+  인도네시아의 자바 섬. 자바어를 사용한다고 한다.
+</p>
+
 ## 자바가 뭐야?
 
 ### 간단한 역사
