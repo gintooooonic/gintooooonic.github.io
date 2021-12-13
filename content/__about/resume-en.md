@@ -1,13 +1,21 @@
 ---
 title: 'about'
-date: 2019-1-27 16:21:13
+date: 2021-12-11 00:00:00
 lang: 'en'
 ---
 
-# Your name
-
 <div align="center">
-
-_Thank you for reading my resume. If you want to contact me, Please send me an email._
-
+  <img
+    class="profile_image"
+    src="https://github.com/gintooooonic.png"
+    alt="profile_image"
+    style="height: 200px; border-radius: 50%;"
+  />
+  <h1 style="margin-top: 10px; border: none;">@gintooooonic</h1>
+  <p>꾸준한 사람이 되고 싶습니다. 아직은 조금 어렵습니다.</p>
 </div>
+
+## Contacts
+
+- [github.com/gintooooonic](https://github.com/gintooooonic)
+- [gintooooonic@gmail.com](mailto:gintooooonic@gmail.com)
