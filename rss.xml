@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[개발일기]]></title><description><![CDATA[개발일기 블로그입니다.]]></description><link>https://gintooooonic.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 13 Dec 2021 08:08:18 GMT</lastBuildDate><item><title><![CDATA[2026년 12월 31일 목요일]]></title><description><![CDATA[오늘 뭐 했지 학생과 직장인으로서의 지난 20대를 회고 개발자로서 얼마나 성장했고 어떤 성공을 이루었는가 내일 뭐 할까 끊임없이 공부하고 노력하기 한 줄 일기 2021년에 작성해본 5년 뒤의 TIL]]></description><link>https://gintooooonic.github.io/TIL/draft/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/draft/</guid><pubDate>Thu, 31 Dec 2026 23:59:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[개발일기]]></title><description><![CDATA[개발일기 블로그입니다.]]></description><link>https://gintooooonic.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 14 Dec 2021 12:38:05 GMT</lastBuildDate><item><title><![CDATA[2026년 12월 31일 목요일]]></title><description><![CDATA[오늘 뭐 했지 학생과 직장인으로서의 지난 20대를 회고 개발자로서 얼마나 성장했고 어떤 성공을 이루었는가 내일 뭐 할까 끊임없이 공부하고 노력하기 한 줄 일기 2021년에 작성해본 5년 뒤의 TIL]]></description><link>https://gintooooonic.github.io/TIL/draft/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/draft/</guid><pubDate>Thu, 31 Dec 2026 23:59:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;학생과 직장인으로서의 지난 20대를 회고&lt;/li&gt;
 &lt;li&gt;개발자로서 얼마나 성장했고 어떤 성공을 이루었는가&lt;/li&gt;
@@ -8,7 +8,122 @@
 &lt;li&gt;끊임없이 공부하고 노력하기&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;한-줄-일기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%95%9C-%EC%A4%84-%EC%9D%BC%EA%B8%B0&quot; aria-label=&quot;한 줄 일기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;한 줄 일기&lt;/h2&gt;
-&lt;p&gt;2021년에 작성해본 5년 뒤의 TIL&lt;/p&gt;</content:encoded></item><item><title><![CDATA[자바, Hello World!]]></title><description><![CDATA[어떤 언어를 공부해도 첫 시작은  프로그램인 것 같다.
+&lt;p&gt;2021년에 작성해본 5년 뒤의 TIL&lt;/p&gt;</content:encoded></item><item><title><![CDATA[자바의 변수(Variable)]]></title><description><![CDATA[변수의 기본 타입  정수형 변수를 사용할때 나 보다는
+를 쓰는게 효율적이라는 말이 있어서 이유가 궁금했는데,
+JVM의 피연산자 스택이 피연산자를 4 Byte 단위로 저장한다고 한다.
+때문에 와 를 사용하면 4 Byte…]]></description><link>https://gintooooonic.github.io/Java/211214-java-variable/</link><guid isPermaLink="false">https://gintooooonic.github.io/Java/211214-java-variable/</guid><pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;변수의-기본-타입&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%B3%80%EC%88%98%EC%9D%98-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85&quot; aria-label=&quot;변수의 기본 타입 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;변수의 기본 타입&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 587px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 38.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAIAAAB2/0i6AAAACXBIWXMAAA7DAAAOwwHHb6hkAAABYElEQVQY00VQyWrDMBT0/59KWwh0CW0/oVC6HAKFEhpyKA1tY+JVtuVNUuRNXhPo1D70HcTTvJl5I2nO82n6epEtr3cPJ+7Lef4+F29X5uMpXczG/rJc3aj1bbiYAbSfzuRyrtZ31WrOPu61XsnYM63tJ4+8jFFGHZkE5nbjGt+liHDGxEx8y9l9WfqGGD/oc0ZLHiaUaKVq9jL3glA1Tdcf9lmhmo74lIZx2x+CMGJCRgkTWe4QjwvpekFWVE03cLHXjsejlFII0TRN27bo67p2XTcMw67rfN/nnEdR1PX9MAwgAJyYwDV0mFmWVRRFVVWA0JimCb1SanShnucxxuM45pyVY4GZpqmWZVmSJLqu4wSbMQaxYRiO4+CKzZRSWIAaBAFcIPsXA4IlluM+xYaGEAIN8iM8soAAGowQsB4Lef9iwwwz27bBw6vyPMcM+omEnZBhOnkB78bq+x7f9AtJB6/pah247wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;types&quot;
+        title=&quot;types&quot;
+        src=&quot;/static/5f98130d3dc97428810549c8fafd3b21/d72eb/types.png&quot;
+        srcset=&quot;/static/5f98130d3dc97428810549c8fafd3b21/5a46d/types.png 300w,
+/static/5f98130d3dc97428810549c8fafd3b21/d72eb/types.png 587w&quot;
+        sizes=&quot;(max-width: 587px) 100vw, 587px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;color: #888888; font-size: 12px;&quot;&gt;
+  https://zamezzz.tistory.com/110
+&lt;/p&gt;
+&lt;p&gt;정수형 변수를 사용할때 &lt;code class=&quot;language-text&quot;&gt;byte&lt;/code&gt;나 &lt;code class=&quot;language-text&quot;&gt;short&lt;/code&gt;보다는
+&lt;code class=&quot;language-text&quot;&gt;int&lt;/code&gt;를 쓰는게 효율적이라는 말이 있어서 이유가 궁금했는데,
+JVM의 피연산자 스택이 피연산자를 4 Byte 단위로 저장한다고 한다.
+때문에 &lt;code class=&quot;language-text&quot;&gt;byte&lt;/code&gt;와 &lt;code class=&quot;language-text&quot;&gt;short&lt;/code&gt;를 사용하면 4 Byte로 변환 작업이 발생한다고.&lt;/p&gt;
+&lt;h2 id=&quot;변수의-이름&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%B3%80%EC%88%98%EC%9D%98-%EC%9D%B4%EB%A6%84&quot; aria-label=&quot;변수의 이름 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;변수의 이름&lt;/h2&gt;
+&lt;p&gt;기본 규칙은 다음과 같다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;대소문자가 구분되며 길이 제한 없음&lt;/li&gt;
+&lt;li&gt;예약어 사용 불가&lt;/li&gt;
+&lt;li&gt;숫자로 시작할 수 없음&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;_&lt;/code&gt;와 &lt;code class=&quot;language-text&quot;&gt;$&lt;/code&gt; 외의 특수문자 사용 불가&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;코드의 가독성을 높이고 일관성을 줄 수 있는 네이밍 컨벤션 또한 존재한다.
+위 기본 규칙과 달리 문법적으로 강제되는 사항은 아니다.
+다양한 컨벤션이 존재하겠지만, Oracle에서 기술하고 있는 내용은 다음과 같다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Except for variables, all instance, class, and class constants are in mixed case with a lowercase first letter. Internal words start with capital letters. Variable names should not start with underscore _ or dollar sign $ characters, even though both are allowed.&lt;/p&gt;
+&lt;p&gt;Variable names should be short yet meaningful. The choice of a variable name should be mnemonic- that is, designed to indicate to the casual observer the intent of its use. One-character variable names should be avoided except for temporary “throwaway” variables. Common names for temporary variables are i, j, k, m, and n for integers; c, d, and e for characters.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;camelCase 사용하세요.&lt;/li&gt;
+&lt;li&gt;특수문자로 시작하지 마세요.&lt;/li&gt;
+&lt;li&gt;한 글자 이름처럼 무조건 짧기보다는 뜻을 연상시킬 수 있도록 의미 있는 이름을 사용하세요.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;그 밖의 네이밍 컨벤션에 대해서는 &lt;a href=&quot;https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html&quot;&gt;해당 링크&lt;/a&gt;를 참고.&lt;/p&gt;
+&lt;h2 id=&quot;wrapper-클래스&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#wrapper-%ED%81%B4%EB%9E%98%EC%8A%A4&quot; aria-label=&quot;wrapper 클래스 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Wrapper 클래스&lt;/h2&gt;
+&lt;p&gt;위에서 다룬 &lt;code class=&quot;language-text&quot;&gt;int&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;double&lt;/code&gt; 같은 Primitive 타입들을
+객체로서 취급해야하는 경우가 발생한다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;객체 파라미터가 요구되는 경우&lt;/li&gt;
+&lt;li&gt;Reference&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;자바에서는 각 기본 타입에 대한 Wrapper 클래스를 제공한다.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;center&quot;&gt;기본 타입&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Wrapper 클래스&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;byte&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Byte&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;short&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Short&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;int&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Integer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;long&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Long&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;float&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Float&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;double&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Double&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;char&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Character&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;boolean&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Boolean&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&quot;boxing과-unboxing&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#boxing%EA%B3%BC-unboxing&quot; aria-label=&quot;boxing과 unboxing permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Boxing과 Unboxing&lt;/h3&gt;
+&lt;p&gt;기본 타입에서 Wapper 클래스의 인스턴스를 생성하는 것을 Boxing,
+반대를 Unboxing이라고 한다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token class-name&quot;&gt;Integer&lt;/span&gt; num &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Integer&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;17&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;int&lt;/span&gt; n &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; num&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;intValue&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;JDK 1.5부터는 직접 Boxing과 Unboxing을 하지 않아도
+컴파일러가 자동으로 처리한다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token class-name&quot;&gt;Character&lt;/span&gt; ch &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;X&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;char&lt;/span&gt; c &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; ch&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&quot;reference&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#reference&quot; aria-label=&quot;reference permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reference&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html&quot;&gt;Code Conventions for the Java Programming Language: 9. Naming Conventions - Oracle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://tcpschool.com/java/java_api_wrapper&quot;&gt;Wrapper 클래스 - TCP School&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[자바, Hello World!]]></title><description><![CDATA[어떤 언어를 공부해도 첫 시작은  프로그램인 것 같다.
  파일을 생성해 다음 코드를 붙여 넣고 저장하자. JDK…]]></description><link>https://gintooooonic.github.io/Java/211213-java-setup/</link><guid isPermaLink="false">https://gintooooonic.github.io/Java/211213-java-setup/</guid><pubDate>Mon, 13 Dec 2021 00:00:01 GMT</pubDate><content:encoded>&lt;p&gt;어떤 언어를 공부해도 첫 시작은 &lt;code class=&quot;language-text&quot;&gt;Hello World&lt;/code&gt; 프로그램인 것 같다.
 &lt;code class=&quot;language-text&quot;&gt;Hello.java&lt;/code&gt; 파일을 생성해 다음 코드를 붙여 넣고 저장하자.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Hello&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
