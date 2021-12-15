@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[개발일기]]></title><description><![CDATA[개발일기 블로그입니다.]]></description><link>https://gintooooonic.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 14 Dec 2021 12:38:05 GMT</lastBuildDate><item><title><![CDATA[2026년 12월 31일 목요일]]></title><description><![CDATA[오늘 뭐 했지 학생과 직장인으로서의 지난 20대를 회고 개발자로서 얼마나 성장했고 어떤 성공을 이루었는가 내일 뭐 할까 끊임없이 공부하고 노력하기 한 줄 일기 2021년에 작성해본 5년 뒤의 TIL]]></description><link>https://gintooooonic.github.io/TIL/draft/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/draft/</guid><pubDate>Thu, 31 Dec 2026 23:59:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[개발일기]]></title><description><![CDATA[개발일기 블로그입니다.]]></description><link>https://gintooooonic.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 15 Dec 2021 11:40:46 GMT</lastBuildDate><item><title><![CDATA[2026년 12월 31일 목요일]]></title><description><![CDATA[오늘 뭐 했지 학생과 직장인으로서의 지난 20대를 회고 개발자로서 얼마나 성장했고 어떤 성공을 이루었는가 내일 뭐 할까 끊임없이 공부하고 노력하기 한 줄 일기 2021년에 작성해본 5년 뒤의 TIL]]></description><link>https://gintooooonic.github.io/TIL/draft/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/draft/</guid><pubDate>Thu, 31 Dec 2026 23:59:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;학생과 직장인으로서의 지난 20대를 회고&lt;/li&gt;
 &lt;li&gt;개발자로서 얼마나 성장했고 어떤 성공을 이루었는가&lt;/li&gt;
@@ -8,7 +8,84 @@
 &lt;li&gt;끊임없이 공부하고 노력하기&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;한-줄-일기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%95%9C-%EC%A4%84-%EC%9D%BC%EA%B8%B0&quot; aria-label=&quot;한 줄 일기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;한 줄 일기&lt;/h2&gt;
-&lt;p&gt;2021년에 작성해본 5년 뒤의 TIL&lt;/p&gt;</content:encoded></item><item><title><![CDATA[자바의 변수(Variable)]]></title><description><![CDATA[변수의 기본 타입  정수형 변수를 사용할때 나 보다는
+&lt;p&gt;2021년에 작성해본 5년 뒤의 TIL&lt;/p&gt;</content:encoded></item><item><title><![CDATA[자바의 바이트코드(Bytecode)]]></title><description><![CDATA[명령어를 통해 바이트코드를 직접 확인할 수 있다. 위 코드를 컴파일하여 가 생성되면, 를 열어보면 다음과 같은 결과를 확인할 수 있다. 증감 연산자를 Prefix로 쓸 때와 Postfix…]]></description><link>https://gintooooonic.github.io/Java/211215-java-operator/</link><guid isPermaLink="false">https://gintooooonic.github.io/Java/211215-java-operator/</guid><pubDate>Wed, 15 Dec 2021 00:00:01 GMT</pubDate><content:encoded>&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;javap&lt;/code&gt; 명령어를 통해 바이트코드를 직접 확인할 수 있다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Operator&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;func&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;int&lt;/span&gt; n&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; n&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; args&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;int&lt;/span&gt; a &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;token function&quot;&gt;func&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;a&lt;span class=&quot;token operator&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;token function&quot;&gt;func&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;++&lt;/span&gt;a&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;위 코드를 컴파일하여 &lt;code class=&quot;language-text&quot;&gt;Operator.class&lt;/code&gt;가 생성되면,&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;# a.txt에 저장&lt;/span&gt;
+javap -c Operator &lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt; a.txt&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;a.txt&lt;/code&gt;를 열어보면 다음과 같은 결과를 확인할 수 있다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Compiled from &quot;Operator.java&quot;
+public class Operator {
+  public Operator();
+    Code:
+       0: aload_0
+       1: invokespecial #1                  // Method java/lang/Object.&quot;&amp;lt;init&gt;&quot;:()V
+       4: return
+
+  static int func(int);
+    Code:
+       0: iload_0
+       1: ireturn
+
+  public static void main(java.lang.String[]);
+    Code:
+       0: bipush        10
+       2: istore_1
+       3: iload_1
+       4: iinc          1, 1
+       7: invokestatic  #2                  // Method func:(I)I
+      10: pop
+      11: iinc          1, 1
+      14: iload_1
+      15: invokestatic  #2                  // Method func:(I)I
+      18: pop
+      19: return
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;증감 연산자를 Prefix로 쓸 때와 Postfix로 쓸 때
+바이트코드에 어떤 차이가 있을지 궁금했는데,
+변수의 값을 증가시키는 것과 피연산자 스택에 로드하는 것의 순서 차이로 보인다.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;a++&lt;/code&gt;의 경우 &lt;code class=&quot;language-text&quot;&gt;iload_1&lt;/code&gt;하여 값을 미리 피연산자 스택에 올린 후에
+&lt;code class=&quot;language-text&quot;&gt;iinc&lt;/code&gt;로 &lt;code class=&quot;language-text&quot;&gt;a&lt;/code&gt;의 값을 증가시키고,
+&lt;code class=&quot;language-text&quot;&gt;++a&lt;/code&gt;의 경우 &lt;code class=&quot;language-text&quot;&gt;iinc&lt;/code&gt;를 먼저 실행하여
+증가된 &lt;code class=&quot;language-text&quot;&gt;a&lt;/code&gt;의 값을 &lt;code class=&quot;language-text&quot;&gt;iload_1&lt;/code&gt;로 로드하는 것을 알 수 있다.&lt;/p&gt;
+&lt;p&gt;각 바이트코드 명령어의 기능은 다음 페이지에서 명령어로 검색해보면 알 수 있다.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-6.html&quot;&gt;Chapter 6. The Java Virtual Machine Instruction Set - Oracle&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[자바의 연산자(Operator)]]></title><description><![CDATA[자바의 연산자. 위는 연산자의 우선순위를 표현하고 있지만
+우선순위를 암기할 필요는 없는 것 같다. Reference Operators - Oracle]]></description><link>https://gintooooonic.github.io/Java/211215-java-bytecode/</link><guid isPermaLink="false">https://gintooooonic.github.io/Java/211215-java-bytecode/</guid><pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 908px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 117.66666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAYCAYAAAD6S912AAAACXBIWXMAABYlAAAWJQFJUiTwAAACPUlEQVQ4y42VV4/CQAyE8/9/GU3iAUQn9N57lXz6fJooELjLg7WbxTuecVmC6/Vq2PP5dLvf73a5XOx8PluxWLRMJmOlUskKhYJbpVLx3x+Ph6/cZdU+2G63huVyOb/Q7XZtvV7bcrm04/Fom83G9vu9W7lctnw+b9ls1lqtlgc9HA5up9PJFouFBdPp1IbDoQONx2NbrVYOyB4H9vP53IExzvHnjIAJwE6nY9Vq1Xa7nd1uN6cO43a7bWEY2mw2s0aj4YyRRErwwwDBAIYtPkG/33d2HGA4wGo0GrmsyWTixh5fgqOKXMII1gnAZrPpMnAEENmSBkMYSzbr7/fMpZLbF8lcQhKRYYFkGMIKB6Kq6hh7LmtNSO71ek4fduRIkgGMp4FLf1kESP5gBoioSzISOWdVNb9ZJBlACkDVFAkAtQY5lGyZpH6VTP4ojH6QZIABBBgVtVrNfTnDD/+PbQMYqxyQDGsc2APMHmBk0bPxpn6RDEMiw0hy1IcA0BbxCseL9FEyk6K2Yc/Q02dh2I4CvFf03xwyYoPBwA1WFIr9u6yUVe5YvV732YUp+eSbvlTi01hCsvoRtsgnGpI/SfxXMkAC5RB2BCKXaWW/PF/IVKVpcNqCcQQ8rezE6JE3IjDPauw0chOSAUQuMuk5NTajp6fpXfanNESSmRA9DvEHVgx1Od6D7/3IngJGVSZfVFaPhP5TcMDYo4AOwJ9gzDOm31hRG0ATBxoaIGRqdvV0USQ9ZaSD6us7btz5AQEyElfZuhRiAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;operators&quot;
+        title=&quot;operators&quot;
+        src=&quot;/static/7860b324f941bf87b49993ac0e1b6910/a2b88/operators.png&quot;
+        srcset=&quot;/static/7860b324f941bf87b49993ac0e1b6910/5a46d/operators.png 300w,
+/static/7860b324f941bf87b49993ac0e1b6910/0a47e/operators.png 600w,
+/static/7860b324f941bf87b49993ac0e1b6910/a2b88/operators.png 908w&quot;
+        sizes=&quot;(max-width: 908px) 100vw, 908px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;자바의 연산자. 위는 연산자의 우선순위를 표현하고 있지만
+우선순위를 암기할 필요는 없는 것 같다.&lt;/p&gt;
+&lt;h2 id=&quot;reference&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#reference&quot; aria-label=&quot;reference permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reference&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html&quot;&gt;Operators - Oracle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[자바의 변수(Variable)]]></title><description><![CDATA[변수의 기본 타입  정수형 변수를 사용할때 나 보다는
 를 쓰는게 효율적이라는 말이 있어서 이유가 궁금했는데,
 JVM의 피연산자 스택이 피연산자를 4 Byte 단위로 저장한다고 한다.
 때문에 와 를 사용하면 4 Byte…]]></description><link>https://gintooooonic.github.io/Java/211214-java-variable/</link><guid isPermaLink="false">https://gintooooonic.github.io/Java/211214-java-variable/</guid><pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;변수의-기본-타입&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%B3%80%EC%88%98%EC%9D%98-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85&quot; aria-label=&quot;변수의 기본 타입 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;변수의 기본 타입&lt;/h2&gt;
