@@ -9,14 +9,15 @@ draft: false
 
 ```java
 public class Operator {
-    static int func(int n) {
-        return n;
-    }
-    public static void main(String[] args) {
-        int a = 10;
-        func(a++);
-        func(++a);
-    }
+  static int func(int n) {
+    return n;
+  }
+
+  public static void main(String[] args) {
+    int a = 10;
+    func(a++);
+    func(++a);
+  }
 }
 ```
 

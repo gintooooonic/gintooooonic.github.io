@@ -14,14 +14,14 @@ draft: false
 import java.util.Scanner;
 
 public class Playground {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    int n = sc.nextInt();
 
-        if (n == 0) System.out.println("zero");
-        else if (n == 1) System.out.println("one");
-        else System.out.println("idk");
-    }
+    if (n == 0) System.out.println("zero");
+    else if (n == 1) System.out.println("one");
+    else System.out.println("idk");
+  }
 }
 ```
 
@@ -33,21 +33,21 @@ public class Playground {
 import java.util.Scanner;
 
 public class Playground {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    int n = sc.nextInt();
 
-        switch (n) {
-            case 0:
-                System.out.println("zero");
-                break;
-            case 1:
-                System.out.println("one");
-                break;
-            default:
-                System.out.println("idk");
-        }
+    switch (n) {
+      case 0:
+        System.out.println("zero");
+        break;
+      case 1:
+        System.out.println("one");
+        break;
+      default:
+        System.out.println("idk");
     }
+  }
 }
 ```
 

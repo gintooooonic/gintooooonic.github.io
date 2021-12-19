@@ -15,17 +15,17 @@ draft: false
 ```java
 // 1단 다섯 번만에 계산이 힘들다며 구구단을 종료하는 프로그램
 public class NestedLoop {
-    public static void main(String[] args) {
-        outer: for (int i = 1; i <= 9; ++i) {
-            for (int j = 1; j <= 9; ++j) {
-                System.out.println(i + " * " + j + " is " + (i * j));
-                if (j >= 5) {
-                    System.out.println("It's tough... Good bye");
-                    break outer;
-                }
-            }
+  public static void main(String[] args) {
+    outer: for (int i = 1; i <= 9; ++i) {
+      for (int j = 1; j <= 9; ++j) {
+        System.out.println(i + " * " + j + " is " + (i * j));
+        if (j >= 5) {
+          System.out.println("It's tough... Good bye");
+          break outer;
         }
+      }
     }
+  }
 }
 ```
 
@@ -49,52 +49,52 @@ C++에서는 `int &n: arr`처럼 레퍼런스를 사용해
 
 ```java
 public class QuickSort {
-    public static void main(String[] args) {
-        int[] arr = {7, 3, 5, 4, 8, 0, 1, 9, 2, 6};
+  public static void main(String[] args) {
+    int[] arr = {7, 3, 5, 4, 8, 0, 1, 9, 2, 6};
 
-        System.out.println("[BEFORE]");
-        printArr(arr);
+    System.out.println("[BEFORE]");
+    printArr(arr);
 
-        System.out.println("[AFTER]");
-        sort(arr, 0, arr.length);
-        printArr(arr);
+    System.out.println("[AFTER]");
+    sort(arr, 0, arr.length);
+    printArr(arr);
+  }
+
+  static void sort(int[] arr, int from, int to) {
+    if (to - from <= 1)
+      return;
+
+    int pivot = from;
+    int less = to - 1;
+    int greater = from + 1;
+
+    while (greater <= less) {
+      // Find a number greater than pivot
+      while (greater < to && arr[greater] <= arr[pivot]) ++greater;
+      // Find a number less than pivot
+      while (less > from && arr[less] >= arr[pivot]) --less;
+
+      // Swap
+      if (less < greater) swap(arr, pivot, less);
+      else swap(arr, less, greater);
     }
 
-    static void sort(int[] arr, int from, int to) {
-        if (to - from <= 1)
-            return;
+    sort(arr, from, less);
+    sort(arr, less + 1, to);
+  }
 
-        int pivot = from;
-        int less = to - 1;
-        int greater = from + 1;
+  static void swap(int[] arr, int idx1, int idx2) {
+    int tmp = arr[idx1];
+    arr[idx1] = arr[idx2];
+    arr[idx2] = tmp;
+  }
 
-        while (greater <= less) {
-            // Find a number greater than pivot
-            while (greater < to && arr[greater] <= arr[pivot]) ++greater;
-            // Find a number less than pivot
-            while (less > from && arr[less] >= arr[pivot]) --less;
-
-            // Swap
-            if (less < greater) swap(arr, pivot, less);
-            else swap(arr, less, greater);
-        }
-
-        sort(arr, from, less);
-        sort(arr, less + 1, to);
-    }
-
-    static void swap(int[] arr, int idx1, int idx2) {
-        int tmp = arr[idx1];
-        arr[idx1] = arr[idx2];
-        arr[idx2] = tmp;
-    }
-
-    static void printArr(int[] arr) {
-        System.out.printf("Array [ ");
-        for (int i = 0; i < arr.length; ++i)
-            System.out.printf("%d ", arr[i]);
-        System.out.printf("]%n");
-    }
+  static void printArr(int[] arr) {
+    System.out.printf("Array [ ");
+    for (int i = 0; i < arr.length; ++i)
+      System.out.printf("%d ", arr[i]);
+    System.out.printf("]%n");
+  }
 }
 ```
 
