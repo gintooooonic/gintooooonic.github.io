@@ -1,5 +1,5 @@
 ---
-title: 자바, Hello World!
+title: Hello World! - Java
 date: '2021-12-13 00:00:01'
 category: Java
 draft: false
@@ -72,3 +72,7 @@ System.out.println("Hello World!");
 ```
 
 `System.out.println` 메서드를 통해 콘솔 출력이 가능하다.
+
+## Reference
+
+- 남궁성, Java의 정석 (3rd Edition), 도우출판

@@ -1,5 +1,5 @@
 ---
-title: 자바의 연산자(Operator)
+title: 연산자 - Java
 date: '2021-12-15 00:00:00'
 category: Java
 draft: false

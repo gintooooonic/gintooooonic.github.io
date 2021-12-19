@@ -1,5 +1,5 @@
 ---
-title: 자바의 바이트코드(Bytecode)
+title: Bytecode를 확인하는 방법 - Java
 date: '2021-12-15 00:00:01'
 category: Java
 draft: false

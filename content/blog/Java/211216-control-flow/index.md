@@ -1,5 +1,5 @@
 ---
-title: 자바의 제어문(Control flow)
+title: 제어문 - Java
 date: '2021-12-16 00:00:00'
 category: Java
 draft: false
@@ -107,4 +107,5 @@ Array [ 0 1 2 3 4 5 6 7 8 9 ]
 
 ## Reference
 
+- 남궁성, Java의 정석 (3rd Edition), 도우출판
 - [Java for loop by value or by reference - Stack Overflow](https://stackoverflow.com/questions/17969515/java-for-loop-by-value-or-by-reference)

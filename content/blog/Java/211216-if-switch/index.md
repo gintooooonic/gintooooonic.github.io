@@ -1,5 +1,5 @@
 ---
-title: 자바 if와 switch의 내부 동작?
+title: if와 switch는 같은 Bytecode를 생성할까? - Java
 date: '2021-12-16 00:00:01'
 category: Java
 draft: false

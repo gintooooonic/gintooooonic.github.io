@@ -1,5 +1,5 @@
 ---
-title: 자바의 변수(Variable)
+title: 변수 - Java
 date: '2021-12-14 00:00:00'
 category: Java
 draft: false
@@ -82,5 +82,6 @@ char c = ch;
 
 ## Reference
 
+- 남궁성, Java의 정석 (3rd Edition), 도우출판
 - [Code Conventions for the Java Programming Language: 9. Naming Conventions - Oracle](https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html)
 - [Wrapper 클래스 - TCP School](http://tcpschool.com/java/java_api_wrapper)

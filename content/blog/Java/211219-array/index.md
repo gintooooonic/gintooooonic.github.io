@@ -1,5 +1,5 @@
 ---
-title: 자바의 배열(Array)
+title: 배열 - Java
 date: '2021-12-19 00:00:00'
 category: Java
 draft: false
@@ -140,3 +140,7 @@ int[][] arr3 = {
 
 - 1차원 배열 안에 다른 1차원 배열들을 담는 것과 같음
 - 3차원, 4차원, ... n차원 배열 가능
+
+## Reference
+
+- 남궁성, Java의 정석 (3rd Edition), 도우출판
