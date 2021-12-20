@@ -1,5 +1,5 @@
 ---
-title: 객체지향 프로그래밍 하나, 객체란? - Java
+title: 객체지향 프로그래밍 하나, 객체란?
 date: '2021-12-20 00:00:00'
 category: Java
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: 변수 - Java
+title: 변수
 date: '2021-12-14 00:00:00'
 category: Java
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: 제어문 - Java
+title: 제어문
 date: '2021-12-16 00:00:00'
 category: Java
 draft: false

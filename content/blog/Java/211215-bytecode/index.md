@@ -1,5 +1,5 @@
 ---
-title: Bytecode를 확인하는 방법 - Java
+title: Bytecode를 확인하는 방법
 date: '2021-12-15 00:00:01'
 category: Java
 draft: false

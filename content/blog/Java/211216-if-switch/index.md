@@ -1,5 +1,5 @@
 ---
-title: if와 switch는 같은 Bytecode를 생성할까? - Java
+title: if와 switch는 같은 Bytecode를 생성할까?
 date: '2021-12-16 00:00:01'
 category: Java
 draft: false

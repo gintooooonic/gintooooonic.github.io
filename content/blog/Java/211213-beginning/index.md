@@ -1,5 +1,5 @@
 ---
-title: 자바를 시작하기 전에 - Java
+title: 자바를 시작하기 전에
 date: '2021-12-13 00:00:00'
 category: Java
 draft: false

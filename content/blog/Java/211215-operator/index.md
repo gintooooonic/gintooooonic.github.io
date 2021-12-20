@@ -1,5 +1,5 @@
 ---
-title: 연산자 - Java
+title: 연산자
 date: '2021-12-15 00:00:00'
 category: Java
 draft: false

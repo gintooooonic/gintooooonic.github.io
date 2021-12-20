@@ -1,5 +1,5 @@
 ---
-title: 배열 - Java
+title: 배열
 date: '2021-12-19 00:00:00'
 category: Java
 draft: false

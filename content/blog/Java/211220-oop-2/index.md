@@ -1,5 +1,5 @@
 ---
-title: 객체지향 프로그래밍 둘, 변수와 메서드 - Java
+title: 객체지향 프로그래밍 둘, 변수와 메서드
 date: '2021-12-20 00:00:01'
 category: Java
 draft: false
