@@ -1,6 +1,6 @@
 ---
 title: 유용한 패키지
-date: '2021-12-24 00:00:01'
+date: '2021-12-24 00:00:00'
 category: Java
 draft: false
 ---
