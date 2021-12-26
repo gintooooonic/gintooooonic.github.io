@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[개발일기]]></title><description><![CDATA[개발일기 블로그입니다.]]></description><link>https://gintooooonic.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 25 Dec 2021 06:20:42 GMT</lastBuildDate><item><title><![CDATA[2026년 12월 31일 목요일]]></title><description><![CDATA[오늘 뭐 했지 학생과 직장인으로서의 지난 20대를 회고 개발자로서 얼마나 성장했고 어떤 성공을 이루었는가 내일 뭐 할까 끊임없이 공부하고 노력하기 한 줄 일기 2021년에 작성해본 5년 뒤의 TIL]]></description><link>https://gintooooonic.github.io/TIL/draft/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/draft/</guid><pubDate>Thu, 31 Dec 2026 23:59:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[개발일기]]></title><description><![CDATA[개발일기 블로그입니다.]]></description><link>https://gintooooonic.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 26 Dec 2021 09:33:05 GMT</lastBuildDate><item><title><![CDATA[2026년 12월 31일 목요일]]></title><description><![CDATA[오늘 뭐 했지 학생과 직장인으로서의 지난 20대를 회고 개발자로서 얼마나 성장했고 어떤 성공을 이루었는가 내일 뭐 할까 끊임없이 공부하고 노력하기 한 줄 일기 2021년에 작성해본 5년 뒤의 TIL]]></description><link>https://gintooooonic.github.io/TIL/draft/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/draft/</guid><pubDate>Thu, 31 Dec 2026 23:59:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;학생과 직장인으로서의 지난 20대를 회고&lt;/li&gt;
 &lt;li&gt;개발자로서 얼마나 성장했고 어떤 성공을 이루었는가&lt;/li&gt;
@@ -8,7 +8,224 @@
 &lt;li&gt;끊임없이 공부하고 노력하기&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;한-줄-일기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%95%9C-%EC%A4%84-%EC%9D%BC%EA%B8%B0&quot; aria-label=&quot;한 줄 일기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;한 줄 일기&lt;/h2&gt;
-&lt;p&gt;2021년에 작성해본 5년 뒤의 TIL&lt;/p&gt;</content:encoded></item><item><title><![CDATA[유용한 패키지]]></title><description><![CDATA[달달 외우는 것보다는
+&lt;p&gt;2021년에 작성해본 5년 뒤의 TIL&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Spring 프레임워크 퀵 스타트]]></title><description><![CDATA[김영한님의 ‘스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술’
+인프런 강의를 들으며 공부하는 내용들을 간단히 정리한다. Spring…]]></description><link>https://gintooooonic.github.io/Spring/211226-setup/</link><guid isPermaLink="false">https://gintooooonic.github.io/Spring/211226-setup/</guid><pubDate>Sun, 26 Dec 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAIAAAA7N+mxAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAzElEQVQoz2P4TwFgQOb8+///778///79JUczXvAPp+Z/YLkPP15vvD7jystj/0FO+At0BZDx88/3X39+ABl//v1GM4IB2eB1V6csONd05cWxb78+HX24+dSTnUcebNx/b/W+u6uA3DNP9jz6cAtuE4qzgV499nDzjddnnn66++33F6CezTfmHHu05cLzg2ef7j32aOvySz0P3l+DqMRi89dfn/bcXXbn7UUg+/ffX0DuX5g6oBeefroH8QgZAUZEaAOtwhVV/zACnCKbARIgRDFqK6GCAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;spring&quot;
+        title=&quot;spring&quot;
+        src=&quot;/static/f11e41fcb46e962e898e8816ba02d5f5/c1b63/spring.png&quot;
+        srcset=&quot;/static/f11e41fcb46e962e898e8816ba02d5f5/5a46d/spring.png 300w,
+/static/f11e41fcb46e962e898e8816ba02d5f5/0a47e/spring.png 600w,
+/static/f11e41fcb46e962e898e8816ba02d5f5/c1b63/spring.png 1200w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;color: #888888; font-size: 12px;&quot;&gt;
+  https://spring.io/
+&lt;/p&gt;
+&lt;p&gt;김영한님의 &lt;a href=&quot;https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8&quot;&gt;‘스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술’&lt;/a&gt;
+인프런 강의를 들으며 공부하는 내용들을 간단히 정리한다.&lt;/p&gt;
+&lt;p&gt;Spring 프레임워크를 자세히 공부하기보다는,
+이후의 ‘스프링 기본편’ 강의를 듣기 전에
+간단히 프로젝트를 만들어보며 입문하는 것에
+목적이 있다.&lt;/p&gt;
+&lt;h2 id=&quot;개발-환경-세팅&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85&quot; aria-label=&quot;개발 환경 세팅 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;개발 환경 세팅&lt;/h2&gt;
+&lt;h3 id=&quot;1-ide-설치&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-ide-%EC%84%A4%EC%B9%98&quot; aria-label=&quot;1 ide 설치 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. IDE 설치&lt;/h3&gt;
+&lt;p&gt;일반적으로 IntelliJ와 Eclipse를 사용하는데,
+최근에는 IntelliJ를 많이 사용한다고 한다.
+편리한 기능이 굉장히 많다고..&lt;/p&gt;
+&lt;h3 id=&quot;2-jdk-설치&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-jdk-%EC%84%A4%EC%B9%98&quot; aria-label=&quot;2 jdk 설치 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. JDK 설치&lt;/h3&gt;
+&lt;p&gt;기존에는 JDK 8을 사용했지만,
+강의에서 권장하는 JDK 11을 설치했다.&lt;/p&gt;
+&lt;h2 id=&quot;프로젝트-생성&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1&quot; aria-label=&quot;프로젝트 생성 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;프로젝트 생성&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://start.spring.io/&quot;&gt;Spring Initializr&lt;/a&gt;를
+사용해서 빠르게 프로젝트를 생성할 수 있다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAABkElEQVQoz41T226DMAzl/39r79OkSbvSrhcSKBCuBUpCOLPdppr2MM3oEOQ4x/aJiXSqYCqDZVnA5haH7eETdVWTzyHYMAzQWqMfuruv73vEcSxIkgRVVSHqp4aCWvh1uYWtGKeByDxWv2JdV/FWdYVNvMXr/gl5nWIaZiEM4ITee0RFXkAlCuM4ifN8PuNymTE5IvUONz7yXdB2HVS5wyZ7hS4PsNZKQiZisEVFWWC32yHLMjk0z/M16F7x1Zqmwdv7G14Oj3j8esCHekZd19KmMUaqFELWrqPMvNG2rZCO4ygV88pVO4pxzskhOy+sCjifdVb8lsA8XEgU2inL8i5syBow0f5PW2/PbxNCfnHmPM9xPB5xOp0EgZhxuRFy7F+QlrktvsG27aCVFi2ZhGUIYF3/QygVcu8srmkKZLmWFsfhql2AtQ7/NWl5nCYZl2Hu7zPI5uW2r5kXGosA/2NUQkxAVPINE5khHU3Xo6L1a7/H52aDlLRUaYp4u0WiFDR9H2jdk9ZH+msMnS1/4Rsn31KFHhS6hgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;spring_initializr&quot;
+        title=&quot;spring_initializr&quot;
+        src=&quot;/static/ad3da6808d5884a71ab99037d14e14b7/c1b63/spring_initializr.png&quot;
+        srcset=&quot;/static/ad3da6808d5884a71ab99037d14e14b7/5a46d/spring_initializr.png 300w,
+/static/ad3da6808d5884a71ab99037d14e14b7/0a47e/spring_initializr.png 600w,
+/static/ad3da6808d5884a71ab99037d14e14b7/c1b63/spring_initializr.png 1200w,
+/static/ad3da6808d5884a71ab99037d14e14b7/d61c2/spring_initializr.png 1800w,
+/static/ad3da6808d5884a71ab99037d14e14b7/97a96/spring_initializr.png 2400w,
+/static/ad3da6808d5884a71ab99037d14e14b7/c50e3/spring_initializr.png 2442w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Project : Gradle과 Maven이 빌드와 의존성 관리 등을 담당하는 것 같다.
+Gradle을 사용하기로.&lt;/li&gt;
+&lt;li&gt;Language : Java&lt;/li&gt;
+&lt;li&gt;Spring Boot : Spring Boot의 버전을 선택한다.
+SNAPSHOT 버전을 제외한 최신 버전을 선택했다.&lt;/li&gt;
+&lt;li&gt;Project Metadata : 프로젝트의 그룹명과 이름 등을 설정한다.
+자바 버전은 11을 사용하도록 설정한다.&lt;/li&gt;
+&lt;li&gt;Dependencies : 의존성을 추가할 수 있다. Spring Web과
+Thymeleaf을 추가한다. Thymeleaf는 템플릿 엔진이라고 한다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;하단의 GENERATE를 통해 프로젝트를 다운로드하고 IntelliJ에서 Open한다.
+처음 프로젝트를 열면 잠시동안 의존성 라이브러리가 다운로드된다.&lt;/p&gt;
+&lt;h2 id=&quot;프로젝트-구조&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%A1%B0&quot; aria-label=&quot;프로젝트 구조 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;프로젝트 구조&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 676px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 113.33333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAXCAYAAAALHW+jAAAACXBIWXMAABYlAAAWJQFJUiTwAAACrElEQVQ4y52Uy27TQBSG/QYs2LFjjYQEEihpHM9MnPgae+zx+JIboS2iSKisYIGEWCDYIMRzIUCISrTq2/yccUMVLmprFr/Gc9Hnc878Z6wbB5/Re/0J7P0Jsg+n6L06gv54QjrFrRffMX57fKZ3x+ffE/q+8/II/M2Pdv3ms2+4tv8F1x9/heXLCkH9AIdlgN15g2b/KfaeHEI1C8SqJjWYFg1SfaZEn83NerKZh3TOkzX8rIY1EjbGroNFlUHnCWaNRhhOwLlNGkCQzMjZRpv59rr5NhwjazIR8IIJdnWMpkixXM0J6MF1OczeuKOs2GeIpx4O5QD7OsB8UaPIAoQeQxTwzrKGXICJEdTyIdVtDl2VyLWGzThs3l2WjBik9PE8vI2DwkVTZ0hDBzLmSM1exDvJcoSAcAm0XEGXJTzfR9+2MWQMZs+hv3aRteMI7DABN5wim68hywYyyyEmAXpDhna/g6wB1coAB0MH40xjsH6CdLFGNE3Rd2hvo4E5w/ilsn4dNlDmMNwlow8rSl+X4GMPQ+FSsUdb0ItlbU+Y60EphYZMnuQaaa6QEXjkBehT+p2ADtknmq0Rrx+hrus2su2ofk/9EmCf6hdJRT1ZQpIXlab+phpuQzoDY4JlBNJlBak0mbtCuIFeJdU/gNRmVDNTt6zQKCp6RfICXhifR9cNaDv0JNXIq1kbnQEKuuHtdDsBewQ00RX1rE1VlTVkYaIt/w9oTH1PL+E3K+SqQJhIxDJrS2F+1iXS1tj9HRuCXuCA0s4IaKJLaZxSC5rRGHvbPhcC2WgMnkTtLZvoDCDJVJu2kZkbyFUjtYQ7gbdcImqWyKgzJNUtTk2nqPaCDNylThn74V9m/yeQU4fcb/bA6xWSJKU0FaYyb+sYkYI4aS9HkT+v0oI/AUJfTIjkxPtBAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;project&quot;
+        title=&quot;project&quot;
+        src=&quot;/static/e8b72e2343eb86085b5ec3fb212a65ea/9bb7a/project.png&quot;
+        srcset=&quot;/static/e8b72e2343eb86085b5ec3fb212a65ea/5a46d/project.png 300w,
+/static/e8b72e2343eb86085b5ec3fb212a65ea/0a47e/project.png 600w,
+/static/e8b72e2343eb86085b5ec3fb212a65ea/9bb7a/project.png 676w&quot;
+        sizes=&quot;(max-width: 676px) 100vw, 676px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code class=&quot;language-text&quot;&gt;.idea&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;IntelliJ 설정 폴더&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code class=&quot;language-text&quot;&gt;gradle&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;gradle 관련 폴더&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code class=&quot;language-text&quot;&gt;src/main&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code class=&quot;language-text&quot;&gt;java&lt;/code&gt;와 &lt;code class=&quot;language-text&quot;&gt;resources&lt;/code&gt; 폴더가 존재하며, &lt;code class=&quot;language-text&quot;&gt;java&lt;/code&gt; 폴더에 패키지와 소스 코드들이 위치함.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code class=&quot;language-text&quot;&gt;src/test&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;테스트 코드&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code class=&quot;language-text&quot;&gt;build.gradle&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Gradle 관련 설정 파일. Spring Initializr에 의해 이미 작성되어 있음.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&quot;프로젝트-실행&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%A4%ED%96%89&quot; aria-label=&quot;프로젝트 실행 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;프로젝트 실행&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;/src/main/java/com.hello.startspring/StartSpringApplication&lt;/code&gt;에 위치한
+기본 메인 클래스를 실행한다.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8080&quot;&gt;localhost:8080&lt;/a&gt; 접속&lt;/li&gt;
+&lt;li&gt;Whitelabel Error Page가 출력되면 성공!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 39.666666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAABYlAAAWJQFJUiTwAAABE0lEQVQoz6VR2W6EMAzk//+Idx7hgRu6QlzipuUo5xKY4qhFq1VbVaqlUWzHGY8dAZ/G9h3rfUOaF0jSHGmW4/Wtwbox3BnDME3o3wf0w/grBFlWoKoqLMuCoihwHAeUc10XL7cbbNuGruvo+x77fmDbtiewy2dnY4HINE07SWRIkgTDMDgJEXqexxuIoohhGPAXE6iwaRq0bYtxHDko7roOdV2jLMuTbLz8L8RxjCzLeD6KIu4fxwGBnDRNkSTJdRGGIY/neebKpnN/y7JcoDzl6FzX9brnhDSaaZp8RBqf9uX7PoIgQFEUvEFVVVwVxXme8/PHkamQlJEiUkYPyPbz1x+X/fgRFJOa7yDgH0YEz/YB8bVhk2qdVyAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;whitelabel_error&quot;
+        title=&quot;whitelabel_error&quot;
+        src=&quot;/static/5ae244a258682a417dd2748a6d5c4580/c1b63/whitelabel_error.png&quot;
+        srcset=&quot;/static/5ae244a258682a417dd2748a6d5c4580/5a46d/whitelabel_error.png 300w,
+/static/5ae244a258682a417dd2748a6d5c4580/0a47e/whitelabel_error.png 600w,
+/static/5ae244a258682a417dd2748a6d5c4580/c1b63/whitelabel_error.png 1200w,
+/static/5ae244a258682a417dd2748a6d5c4580/cd138/whitelabel_error.png 1220w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;기타-설정&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B8%B0%ED%83%80-%EC%84%A4%EC%A0%95&quot; aria-label=&quot;기타 설정 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;기타 설정&lt;/h2&gt;
+&lt;h3 id=&quot;project-탭-패키지-표시-방식-변경&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#project-%ED%83%AD-%ED%8C%A8%ED%82%A4%EC%A7%80-%ED%91%9C%EC%8B%9C-%EB%B0%A9%EC%8B%9D-%EB%B3%80%EA%B2%BD&quot; aria-label=&quot;project 탭 패키지 표시 방식 변경 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Project 탭 패키지 표시 방식 변경&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 41.333333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAABYlAAAWJQFJUiTwAAABtklEQVQoz1WQSW8TQRCF588ghB0bx9nGs3TP9Ey7Pbu3gYCELIQi4MCFXBEXBDlF4h9/1DjOgcNTdb3qelWvvNe2JSw3XOU1U7VkFBomsWWWlkyilJfuM/7hL9ndI+mnR8b9Ay/Wv7ixPUVVUXVbVnVHbHICbfASa9hvG6p1R2ozdJaS5CkqS1AmYRFH1G3Lrt+z2e0k9riiRGnh64K2rem6mkx6gtDHK5cph75lK6I2UzibsBS4IzRJZsiLGlc1mGUhQ1fC5czKLwQfHtCH36Qf/+Df/uRi/wNv5QyHNx115chzjRUhmz9Do00qYi3r3R5jHX6kZWvFtXvH8v13msM99vYbWf+VqLvDC1VC3sod9reoxODHmkClhFosSG2AXZWUbScnyI/8sSb2dBKgVEgk78XimqvL8yfBQcQ0G5rNjrLpTvbcUWwhtbJdsxJuccqj1HDjB8wv50xnU87OJkwmA6Z4gUyL5KPKLK5/S9NtcGWNLarjRoPAILaUPJdNB8Rpxux8zujViPF4/B+8QBpSV1BvtmSnz5FYH+LRngzL3IpYuEBpyTV+GDO/uGQ0ehIc4jP+AcQgHn80t7dVAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;project_view&quot;
+        title=&quot;project_view&quot;
+        src=&quot;/static/9fe7a60d39a5883f8d18126a1f111150/c1b63/project_view.png&quot;
+        srcset=&quot;/static/9fe7a60d39a5883f8d18126a1f111150/5a46d/project_view.png 300w,
+/static/9fe7a60d39a5883f8d18126a1f111150/0a47e/project_view.png 600w,
+/static/9fe7a60d39a5883f8d18126a1f111150/c1b63/project_view.png 1200w,
+/static/9fe7a60d39a5883f8d18126a1f111150/b1ffc/project_view.png 1492w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;
+[Project 탭의 설정 아이콘] &gt; [Tree Appearance] &gt; [Compact Middle Packages] 설정을 통해
+패키지 구조를 다르게 띄울 수 있다. (패키지 이름을 나누지 않고 한번에 보여줄 것인지의 여부)&lt;/p&gt;
+&lt;h3 id=&quot;프로젝트-실행-방식-변경&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%A4%ED%96%89-%EB%B0%A9%EC%8B%9D-%EB%B3%80%EA%B2%BD&quot; aria-label=&quot;프로젝트 실행 방식 변경 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;프로젝트 실행 방식 변경&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 32%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAYAAADDl76dAAAACXBIWXMAABYlAAAWJQFJUiTwAAABAElEQVQY02WRy0rEQBBF8zGC4l4h736mO5k8SOIMOIiCW7d+hmTn916rOpngMItDJenm1L0kMs2MYX4DT+UnyKpH7mfI1288D19IpYXQFiUhzPosTBVIS3lDdP+yIPn8xcNxwd284PH0g9idkHUfeKrfaUGDqm5W4UW8wYKkEFdE0o04jGcUpkemOhR2QMqHaYw0S0Iq42rILRUjrQvvqvJhwY4yiJQf0VPlqj1C1xNKFgqNhLcTLGChdh7WU9rmsAqJVWQ2LIqLsJvOQVaYDrnuqIraK3AKlrBYk9g1bfieifVOnJe3lVuqrGgGobkWahJyvVyqPQnLebKU+f9T/gCwgdhZyavfuQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;run_settings&quot;
+        title=&quot;run_settings&quot;
+        src=&quot;/static/1960db73d0c746fb1fd3a7ba9da2be67/c1b63/run_settings.png&quot;
+        srcset=&quot;/static/1960db73d0c746fb1fd3a7ba9da2be67/5a46d/run_settings.png 300w,
+/static/1960db73d0c746fb1fd3a7ba9da2be67/0a47e/run_settings.png 600w,
+/static/1960db73d0c746fb1fd3a7ba9da2be67/c1b63/run_settings.png 1200w,
+/static/1960db73d0c746fb1fd3a7ba9da2be67/d61c2/run_settings.png 1800w,
+/static/1960db73d0c746fb1fd3a7ba9da2be67/912fc/run_settings.png 1934w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;프로젝트를 Gradle로 실행하는 것이 기본 설정인데,
+자바로 직접 실행하는 것보다 느리다고 한다.&lt;/p&gt;
+&lt;p&gt;[Preferences] &gt; [Build, Execution, Deployment] &gt; [Build Tools] &gt; [Gradle]
+에서 [Build and run using]과 [Run tests using] 항목을 IntelliJ IDEA로 설정한다.&lt;/p&gt;
+&lt;h2 id=&quot;reference&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#reference&quot; aria-label=&quot;reference permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reference&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8&quot;&gt;김영한, 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[유용한 패키지]]></title><description><![CDATA[달달 외우는 것보다는
 공식 문서
 를 찾아보면서 많이 사용해보자. java.lang 패키지  별도의 import 없어도 사용할 수 있는
 자바의 기본적인 클래스들을 포함한다.
