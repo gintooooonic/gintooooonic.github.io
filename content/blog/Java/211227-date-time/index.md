@@ -174,6 +174,10 @@ Instant 클래스는 날짜와 시간을 타임스탬프로 표현한다.
 
 ![duration_period](duration_period.png)
 
+<p align="center" style="color: #888888; font-size: 12px;">
+  https://o7planning.org/13723/java-period
+</p>
+
 날짜와 시간의 간격을 표현하는 클래스로 Period와
 Duration 클래스도 제공된다. Period는 날짜의 차이,
 Duration은 시간의 차이를 표현한다.
