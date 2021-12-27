@@ -1,5 +1,5 @@
 ---
-title: View 작성
+title: 뷰 작성 및 프로젝트 빌드해보기
 date: '2021-12-27 00:00:02'
 category: Spring
 draft: false
@@ -97,6 +97,24 @@ hello() 메서드가 문자열 `"hello"`를 반환함으로써
 
 컨트롤러에서 `addAttribute()`를 통해 추가했던 이름-값 속성이
 템플릿 엔진에 의해 적용되었음을 알 수 있다.
+
+## 프로젝트 빌드 및 실행
+
+프로젝트 최상위 경로에서 터미널을 실행해 다음 명령어를 입력한다.
+
+```bash
+# 빌드
+./gradlew build
+
+# 클린 빌드
+# ./gradle clean build
+
+# 빌드된 경로로 이동
+cd build/libs
+
+# 실행
+java -jar start-spring-0.0.1-SNAPSHOT.jar
+```
 
 ## Reference
 
