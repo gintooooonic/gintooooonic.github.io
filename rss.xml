@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[개발일기]]></title><description><![CDATA[개발일기 블로그입니다.]]></description><link>https://gintooooonic.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 27 Dec 2021 11:23:38 GMT</lastBuildDate><item><title><![CDATA[2026년 12월 31일 목요일]]></title><description><![CDATA[오늘 뭐 했지 학생과 직장인으로서의 지난 20대를 회고 개발자로서 얼마나 성장했고 어떤 성공을 이루었는가 내일 뭐 할까 끊임없이 공부하고 노력하기 한 줄 일기 2021년에 작성해본 5년 뒤의 TIL]]></description><link>https://gintooooonic.github.io/TIL/draft/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/draft/</guid><pubDate>Thu, 31 Dec 2026 23:59:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[개발일기]]></title><description><![CDATA[개발일기 블로그입니다.]]></description><link>https://gintooooonic.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 30 Dec 2021 10:02:07 GMT</lastBuildDate><item><title><![CDATA[2026년 12월 31일 목요일]]></title><description><![CDATA[오늘 뭐 했지 학생과 직장인으로서의 지난 20대를 회고 개발자로서 얼마나 성장했고 어떤 성공을 이루었는가 내일 뭐 할까 끊임없이 공부하고 노력하기 한 줄 일기 2021년에 작성해본 5년 뒤의 TIL]]></description><link>https://gintooooonic.github.io/TIL/draft/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/draft/</guid><pubDate>Thu, 31 Dec 2026 23:59:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;학생과 직장인으로서의 지난 20대를 회고&lt;/li&gt;
 &lt;li&gt;개발자로서 얼마나 성장했고 어떤 성공을 이루었는가&lt;/li&gt;
@@ -8,7 +8,255 @@
 &lt;li&gt;끊임없이 공부하고 노력하기&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;한-줄-일기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%95%9C-%EC%A4%84-%EC%9D%BC%EA%B8%B0&quot; aria-label=&quot;한 줄 일기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;한 줄 일기&lt;/h2&gt;
-&lt;p&gt;2021년에 작성해본 5년 뒤의 TIL&lt;/p&gt;</content:encoded></item><item><title><![CDATA[뷰 작성 및 프로젝트 빌드해보기]]></title><description><![CDATA[Welcome 페이지 추가하기  경로에
+&lt;p&gt;2021년에 작성해본 5년 뒤의 TIL&lt;/p&gt;</content:encoded></item><item><title><![CDATA[컬렉션 프레임워크 (1)]]></title><description><![CDATA[자료구조 다수의 데이터, 즉 컬렉션을 다루는 여러 가지 클래스를 제공 인터페이스와 다형성을 이용한 객체지향적 설계로 인해 재사용성이 높은 코드 작성 가능  인터페이스와  인터페이스로
+나눌 수 있다.   Collection,
+Set,
+List,
+Map…]]></description><link>https://gintooooonic.github.io/Java/211228-collections-1/</link><guid isPermaLink="false">https://gintooooonic.github.io/Java/211228-collections-1/</guid><pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate><content:encoded>&lt;ul&gt;
+&lt;li&gt;자료구조&lt;/li&gt;
+&lt;li&gt;다수의 데이터, 즉 컬렉션을 다루는 여러 가지 클래스를 제공&lt;/li&gt;
+&lt;li&gt;인터페이스와 다형성을 이용한 객체지향적 설계로 인해 재사용성이 높은 코드 작성 가능&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;Collection&lt;/code&gt; 인터페이스와 &lt;code class=&quot;language-text&quot;&gt;Map&lt;/code&gt; 인터페이스로
+나눌 수 있다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 791px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 93.66666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAYAAACQjC21AAAACXBIWXMAAAsTAAALEwEAmpwYAAAEo0lEQVQ4y5VSe2xTZRQ/t926ShTjPxNEwkOCBAJqMo2bIGoAwyMmRFDBmE2iGMwMwYTA/jCICAFjBnFGzRgMcRsTNjYEpWu7ruvt67Z3fdz29t7ePm7frKPd1r2A8Pj87h2dJPqPX/LL+c655/zO+Z3vAvzH2bPrHRiJtMP97GW4k6cg5DfCxKAVUEELaNwg5yCEZGha9j2bZn79MO1t3tpwePuT0rcSjHKMZx7aOatWLFKcqf8YUOaU4lbWeDwnaq3j6d56dLdHhR70A933s0RGSISU170uFGW7QyLXah5wLiwOpcBQFu2aypVw/qJJnuBuzliRYLuqC8meSoSCcqzhRO0MoYEMbzU7Us22gRvNemNwBbxS8cKM1MUL587Iqftis2xvDxn35WParkJKV4dQQenqa4COzlaiSNjbaVhN6+kD7l73we5zV5bA1KARF1bMEG2pJGD5ypeJZUsXKdUqKKONZ2tc5PmTKe7Kjl0fvKbCacSm6iNwGitoi+M9TiIYE4fhTmpCrod7w+T0ZfpIsksxyjAew1BNL18ENGYr7rv0ueUV6t37vy/zjCOljb9bkgnnFIXMlELmQRNkeSGlt+VjPSfR0Fn1aFKvw/czkqThuLYT37vwveThqxImWgBb4OY3Jk8yQXqSAYrPXTd487OtwiT0e4dkmcqw+9IWs+aXKqloKmtaG2evvCpN67e3rrPqGt+eW/6ENLG6avVatTS1xsJXdOtdOzC2+RK31o4gpBpMCoSBuweg6zyKSdMYD2TJxf/rUUgyFyyYP/ufFfwbgcggNEq5uXBnOX5F57B47bgnjeY7+CHaHsjG7Wxm92Ra0zCSNERv58wbBcEDOF7j4G7G6GCeGohOLjlwrEllZjLXcDzhDOZb5ebHjh4GkelYz1qblkcRKu0biL2voyI1wcH7Swvxq1UxT8u7CH03S0iNwB9G39NN7Zo91838TnEMPe7GBE6hsAGv4FOSubFetLYATKR17w1FNX/hB7iARnWLixK6dZRsO21TzzMp9KbVf2MT6U1tbLygnSfFvRkEf37+OtDCsJzn4HPT6xlL9SwLuy/u8dtbqtHtgaderNyuOnTkhLR82PBGpdriy7RhspDRFXfjooiBjtVJhbs+qZ0lvXpQHFd+VPPZrJ8a20plwtGEFjj6EmbPzizYZ+Og/nDDo49Ssv/Qj+riz88NiLIdTU+BtqtvJu/3c5dlQoJ19JS0N1uBMfN7HQaPhaOi66P2rJqx8L/Z9S4Tawtto/sD4DcFl7hM/qs43uSzCj94zFxXwB7Z6ybZDtrIaLwk/xa4+vwguEQi4k0C7xA3+23CMdYWfok3JVSsPfQl9r8NUNE1QSqKG4bmYf8r1h6udfWzO3HzWp4SN/psQh1u8jVD8qsg6IyBnwpiCJgwCh5zAHABJOk8MFZe9gNURIopGDIIuBAsego8JHcQT3Y6wQzNwU0ATwhuUwCAo0RgMZlEiAsVuKAEyyBCljTgRKXXwiklH08NfkuY8Dk4BdMXKuOd4j6eFk/xjtiiuDuLGwVLsWQC/s/h7FHgyQQIZBo4rIZzRkCgsU/HCUmpdP4GTGVZ3Y9HNrIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;collection&quot;
+        title=&quot;collection&quot;
+        src=&quot;/static/744be6191b1f48fc21d16ad550efd314/cc8d6/collection.png&quot;
+        srcset=&quot;/static/744be6191b1f48fc21d16ad550efd314/5a46d/collection.png 300w,
+/static/744be6191b1f48fc21d16ad550efd314/0a47e/collection.png 600w,
+/static/744be6191b1f48fc21d16ad550efd314/cc8d6/collection.png 791w&quot;
+        sizes=&quot;(max-width: 791px) 100vw, 791px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;color: #888888; font-size: 12px;&quot;&gt;
+  https://en.wikipedia.org/wiki/Java_collections_framework
+&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 642px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 68.66666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD2ElEQVQ4y0VSbUxbZRQ+t8N1ZYwZNZvCmDEmW0gwI1vmR4xT//gLJZrN/TAKBF3UuIRgYjTqTPxhhjO6hLnpAmQhc2yCImGZhdHeft2296PtbW9v70dvvzZKy2hpK5Ti2Pb63hLwJE/uOed93+ec55wLFj4HjnABXJEi2IU8VLIzsJQcAcV7bsu9vL21kiXb7i7YXr2ftzyMkAJO+wQxTkbAKRag58szYKqtA2w1GAbdgTJCkM7cIZJxlcgVV4hy1kH8Oz8FaHFq9/0CxS7Ep1E5a1++u0C+O6dMAkLIgAGiKBK9n31FGI1GnaYJ46kqYWYJgZrKgRJPQ2yuBLkHSH+0UbXmzdf2Pf36c6C3YdhRv3ObfqaDjyQgXUKQmF+F/c0t+n2iShhIrBxklUWWVfJuTi38eQchk/74mx+G6hmlMMxFS3ZOLXooMfdiZgWBV8qNuMOZIC0t+P3xclsgUQZHcG4LbFggWdlPS7nLFka75tNKfUN/OGv1zvAoHsKFvr1uC123B279TiulZzglB6HU6qdWNj5o89+6yCcrz2JSoMQFwyYhpy6CNr9WlWGlFT1lbGk9bOi7cA2C8QJsSBw1M9X7Qho13GQSzZy2vE+YQ9tDswi4WGWTD8YsPljDg+7oOFHb3n6srrGhaevuxxt0EqKz80PT+ydObjt6/D1j+xtHa/t+GQZ3eJ538LeRMziLnKFstyOUwZIz/0sePDdMDPRf2uzk77EZ6OrqAqfZu54rI/j+1I/rPp7hhVFy78gkdcgrLzazWrm+54qeF/Hmw0R1mQKl6niesfIuDKvo1g5RDg8IbuU8jlmBUr7OCKV6HI9SUwwXIIV3KJcMzkQFlPkHuBAuvOwBdI9e/zsUJgkKmzzI2ULmgFMcl7zxA2FGgQitnWZI3iF6oj0xOrNdZuNXBI9CSnS8Q3VHQY2Wa+p3mEw+8vxhLXC1XaYvHel4+6WdgIoIbrOLpoEzl/dODE43ZvxLW/1W8ZGgRd3T9/nZPZ4b/JMBq1yXkucgwiswq2ZhrZiryvvkg/a6f9LkqUzUPFaaJfujvqtNIDJRCDrlj0NuGQkeGYke7S2VS32kxz6HsMRTERTxxo+pvhRoQtKYUtIGEZPFVhGcvjjRaBHyA2Q4P0SKxd/GXYkDINEx4O3yE5j0iI4AKT0adml6/ErAHnkBf18O2uTHFC4JvpkIdLedBLS2vqCfvvt1l8Ql+/2U/LPkSw25b/KteFYxCNplvUsMCQI2CUR3bN23i8A7JHyugMzEQcLQjTb7wTXJQOfx7l1uM9tr+cve6532fTF4drjlP5lnjs1wxZrvAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;map&quot;
+        title=&quot;map&quot;
+        src=&quot;/static/8735a5e008e7f384c28f8ff7cf7f94d6/1bba8/map.png&quot;
+        srcset=&quot;/static/8735a5e008e7f384c28f8ff7cf7f94d6/5a46d/map.png 300w,
+/static/8735a5e008e7f384c28f8ff7cf7f94d6/0a47e/map.png 600w,
+/static/8735a5e008e7f384c28f8ff7cf7f94d6/1bba8/map.png 642w&quot;
+        sizes=&quot;(max-width: 642px) 100vw, 642px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;color: #888888; font-size: 12px;&quot;&gt;
+  https://en.wikipedia.org/wiki/Java_collections_framework
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html&quot;&gt;Collection&lt;/a&gt;,
+&lt;a href=&quot;https://docs.oracle.com/javase/8/docs/api/java/util/Set.html&quot;&gt;Set&lt;/a&gt;,
+&lt;a href=&quot;https://docs.oracle.com/javase/8/docs/api/java/util/List.html&quot;&gt;List&lt;/a&gt;,
+&lt;a href=&quot;https://docs.oracle.com/javase/8/docs/api/java/util/Map.html&quot;&gt;Map&lt;/a&gt; 등의 인터페이스에
+어떤 메서드가 정의되어 있는지 공식 문서를 참고해봐도 좋다.&lt;/p&gt;
+&lt;h2 id=&quot;arraylist와-linkedlist&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#arraylist%EC%99%80-linkedlist&quot; aria-label=&quot;arraylist와 linkedlist permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;ArrayList와 LinkedList&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 42%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAACxLAAAsSwGlPZapAAABGElEQVQoz1VSga7DIAjc/3/oS7aurYqg1rb3gHZbS3IKBg8OfeBi67oi5wwRQSkFzKy7eGx+rccZc1a/OojI79i52WPfd4gGuqE3QRifihdSeCNOA9I8IBrUpzC6bzmVI1prTmSkN0I+CbdFO8oBmQIkRy2Ujv0EK6roZYroldCXpl22r0LjelwlWwLnhCIZhUlJTv+MPxCFyS8qOcaIbduczAlt+ZXYFKu22i04cIvh8W6x5V7sw+OESavERNi7oBfCUrNLqnn2EfTKPg5JIziOGJ5/ej55kU9nX8m22HCX3tEK+yMYgbKrVNKHeIOUxKTu66LEonmEdSlfkqvK2wztG0zT5AXMUko+I3vFOYTbxYMMv1Gc9g9tfXFmY2QSkgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;arraylist_vs_linkedlist&quot;
+        title=&quot;arraylist_vs_linkedlist&quot;
+        src=&quot;/static/fb371f2977e8bad1e49c63e3615101a5/c1b63/arraylist_vs_linkedlist.png&quot;
+        srcset=&quot;/static/fb371f2977e8bad1e49c63e3615101a5/5a46d/arraylist_vs_linkedlist.png 300w,
+/static/fb371f2977e8bad1e49c63e3615101a5/0a47e/arraylist_vs_linkedlist.png 600w,
+/static/fb371f2977e8bad1e49c63e3615101a5/c1b63/arraylist_vs_linkedlist.png 1200w,
+/static/fb371f2977e8bad1e49c63e3615101a5/d61c2/arraylist_vs_linkedlist.png 1800w,
+/static/fb371f2977e8bad1e49c63e3615101a5/97a96/arraylist_vs_linkedlist.png 2400w,
+/static/fb371f2977e8bad1e49c63e3615101a5/9c507/arraylist_vs_linkedlist.png 2768w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;color: #888888; font-size: 12px;&quot;&gt;
+  https://www.faceprep.in/data-structures/linked-list-vs-array/
+&lt;/p&gt;
+&lt;h3 id=&quot;arraylist&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#arraylist&quot; aria-label=&quot;arraylist permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;ArrayList&lt;/h3&gt;
+&lt;p&gt;기존 Vector 클래스를 개선한 것이며,
+C++에서 자주 사용했던 &lt;code class=&quot;language-text&quot;&gt;vector&lt;/code&gt;를 생각해도 좋을 것 같다.
+내부 구현이 배열이니까.&lt;/p&gt;
+&lt;p&gt;배열로 구현되어 있다는 점이
+ArrayList의 특징 몇 가지를 시사하는데..&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;데이터가 순차적으로 저장됨&lt;/li&gt;
+&lt;li&gt;임의의 위치(인덱스)에 접근하는 연산이 빠름&lt;/li&gt;
+&lt;li&gt;끝 부분에 데이터를 추가/삭제하는 연산은 빠르지만,
+임의의 위치에 대한 추가/삭제는 느릴 수 있음&lt;/li&gt;
+&lt;li&gt;주어진 공간이 부족하면 더 큰 배열을 생성해 저장하는데,
+이때 데이터를 새 배열로 복사하는 비용이 소요&lt;/li&gt;
+&lt;li&gt;배열을 확장하는 비용을 줄이기 위해 메모리를 넉넉하게 잡으면,
+메모리가 낭비될 수 있음&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;linkedlist&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#linkedlist&quot; aria-label=&quot;linkedlist permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;LinkedList&lt;/h3&gt;
+&lt;p&gt;메모리에 불연속적으로 존재하는
+노드 형태의 데이터들이 서로 연결되어 있는 형태의 자료구조.&lt;/p&gt;
+&lt;p&gt;각 노드가 다음 순서의 노드를 참조하고 있는 구조를 단일 연결 리스트,
+이전 순서의 노드도 참조하고 있는 구조를 이중 연결 리스트라고 일컫는다.
+자바의 LinkedList 클래스는 이중 연결 리스트로 구현되어 있다.&lt;/p&gt;
+&lt;p&gt;추가적인 내용들까지 정리해보면..&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;데이터가 불연속적으로 저장됨&lt;/li&gt;
+&lt;li&gt;임의의 위치에 접근하는 연산이 오래 걸림&lt;/li&gt;
+&lt;li&gt;어떤 위치에서도 데이터를 추가/삭제하는 연산을 빠르게 수행&lt;/li&gt;
+&lt;li&gt;딱 필요한 만큼의 메모리를 사용&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;stack과-queue&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#stack%EA%B3%BC-queue&quot; aria-label=&quot;stack과 queue permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Stack과 Queue&lt;/h2&gt;
+&lt;h3 id=&quot;stack&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#stack&quot; aria-label=&quot;stack permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Stack&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;LIFO(Last In First Out) 구조의 자료구조&lt;/li&gt;
+&lt;li&gt;Stack 클래스 사용&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token class-name&quot;&gt;Stack&lt;/span&gt; s &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Stack&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+s&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;0&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+s&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;1&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+s&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;2&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;!&lt;/span&gt;s&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;empty&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;token class-name&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;out&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;s&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;pop&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;queue&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#queue&quot; aria-label=&quot;queue permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Queue&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;FIFO(First In First Out) 구조의 자료구조&lt;/li&gt;
+&lt;li&gt;Queue 인터페이스의 구현 클래스를 사용함&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token class-name&quot;&gt;Queue&lt;/span&gt; q &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;LinkedList&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+q&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;offer&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;0&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+q&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;offer&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;1&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+q&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;offer&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;2&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;!&lt;/span&gt;q&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;isEmpty&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;token class-name&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;out&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;q&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;poll&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&quot;iterator&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#iterator&quot; aria-label=&quot;iterator permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Iterator&lt;/h2&gt;
+&lt;p&gt;컬렉션의 데이터를 읽어오기 위한 표준화된 방법.
+Collection 인터페이스에 Iterator를 반환하기 위한
+&lt;code class=&quot;language-text&quot;&gt;iterator()&lt;/code&gt; 메서드가 정의되어 있다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token class-name&quot;&gt;Collection&lt;/span&gt; c &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;ArrayList&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token class-name&quot;&gt;Iterator&lt;/span&gt; it &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; c&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;iterator&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;it&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;hasNext&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;token class-name&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;out&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;it&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;next&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&quot;enumeration과-listiterator&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#enumeration%EA%B3%BC-listiterator&quot; aria-label=&quot;enumeration과 listiterator permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Enumeration과 ListIterator&lt;/h2&gt;
+&lt;p&gt;Enumeration은 Iterator의 구버전이므로,
+가능하면 Enumeration 대신 Iterator을 사용하자.&lt;/p&gt;
+&lt;p&gt;ListIterator는 Iterator에 양방향 조회 기능을 추가한 것으로서,
+List 인터페이스를 구현한 클래스에 한해 사용할 수 있다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token class-name&quot;&gt;ArrayList&lt;/span&gt; list &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;ArrayList&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+list&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;a&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+list&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;b&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+list&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;c&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+list&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;d&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token class-name&quot;&gt;ListIterator&lt;/span&gt; it &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; list&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;listIterator&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;it&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;hasNext&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;token class-name&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;out&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;it&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;next&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;it&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;hasPrevious&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;token class-name&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;out&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;it&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;previous&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&quot;arrays-클래스&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#arrays-%ED%81%B4%EB%9E%98%EC%8A%A4&quot; aria-label=&quot;arrays 클래스 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Arrays 클래스&lt;/h2&gt;
+&lt;p&gt;배열을 다루는데 유용한 메서드가 정의되어 있다.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;메서드&lt;/th&gt;
+&lt;th&gt;기능&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;copyOf()&lt;/td&gt;
+&lt;td&gt;배열 전체를 복사한 새로운 배열을 만들어 반환&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;copyOfRange()&lt;/td&gt;
+&lt;td&gt;배열 일부를 복사한 새로운 배열을 만들어 반환&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;fill()&lt;/td&gt;
+&lt;td&gt;배열을 지정된 값으로 채움&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;setAll()&lt;/td&gt;
+&lt;td&gt;배열을 채우는데 사용할 함수형 인터페이스를 받아 배열을 채움&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;sort()&lt;/td&gt;
+&lt;td&gt;배열을 정렬&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;binarySearch()&lt;/td&gt;
+&lt;td&gt;배열을 이분 탐색 (사전에 정렬 필요)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;equals()&lt;/td&gt;
+&lt;td&gt;배열의 모든 요소를 비교&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;toString()&lt;/td&gt;
+&lt;td&gt;배열을 문자열로 출력&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;deepToString()&lt;/td&gt;
+&lt;td&gt;다차원 배열도 문자열로 출력 가능&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;asList()&lt;/td&gt;
+&lt;td&gt;배열의 요소들을 List에 담아 반환&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;parallelXXX()&lt;/td&gt;
+&lt;td&gt;여러 쓰레드를 사용해 처리&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;spliterator()&lt;/td&gt;
+&lt;td&gt;여러 쓰레드로 처리할 수 있게 작업을 여러 개로 나누는 Spliterator를 반환&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;stream()&lt;/td&gt;
+&lt;td&gt;컬렉션을 스트림으로 반환&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&quot;comparable과-comparator&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#comparable%EA%B3%BC-comparator&quot; aria-label=&quot;comparable과 comparator permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Comparable과 Comparator&lt;/h2&gt;
+&lt;p&gt;기본 정렬 기준을 구현하는데 사용하는
+Comparable 인터페이스를 제공한다.
+Integer와 같은 클래스에 Comparable의
+&lt;code class=&quot;language-text&quot;&gt;compareTo()&lt;/code&gt; 메서드가 정의되어 있다.&lt;/p&gt;
+&lt;p&gt;기본 정렬 기준 외에 다른 정렬 기준을 사용하기 위한
+Comparator 인터페이스를 제공한다.
+예를 들면 배열을 오름차순이 아닌 내림차순으로 정렬하고자 할때 사용할 수 있다.&lt;/p&gt;
+&lt;h2 id=&quot;reference&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#reference&quot; aria-label=&quot;reference permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reference&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;남궁성, Java의 정석 (3rd Edition), 도우출판&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[뷰 작성 및 프로젝트 빌드해보기]]></title><description><![CDATA[Welcome 페이지 추가하기  경로에
  파일을 생성하고 다음 내용을 입력한다. 스프링 부트는  정적 페이지를 먼저 찾고,
 없으면  템플릿을 찾아 Welcome 페이지로 사용한다고
 공식 문서에서 언급하고 있다. localhost:808…]]></description><link>https://gintooooonic.github.io/Spring/211227-view-build/</link><guid isPermaLink="false">https://gintooooonic.github.io/Spring/211227-view-build/</guid><pubDate>Mon, 27 Dec 2021 00:00:02 GMT</pubDate><content:encoded>&lt;h2 id=&quot;welcome-페이지-추가하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#welcome-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0&quot; aria-label=&quot;welcome 페이지 추가하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Welcome 페이지 추가하기&lt;/h2&gt;
