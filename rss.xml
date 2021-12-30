@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[개발일기]]></title><description><![CDATA[개발일기 블로그입니다.]]></description><link>https://gintooooonic.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 30 Dec 2021 11:14:57 GMT</lastBuildDate><item><title><![CDATA[2026년 12월 31일 목요일]]></title><description><![CDATA[오늘 뭐 했지 학생과 직장인으로서의 지난 20대를 회고 개발자로서 얼마나 성장했고 어떤 성공을 이루었는가 내일 뭐 할까 끊임없이 공부하고 노력하기 한 줄 일기 2021년에 작성해본 5년 뒤의 TIL]]></description><link>https://gintooooonic.github.io/TIL/draft/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/draft/</guid><pubDate>Thu, 31 Dec 2026 23:59:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[개발일기]]></title><description><![CDATA[개발일기 블로그입니다.]]></description><link>https://gintooooonic.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 30 Dec 2021 22:06:35 GMT</lastBuildDate><item><title><![CDATA[2026년 12월 31일 목요일]]></title><description><![CDATA[오늘 뭐 했지 학생과 직장인으로서의 지난 20대를 회고 개발자로서 얼마나 성장했고 어떤 성공을 이루었는가 내일 뭐 할까 끊임없이 공부하고 노력하기 한 줄 일기 2021년에 작성해본 5년 뒤의 TIL]]></description><link>https://gintooooonic.github.io/TIL/draft/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/draft/</guid><pubDate>Thu, 31 Dec 2026 23:59:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;학생과 직장인으로서의 지난 20대를 회고&lt;/li&gt;
 &lt;li&gt;개발자로서 얼마나 성장했고 어떤 성공을 이루었는가&lt;/li&gt;
@@ -8,11 +8,64 @@
 &lt;li&gt;끊임없이 공부하고 노력하기&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;한-줄-일기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%95%9C-%EC%A4%84-%EC%9D%BC%EA%B8%B0&quot; aria-label=&quot;한 줄 일기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;한 줄 일기&lt;/h2&gt;
-&lt;p&gt;2021년에 작성해본 5년 뒤의 TIL&lt;/p&gt;</content:encoded></item><item><title><![CDATA[컬렉션 프레임워크 (1)]]></title><description><![CDATA[자료구조 다수의 데이터, 즉 컬렉션을 다루는 여러 가지 클래스를 제공 인터페이스와 다형성을 이용한 객체지향적 설계로 인해 재사용성이 높은 코드 작성 가능  인터페이스와  인터페이스로
+&lt;p&gt;2021년에 작성해본 5년 뒤의 TIL&lt;/p&gt;</content:encoded></item><item><title><![CDATA[컬렉션 프레임워크 (2)]]></title><description><![CDATA[HashSet Set 인터페이스를 구현한 것으로,
+Set…]]></description><link>https://gintooooonic.github.io/Java/211231-collection-2/</link><guid isPermaLink="false">https://gintooooonic.github.io/Java/211231-collection-2/</guid><pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;hashset&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#hashset&quot; aria-label=&quot;hashset permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;HashSet&lt;/h2&gt;
+&lt;p&gt;Set 인터페이스를 구현한 것으로,
+Set의 특징처럼 중복된 원소를 저장하지 않는다는 특징이 있다.
+또한 저장 순서를 유지하지 않는다.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;add()&lt;/code&gt;나 &lt;code class=&quot;language-text&quot;&gt;addAll()&lt;/code&gt;을 통해 원소를 추가할때
+중복된 원소가 있으면 &lt;code class=&quot;language-text&quot;&gt;false&lt;/code&gt;를 반환해 추가에 실패했음을 알린다.&lt;/p&gt;
+&lt;p&gt;중복을 방지하면서 저장 순서를 유지하고자 한다면
+LinkedHashSet을 사용한다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h4 id=&quot;중복-여부의-판별&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%A4%91%EB%B3%B5-%EC%97%AC%EB%B6%80%EC%9D%98-%ED%8C%90%EB%B3%84&quot; aria-label=&quot;중복 여부의 판별 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;중복 여부의 판별&lt;/h4&gt;
+&lt;p&gt;HashSet은 추가하려는 원소의 &lt;code class=&quot;language-text&quot;&gt;equals()&lt;/code&gt;와 &lt;code class=&quot;language-text&quot;&gt;hashCode()&lt;/code&gt;를 호출하여
+중복 여부를 판별한다. 만일 직접 정의한 클래스 타입의 원소를
+HashSet에 저장하고자 한다면, 해당 클래스에 &lt;code class=&quot;language-text&quot;&gt;equals()&lt;/code&gt;와
+&lt;code class=&quot;language-text&quot;&gt;hashCode()&lt;/code&gt;를 오버라이딩해야 의도한 결과를 얻을 수 있다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;treeset&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#treeset&quot; aria-label=&quot;treeset permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;TreeSet&lt;/h2&gt;
+&lt;p&gt;이진 검색 트리 형태로 원소를 저장하며,
+정확히는 레드-블랙 트리로 구현되어 있다.&lt;/p&gt;
+&lt;p&gt;역시 중복된 원소를 허용하지 않으며,
+저장 순서를 유지하지도 않는다.&lt;/p&gt;
+&lt;p&gt;트리에 원소를 추가하기 위해 비교 연산이 발생하므로,
+Comparable을 구현하거나 Comparator를 넘겨주어
+객체를 비교할 방법을 알려줘야 한다.&lt;/p&gt;
+&lt;p&gt;트리 구조를 유지하므로 원소의 추가 및 삭제에는 시간이 오래 걸리지만,
+검색과 정렬에 유리하다.&lt;/p&gt;
+&lt;h2 id=&quot;hashmap&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#hashmap&quot; aria-label=&quot;hashmap permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;HashMap&lt;/h2&gt;
+&lt;p&gt;Map 인터페이스의 구현 클래스 중 하나.&lt;/p&gt;
+&lt;p&gt;HashSet처럼 해싱을 사용하므로 검색에 뛰어난 성능을 보인다.&lt;/p&gt;
+&lt;p&gt;키와 값의 페어를 저장하며, 이는
+Entry라는 내부 클래스를 통해 구현된다.&lt;/p&gt;
+&lt;h2 id=&quot;treemap&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#treemap&quot; aria-label=&quot;treemap permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;TreeMap&lt;/h2&gt;
+&lt;p&gt;이진 검색 트리 형태로 키-값 페어를 저장한다.&lt;/p&gt;
+&lt;p&gt;검색과 정렬에 유리한데, 검색의 경우 대부분은 HashMap이 더 좋은 성능을 보인다.
+범위 검색과 정렬에 있어 HashMap보다 우위에 있다고 볼 수 있다.&lt;/p&gt;
+&lt;h2 id=&quot;properties&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#properties&quot; aria-label=&quot;properties permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Properties&lt;/h2&gt;
+&lt;p&gt;HashMap의 구버전인 HashTable을 상속하여 구현한 클래스.
+HashTable은 &lt;code class=&quot;language-text&quot;&gt;(Object, Object)&lt;/code&gt; 쌍을 저장하는데 비해
+Properties는 &lt;code class=&quot;language-text&quot;&gt;(String, String)&lt;/code&gt; 쌍을 저장하는
+보다 단순하된 컬렉션 클래스이다.&lt;/p&gt;
+&lt;p&gt;애플리케이션의 환경설정과 관련된 속성을 저장하는데 사용되며,
+파일에서 데이터를 읽고 쓸 수 있도록 편리한 기능을 제공한다.&lt;/p&gt;
+&lt;h2 id=&quot;collections-클래스&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#collections-%ED%81%B4%EB%9E%98%EC%8A%A4&quot; aria-label=&quot;collections 클래스 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Collections 클래스&lt;/h2&gt;
+&lt;p&gt;컬렉션과 관련된 유용한 메서드들을 제공한다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;synchronizedXXX() : 멀티 쓰레드 환경에서 동기화 처리가 필요한 경우 사용&lt;/li&gt;
+&lt;li&gt;unmodifiableXXX() : 데이터를 변경할 수 없도록 읽기 전용 컬렉션을 만들때 사용&lt;/li&gt;
+&lt;li&gt;singletonXXX() : 싱글톤 컬렉션을 만들때 사용&lt;/li&gt;
+&lt;li&gt;checkedXXX() : 한 종류의 객체만 저장하도록 제한하고 싶을때 사용&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;reference&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#reference&quot; aria-label=&quot;reference permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reference&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;남궁성, Java의 정석 (3rd Edition), 도우출판&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[컬렉션 프레임워크 (1)]]></title><description><![CDATA[자료구조 다수의 데이터, 즉 컬렉션을 다루는 여러 가지 클래스를 제공 인터페이스와 다형성을 이용한 객체지향적 설계로 인해 재사용성이 높은 코드 작성 가능  인터페이스와  인터페이스로
 나눌 수 있다.   Collection,
 Set,
 List,
-Map…]]></description><link>https://gintooooonic.github.io/Java/211230-collections-1/</link><guid isPermaLink="false">https://gintooooonic.github.io/Java/211230-collections-1/</guid><pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate><content:encoded>&lt;ul&gt;
+Map…]]></description><link>https://gintooooonic.github.io/Java/211230-collection-1/</link><guid isPermaLink="false">https://gintooooonic.github.io/Java/211230-collection-1/</guid><pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate><content:encoded>&lt;ul&gt;
 &lt;li&gt;자료구조&lt;/li&gt;
 &lt;li&gt;다수의 데이터, 즉 컬렉션을 다루는 여러 가지 클래스를 제공&lt;/li&gt;
 &lt;li&gt;인터페이스와 다형성을 이용한 객체지향적 설계로 인해 재사용성이 높은 코드 작성 가능&lt;/li&gt;
