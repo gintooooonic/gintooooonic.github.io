@@ -1,5 +1,5 @@
 ---
-title: 컬렉션 프레임워크 (1)
+title: 컬렉션 프레임워크 하나, List
 date: '2021-12-30 00:00:00'
 category: Java
 draft: false

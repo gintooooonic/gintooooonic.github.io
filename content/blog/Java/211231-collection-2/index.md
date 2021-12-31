@@ -1,5 +1,5 @@
 ---
-title: 컬렉션 프레임워크 (2)
+title: 컬렉션 프레임워크 둘, Set과 Map
 date: '2021-12-31 00:00:00'
 category: Java
 draft: false
