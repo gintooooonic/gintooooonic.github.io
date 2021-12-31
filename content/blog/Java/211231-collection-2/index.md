@@ -264,7 +264,7 @@ TreeSet과 TreeMap의 경우
 HashMap의 구버전인 HashTable을 상속하여 구현한 클래스.
 HashTable은 `(Object, Object)` 쌍을 저장하는데 비해
 Properties는 `(String, String)` 쌍을 저장하는
-보다 단순하된 컬렉션 클래스이다.
+보다 단순화된 컬렉션 클래스이다.
 
 애플리케이션의 환경설정과 관련된 속성을 저장하는데 사용되며,
 파일에서 데이터를 읽고 쓸 수 있도록 편리한 기능을 제공한다.
