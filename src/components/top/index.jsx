@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import { ThemeSwitch } from '../theme-switch'
 import { GitHubIcon } from '../social-share/github-icon'
 
 import './index.scss'
@@ -13,7 +14,10 @@ export const Top = ({ title, location, rootPath }) => {
           {title}
         </Link>
       )}
-      <GitHubIcon />
+      <div className="buttons">
+        <ThemeSwitch />
+        <GitHubIcon />
+      </div>
     </div>
   )
 }
