@@ -187,6 +187,112 @@ Stream<String> stream = Stream.concat(stream1, stream2);
 - 스트림의 요소에 대한 통계를 얻기 위해 `count()`, `sum()`, `average()`, `max()`, `min()`을 사용한다.
 - 스트림의 요소를 줄여나가며 연산하는 리듀싱 연산을 위해 `reduce()`를 사용한다.
 
+## 컬렉터
+
+`collect()`는 스트림의 요소를 수집하는
+최종 연산이다. 컬렉터를 구현하여 요소를 수집할 방법을 정의하고
+이를 `collect()`에 넘겨 사용할 수 있다.
+
+컬렉터는 `Collectors`에서 제공하는 컬렉터들을 사용할 수도 있고
+필요한 경우 직접 `Collector` 인터페이스를 구현해 사용할 수도 있다.
+
+예를 들어 스트림의 모든 요소를
+List 컬렉션에 수집하는 코드는 다음과 같다.
+
+```java
+List<String> names = stuStream
+  .map(Student::getName)
+  .collect(Collectors.toList());
+```
+
+### Collectors 클래스
+
+다양한 컬렉터들을 제공한다.
+
+- 스트림을 컬렉션과 배열로 변환하기 위해
+  `toList()`, `toSet()`, `toMap()`, `toCollection()`, `toArray()`를 사용한다.
+- 통계 정보를 얻기 위해
+  `counting()`, `summingInt()`, `averagingInt()`, `maxBy()`, `minBy()`를 사용한다.
+- 리듀싱 연산을 위해 `reducing()`을 사용한다.
+- 문자열 결합을 위해 `joining()`을 사용한다.
+- 스트림의 요소를 특정 기준으로 그룹화하거나 분할하기 위해
+  `groupingBy()`, `partitioningBy()`를 사용한다.
+
+### 컬렉터 구현
+
+Collector 인터페이스를 구현해
+컬렉터를 직접 작성한다.
+다섯 개의 메서드를 작성해야 한다.
+
+- `supplier()` : 작업 결과를 저장할 공간을 제공하는 함수 반환
+- `accumulator()` : 스트림의 요소를 수집하는 함수를 반환
+- `combiner()` : 병렬 스트림인 경우 여러 쓰레드의 결과를 합치기 위한 함수 반환
+- `finisher()` : 최종 결과값으로 변환하는 함수를 반환
+- `characteristics()` : 작업의 속성에 대한 정보를 제공
+
+특히 상위 4개의 메서드를 구현하는 것이 중요하다.
+String 배열의 모든 문자열들을 하나로 합치는 코드는 다음과 같다.
+
+```java
+String[] arr = { "abc", "def", "ghi" };
+StringBuilder sb = new StringBuilder(); // 작업 결과를 저장할 공간 (supplier)
+
+for (String tmp : arr)
+  sb.append(tmp); // 요소를 수집 (accumulator)
+
+String result = sb.toString(); // 최종 결과 String으로 변환 (finisher)
+```
+
+같은 동작을 수행하는 컬렉터를 다음과 같이 구현할 수 있다.
+
+```java
+import java.util.Collections;
+import java.util.Set;
+import java.util.function.BiConsumer;
+import java.util.function.BinaryOperator;
+import java.util.function.Function;
+import java.util.function.Supplier;
+import java.util.stream.Collector;
+import java.util.stream.Stream;
+
+public class Playground {
+  public static void main(String[] args) {
+    String[] arr = { "abc", "def", "ghi" };
+    Stream<String> stream = Stream.of(arr);
+
+    String result = stream.collect(new ConcatCollector());
+    System.out.println(result);
+  }
+}
+
+class ConcatCollector implements Collector<String, StringBuilder, String> {
+  @Override
+  public Supplier<StringBuilder> supplier() {
+    return StringBuilder::new;
+  }
+
+  @Override
+  public BiConsumer<StringBuilder, String> accumulator() {
+    return StringBuilder::append;
+  }
+
+  @Override
+  public Function<StringBuilder, String> finisher() {
+    return StringBuilder::toString;
+  }
+
+  @Override
+  public BinaryOperator<StringBuilder> combiner() {
+    return StringBuilder::append;
+  }
+
+  @Override
+  public Set<Characteristics> characteristics() {
+    return Collections.emptySet();
+  }
+}
+```
+
 ## Reference
 
 - 남궁성, Java의 정석 (3rd Edition), 도우출판
