@@ -228,6 +228,203 @@ Deprecated.</li>
 <li><code class="language-text">yeild()</code>를 사용해 실행 중인 쓰레드의 남은 실행 시간을 다음 차례 쓰레드에게 양보한다.</li>
 <li><code class="language-text">join()</code>을 통해 실행중인 쓰레드의 작업을 멈추고 다른 쓰레드가 일정 시간동안 작업을 수행하도록 기다린다.</li>
 </ul>
+<h2 id="쓰레드-동기화" style="position:relative;"><a href="#%EC%93%B0%EB%A0%88%EB%93%9C-%EB%8F%99%EA%B8%B0%ED%99%94" aria-label="쓰레드 동기화 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>쓰레드 동기화</h2>
+<p><code class="language-text">synchronized</code> 키워드를 통해 쓰레드를 동기화할 수 있다.
+쓰레드의 동기화란 진행 중인 작업에 다른 쓰레드가 간섭하지 못하도록 막는 것이다.</p>
+<div class="gatsby-highlight" data-language="java"><pre class="language-java"><code class="language-java"><span class="token comment">// 메서드 전체를 임계 영역으로</span>
+<span class="token keyword">public</span> <span class="token keyword">synchronized</span> <span class="token keyword">void</span> <span class="token function">calc</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span> <span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">.</span> <span class="token punctuation">}</span>
+
+<span class="token comment">// 하나의 블럭을 임계 영역으로</span>
+<span class="token comment">// 객체의 참조</span>
+<span class="token keyword">synchronized</span><span class="token punctuation">(</span>obj<span class="token punctuation">)</span> <span class="token punctuation">{</span> <span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">.</span> <span class="token punctuation">}</span></code></pre></div>
+<h2 id="wait과-notify" style="position:relative;"><a href="#wait%EA%B3%BC-notify" aria-label="wait과 notify permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>wait()과 notify()</h2>
+<div class="gatsby-highlight" data-language="java"><pre class="language-java"><code class="language-java"><span class="token keyword">void</span> <span class="token function">wait</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+<span class="token keyword">void</span> <span class="token function">wait</span><span class="token punctuation">(</span><span class="token keyword">long</span> timeout<span class="token punctuation">)</span>
+<span class="token keyword">void</span> <span class="token function">wait</span><span class="token punctuation">(</span><span class="token keyword">long</span> timeout<span class="token punctuation">,</span> <span class="token keyword">int</span> nanos<span class="token punctuation">)</span>
+<span class="token keyword">void</span> <span class="token function">notify</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+<span class="token keyword">void</span> <span class="token function">notifyAll</span><span class="token punctuation">(</span><span class="token punctuation">)</span></code></pre></div>
+<p>동기화를 통해 특정 쓰레드가 락을 얻어
+다른 쓰레드의 간섭 없이 작업할 수 있도록 하였다.</p>
+<p>여기서 발생할 수 있는 문제는
+쓰레드가 락을 불필요하게 오래 갖게 되는 현상이다.
+쓰레드가 당장 작업할 수 있는 상태가 아니라면
+다른 쓰레드에게 락을 넘기는 것이 바람직하다.</p>
+<p>이런 동작을 위해 <code class="language-text">wait()</code>, <code class="language-text">nofity()</code>, <code class="language-text">nofityAll()</code>이 제공된다.</p>
+<ul>
+<li><code class="language-text">wait()</code>은 쓰레드 자신이 현재 작업이 불가능한 상태라고 판단할때 호출하여
+다른 쓰레드에게 락을 넘기고, 다시 작업이 가능해질때까지 기다린다.</li>
+<li><code class="language-text">notify()</code>는 기다리고 있는 쓰레드를 깨워 다시 락을 넘기는 일을 하며,
+하나의 특정 쓰레드에게 통지된다.</li>
+<li><code class="language-text">notifyAll()</code>은 <code class="language-text">notify()</code>와 기능은 같지만 기다리고 있는
+모든 쓰레드에게 통지한다는 차이가 있다.</li>
+</ul>
+<p><strong>예시: 베이커리 시뮬레이션</strong></p>
+<p>빵집을 예시로 들 수 있는데, 하나의 테이블에 요리사는 빵을 만들어서 놓고
+여러 명의 손님들이 원하는 빵을 가져가려고 기다리는 상황이다.</p>
+<p>우선 요리사가 빵을 놓는 도중에 손님이 빵을 가져가려 하거나,
+두 명의 손님이 동시에 빵을 가져가려하면 문제가 발생할 수 있기에
+빵의 추가/삭제는 동기화되어야 한다. 즉, 요리사든 손님이든
+한 번에 한 사람만 테이블에 접근할 수 있도록 조치한다.</p>
+<p>손님이 도넛을 원하는데 만약 도넛이 없다면,
+도넛이 만들어질 때까지 기다릴 것이다.
+기다린답시고 테이블에 대한 락을 계속 가지고 있으면
+요리사도 빵을 놓을 수 없고, 다른 손님들도
+빵을 가져갈 수 없다.</p>
+<p>이때 해당 손님은 <code class="language-text">wait()</code>을 호출하여 요리사나
+다른 손님들에게 락을 넘기고,
+빵이 만들어졌을때 <code class="language-text">notify()</code>로 통지를 받아
+빵을 가져가면 되는 것이다.</p>
+<p><strong>베이커리에서 발생한 문제점</strong></p>
+<p>한 가지 문제는 특정 대상을 찝어서
+<code class="language-text">notify()</code>하는 것이 불가능하다는 것이다.
+즉 통지의 대상이 요리사가 될지, 손님 A가 될지,
+손님 B가 될지 알 수 없다.
+테이블에 빵이 없다면 요리사가 통지를 받아
+빵을 만들도록 하는 것이 적절한데,
+정말 운이 나쁜 경우 요리사가 영영 통지를 받지 못하고
+텅 빈 테이블 앞에서 손님들끼리 notify를 날리며
+손만 쪽쪽 빨고 있는 상황이 발생할 수도 있다.</p>
+<p>이후의 Lock과 Condition을 사용해
+선별적 notify로 이 문제를 해결할 수 있다.</p>
+<h2 id="lock과-condition" style="position:relative;"><a href="#lock%EA%B3%BC-condition" aria-label="lock과 condition permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Lock과 Condition</h2>
+<p>synchronized 대신
+Lock과 Condition을 통해 동기화하는 방법이 있다.
+<code class="language-text">java.util.concurrent.locks</code> 패키지의 클래스들을 사용한다.</p>
+<ul>
+<li>ReentrantLock : 지금까지 공부했던 일반적인 락.</li>
+<li>ReentrantReadWriteLock : 읽기 락과 쓰기 락이 분리.
+읽는 도중에 다른 쓰레드가 같이 읽는 것은 OK. 하지만 읽는 도중에 쓰거나,
+쓰는 도중에 읽는 것은 허용되지 않는다.</li>
+<li>StampedLock : 읽기 락과 쓰기 락 외에 ‘낙관적 읽기 락’을 사용한다.</li>
+</ul>
+<h3 id="reentrantlock" style="position:relative;"><a href="#reentrantlock" aria-label="reentrantlock permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>ReentrantLock</h3>
+<p>ReentrantLock의 객체를 생성하고
+<code class="language-text">lock()</code>과 <code class="language-text">unlock()</code> 등의 메서드를 호출해
+락을 직접 잠그고 해제한다.
+synchronized가 잠금과 해제를 자동적으로 처리해주었던 것과는
+다른 모습이다.</p>
+<div class="gatsby-highlight" data-language="java"><pre class="language-java"><code class="language-java"><span class="token class-name">ReentrantLock</span> lock <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">ReentrantLock</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+lock<span class="token punctuation">.</span><span class="token function">lock</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token keyword">try</span> <span class="token punctuation">{</span>
+  <span class="token comment">// ...</span>
+<span class="token punctuation">}</span> <span class="token keyword">finally</span> <span class="token punctuation">{</span>
+  lock<span class="token punctuation">.</span><span class="token function">unlock</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span></code></pre></div>
+<p>잠근 락은 꼭 해제해주어야 하는데,
+예외가 발생하거나 return하는 경우에도 락을 해제할 수 있도록
+finally 블럭을 사용해 <code class="language-text">unlock()</code>을 호출하는게 일반적이다.</p>
+<p>락을 얻기 위한 메서드로 <code class="language-text">lock()</code> 대신 <code class="language-text">tryLock()</code>을 사용할 수도 있다.
+<code class="language-text">lock()</code>이 락을 얻을 때까지 블락되는 것과 달리,
+<code class="language-text">tryLock()</code>은 락을 얻으려고 기다리지 않는다.
+쓰레드의 응답성을 높이는데 도움이 된다.</p>
+<h4 id="condition" style="position:relative;"><a href="#condition" aria-label="condition permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Condition</h4>
+<p>Condition을 통해
+앞의 베이커리 예시에서 있었던
+<code class="language-text">wait()</code>과 <code class="language-text">notify()</code>의 문제를 해결할 수 있다.</p>
+<p>기존의 문제점은 요리사와 손님들이 같은 대기 풀에서
+기다린다는 점이었다.
+요리사가 손님들에게 밀려 락을 얻지 못하는 상황이 발생할 수 있었다.</p>
+<p>요리사를 위한 풀과 손님들을 위한 풀이 따로 있다면 문제는 해결된다.
+Condition을 통해 구현할 수 있다.</p>
+<div class="gatsby-highlight" data-language="java"><pre class="language-java"><code class="language-java"><span class="token class-name">ReentrantLock</span> lock <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">ReentrantLock</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+<span class="token class-name">Condition</span> forCook <span class="token operator">=</span> lock<span class="token punctuation">.</span><span class="token function">newCondition</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token class-name">Condition</span> forCust <span class="token operator">=</span> lock<span class="token punctuation">.</span><span class="token function">newCondition</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></code></pre></div>
+<p>ReentrantLock 객체의 <code class="language-text">newCondition()</code>을 통해
+요리사의 Condition과 손님들의 Condition을 따로 생성하였다.</p>
+<p>이제 <code class="language-text">wait()</code>과 <code class="language-text">notify()</code> 대신,
+같은 기능을 하는 Condition의 <code class="language-text">await()</code>와 <code class="language-text">signal()</code>을 사용하면 문제를 해결할 수 있다.</p>
+<h2 id="volatile" style="position:relative;"><a href="#volatile" aria-label="volatile permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>volatile</h2>
+<p>효율을 위해 CPU에서는 캐시를 운영하는데,
+멀티 코어 환경의 경우 코어마다 별도의 캐시를 가진다.</p>
+<p>멀티 쓰레드 환경에서 캐시의 미갱신으로 인해
+메모리와 캐시의 값 불일치 문제가 발생할 수 있다.
+예를 들면 변수의 값을 계속해서 쓰고 쓰레드 A와
+읽기만 하는 쓰레드 B, C가 있을 때,
+A는 쓰는 입장이므로 최신의 값을 유지하지만
+B와 C는 예전 값을 읽게 될 수도 있다.</p>
+<p>volatile 제어자로 변수를 선언하면
+캐시가 아닌 메모리에서 값을 읽도록 하여
+문제를 해결할 수 있다.</p>
+<p>또는 변수의 값을 읽을 때 synchronized 블럭을 사용해도
+해결할 수 있다. synchronized 블럭에 들어갈 때와 나올 때
+캐시와 메모리간 동기화가 이루어진다.</p>
+<p>또한 volatile 제어자로 <code class="language-text">long</code>이나 <code class="language-text">double</code> 변수를 선언하면
+이들의 읽기와 쓰기를 원자화할 수 있다.
+원래 JVM은 4바이트씩 읽고 쓰기 때문에 <code class="language-text">int</code>와 같은 타입들은
+한 번에 읽고 쓰는 것이 가능하다. 하지만 8바이트인
+<code class="language-text">long</code>과 <code class="language-text">double</code>은 그렇지 않으므로
+변수 값을 읽는 도중에 다른 쓰레드가 끼어들 수 있다.
+volatile로 읽기와 쓰기를 원자화하여 이 문제를 해결할 수 있다.</p>
+<h2 id="fork--join-프레임워크" style="position:relative;"><a href="#fork--join-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC" aria-label="fork  join 프레임워크 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>fork &#x26; join 프레임워크</h2>
+<p>멀티 쓰레드 프로그래밍의 다른 방법이다.
+하나의 작업을 여러 개로 쪼개 처리하는 코드를
+좀 더 쉽게 작성할 수 있다.</p>
+<p>추상 클래스인 RecursiveAction 또는
+RecursiveTask를 상속하여 구현한다.
+전자는 반환값이 없는 작업,
+후자는 반환값이 있는 작업을 구현할 때 사용한다.</p>
+<p>추상 메서드 <code class="language-text">compute()</code>를 구현해 작업을 작성해주면 된다.</p>
+<div class="gatsby-highlight" data-language="java"><pre class="language-java"><code class="language-java"><span class="token keyword">import</span> <span class="token namespace">java<span class="token punctuation">.</span>util<span class="token punctuation">.</span>concurrent<span class="token punctuation">.</span></span><span class="token class-name">ForkJoinPool</span><span class="token punctuation">;</span>
+<span class="token keyword">import</span> <span class="token namespace">java<span class="token punctuation">.</span>util<span class="token punctuation">.</span>concurrent<span class="token punctuation">.</span></span><span class="token class-name">RecursiveTask</span><span class="token punctuation">;</span>
+
+<span class="token keyword">public</span> <span class="token keyword">class</span> <span class="token class-name">Playground</span> <span class="token punctuation">{</span>
+  <span class="token keyword">static</span> <span class="token keyword">final</span> <span class="token class-name">ForkJoinPool</span> pool <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">ForkJoinPool</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+  <span class="token keyword">public</span> <span class="token keyword">static</span> <span class="token keyword">void</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token class-name">String</span><span class="token punctuation">[</span><span class="token punctuation">]</span> args<span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token class-name">SumTask</span> task <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">SumTask</span><span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">100</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token class-name">Long</span> result <span class="token operator">=</span> pool<span class="token punctuation">.</span><span class="token function">invoke</span><span class="token punctuation">(</span>task<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// invoke를 통해 실행</span>
+    <span class="token class-name">System</span><span class="token punctuation">.</span>out<span class="token punctuation">.</span><span class="token function">println</span><span class="token punctuation">(</span>result<span class="token punctuation">)</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+
+<span class="token keyword">class</span> <span class="token class-name">SumTask</span> <span class="token keyword">extends</span> <span class="token class-name">RecursiveTask</span><span class="token generics"><span class="token punctuation">&lt;</span><span class="token class-name">Long</span><span class="token punctuation">></span></span> <span class="token punctuation">{</span> <span class="token comment">// RecursiveTask 상속</span>
+  <span class="token keyword">long</span> from<span class="token punctuation">,</span> <span class="token keyword">to</span><span class="token punctuation">;</span>
+
+  <span class="token class-name">SumTask</span><span class="token punctuation">(</span><span class="token keyword">long</span> from<span class="token punctuation">,</span> <span class="token keyword">long</span> <span class="token keyword">to</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">this</span><span class="token punctuation">.</span>from <span class="token operator">=</span> from<span class="token punctuation">;</span>
+    <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token keyword">to</span> <span class="token operator">=</span> <span class="token keyword">to</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+
+  <span class="token keyword">public</span> <span class="token class-name">Long</span> <span class="token function">compute</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span> <span class="token comment">// compute()를 구현</span>
+    <span class="token keyword">long</span> size <span class="token operator">=</span> <span class="token keyword">to</span> <span class="token operator">-</span> from <span class="token operator">+</span> <span class="token number">1</span><span class="token punctuation">;</span>
+
+    <span class="token keyword">if</span> <span class="token punctuation">(</span>size <span class="token operator">&lt;=</span> <span class="token number">5</span><span class="token punctuation">)</span>
+      <span class="token keyword">return</span> <span class="token function">sum</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+    <span class="token keyword">long</span> half <span class="token operator">=</span> <span class="token punctuation">(</span>from <span class="token operator">+</span> <span class="token keyword">to</span><span class="token punctuation">)</span> <span class="token operator">/</span> <span class="token number">2</span><span class="token punctuation">;</span>
+
+    <span class="token class-name">SumTask</span> leftSum <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">SumTask</span><span class="token punctuation">(</span>from<span class="token punctuation">,</span> half<span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token class-name">SumTask</span> rightSum <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">SumTask</span><span class="token punctuation">(</span>half <span class="token operator">+</span> <span class="token number">1</span><span class="token punctuation">,</span> <span class="token keyword">to</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+    leftSum<span class="token punctuation">.</span><span class="token function">fork</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// 작업을 fork</span>
+
+    <span class="token keyword">return</span> rightSum<span class="token punctuation">.</span><span class="token function">compute</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">+</span> leftSum<span class="token punctuation">.</span><span class="token function">join</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// 작업을 join</span>
+  <span class="token punctuation">}</span>
+
+  <span class="token keyword">long</span> <span class="token function">sum</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">long</span> tmp <span class="token operator">=</span> <span class="token number">0L</span><span class="token punctuation">;</span>
+    <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">long</span> i <span class="token operator">=</span> from<span class="token punctuation">;</span> i <span class="token operator">&lt;=</span> <span class="token keyword">to</span><span class="token punctuation">;</span> <span class="token operator">++</span>i<span class="token punctuation">)</span>
+      tmp <span class="token operator">+=</span> i<span class="token punctuation">;</span>
+    <span class="token keyword">return</span> tmp<span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span></code></pre></div>
+<p><code class="language-text">rightSum</code>은 <code class="language-text">compute()</code>를 호출해
+재귀적으로 이분할하고
+<code class="language-text">leftSum</code>은 <code class="language-text">fork()</code>를 통해 작업 큐에 추가하고 있다.
+작업 큐에 추가된 작업들은 <code class="language-text">join()</code>을 통해 수행되어 결과를 반환한다.</p>
+<p><strong>ForkJoinPool</strong></p>
+<p>fork &#x26; join 프레임워크에서 제공하는 쓰레드 풀이다.</p>
+<p>쓰레드마다 본인의 작업 큐를 관리하는데,
+작업 큐가 비어 있는 쓰레드는 다른 쓰레드의 작업 큐에서
+작업을 가져와 수행한다. Work stealing이라고 부른다.</p>
+<p><strong>fork()와 join()</strong></p>
+<ul>
+<li><code class="language-text">fork()</code> : 해당 작업을 쓰레드 풀의 작업 큐에 넣는다.
+비동기 메서드라서 블락 없이 바로 다음 문장이 실행된다.</li>
+<li><code class="language-text">join()</code> : 해당 작업을 수행하여 결과를 반환한다.
+동기 메서드라서 작업의 수행이 끝날 때까지 기다린다.</li>
+</ul>
 <h2 id="reference" style="position:relative;"><a href="#reference" aria-label="reference permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Reference</h2>
 <ul>
 <li>남궁성, Java의 정석 (3rd Edition), 도우출판</li>
