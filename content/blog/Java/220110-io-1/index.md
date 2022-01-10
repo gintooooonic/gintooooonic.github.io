@@ -445,6 +445,50 @@ catch해주었다.
 여러 개의 입력 스트림을 이어
 하나의 스트림을 다루는 것처럼 만든다.
 
+```java
+import java.io.ByteArrayInputStream;
+import java.io.ByteArrayOutputStream;
+import java.io.IOException;
+import java.io.SequenceInputStream;
+import java.util.Arrays;
+import java.util.Vector;
+
+class Playground {
+  public static void main(String[] args) {
+    byte[][] src = {
+      { 0, 1, 2, 3 },
+      { 4, 5, 6, 7 },
+      { 8, 9, 10, 11 }
+    };
+
+    Vector<ByteArrayInputStream> v = new Vector<>();
+    for (byte[] bytes: src) {
+      ByteArrayInputStream in = new ByteArrayInputStream(bytes);
+      v.add(in);
+    }
+
+    SequenceInputStream seqin = new SequenceInputStream(v.elements());
+    ByteArrayOutputStream out = new ByteArrayOutputStream();
+
+    int data = 0;
+    try {
+      while ((data = seqin.read()) != -1) {
+        out.write(data);
+      }
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
+
+    System.out.println(Arrays.toString(out.toByteArray()));
+
+    // seqin.close() 해야 할까?
+  }
+}
+```
+
+SequenceInputStream을 사용한 후에
+`close()`를 해야 할까?
+
 ### PrintStream
 
 데이터를 기반 스트림에 다양한 형태로 출력한다.
@@ -452,6 +496,27 @@ catch해주었다.
 
 문자 기반 스트림의 역할을 수행한다.
 더 향상된 문자 기반 스트림인 PrintWriter를 사용하는 것이 좋다.
+
+```java
+import java.io.BufferedOutputStream;
+import java.io.FileDescriptor;
+import java.io.FileOutputStream;
+import java.io.PrintStream;
+
+class Playground {
+  public static void main(String[] args) {
+    FileOutputStream fdOut = new FileOutputStream(FileDescriptor.out);
+    BufferedOutputStream buffOut = new BufferedOutputStream(fdOut, 128);
+    PrintStream out = new PrintStream(buffOut, true);
+
+    out.println("hello world!");
+  }
+}
+```
+
+`java.lang.System`을 참고해
+표준 출력에 대한 PrintStream을 생성하여
+출력하는 코드를 작성하였다.
 
 ## Reference
 
