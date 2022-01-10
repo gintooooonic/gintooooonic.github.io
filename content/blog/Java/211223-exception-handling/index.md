@@ -180,6 +180,22 @@ try (FileInputStream fis = new FileInputStream("score.dat");
 - 객체가 `AutoCloseable` 인터페이스를 구현한 것이어야 한다.
 - 두 개 이상의 객체를 생성하는 경우 코드를 세미콜론으로 구분한다.
 
+try 블럭을 벗어날때 `close()`가 호출된다는 것은,
+try 블럭 안에서 예외가 발생해 catch로 넘어가는 시점에도
+`close()`가 호출된다는 것이다.
+
+자동으로 호출된 `close()`에서 예외가 발생하면
+기본적으로 catch가 되는데,
+이런 상황도 있을 수 있다.
+try 블럭 안에서 예외 A가 발생해서 catch로 넘어갈때
+자동으로 `close()`를 호출했는데, 이 `close()`에서도 예외가 발생한 것이다.
+
+이때는 `close()`하며 발생한 예외를 '억제'하여
+예외 A에 담아 던지게 된다.
+억제된 예외(Suppressed Exception)라는 개념에 대해서도 공부해보면 좋을 것 같다.
+
+[[java] Try-with-resource 문이란? 자동 자원반납. - Today I Learned. @cheers_hena 치얼스헤나](https://cheershennah.tistory.com/180)
+
 ## 사용자정의 예외 클래스
 
 ```java
