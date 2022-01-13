@@ -64,7 +64,7 @@ CharArrayReader & CharArrayWriter와 비슷한 포지션에 있지만
 `readLine()`이라는 메서드를 가지고 있어
 데이터를 줄 단위로 읽기에 편리하다.
 
-### InputStreamReader와 OutputStreamReader
+### InputStreamReader와 OutputStreamWriter
 
 바이트 기반 스트림을 문자 기반 스트림으로 연결시켜준다.
 
