@@ -116,6 +116,98 @@ ServerSocket과 Socket 클래스를 사용하며,
 접속하는 클라이언트의 수가 많을 때는
 멀티쓰레딩을 통해 병렬적으로 처리하는 것이 좋다.
 
+가장 간단한 형태의 HTTP 서버 프로그램을 작성하였다.
+
+```java
+import java.io.*;
+import java.net.ServerSocket;
+import java.net.Socket;
+import java.util.ArrayList;
+import java.util.Iterator;
+
+public class HttpServer {
+  public static final int PORT = 80;
+
+  public static void main(String[] args) {
+    ServerSocket serv = initServer();
+
+    while (true) {
+      Socket conn = newConnection(serv);
+      Thread th = new Thread(new Response(conn));
+      th.start();
+    }
+  }
+
+  private static ServerSocket initServer() {
+    ServerSocket serv = null;
+    try {
+      serv = new ServerSocket(PORT);
+      System.out.println("Server running on port " + PORT);
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
+
+    return serv;
+  }
+
+  private static Socket newConnection(ServerSocket serv) {
+    Socket conn = null;
+    try {
+      conn = serv.accept();
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
+
+    return conn;
+  }
+
+}
+
+class Response implements Runnable {
+  Socket sock;
+
+  Response(Socket sock) {
+    this.sock = sock;
+  }
+
+  @Override
+  public void run() {
+    // read index.html
+    String fileName = "index.html";
+    StringWriter sw = new StringWriter();
+    try (BufferedReader in = new BufferedReader(new FileReader(fileName))) {
+      String line = "";
+      while ((line = in.readLine()) != null) {
+        sw.write(line);
+      }
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
+
+    // generate response header & body
+    String body = sw.toString();
+    ArrayList<String> header = new ArrayList<>();
+    header.add("HTTP/1.1 200 OK");
+    header.add("Content-Length: " + body.length());
+    header.add("Content-Type: text/html");
+
+    // send response
+    try (BufferedWriter out = new BufferedWriter(new OutputStreamWriter(sock.getOutputStream()))) {
+      Iterator itr = header.iterator();
+      while (itr.hasNext()) {
+        out.write(itr.next() + "\n");
+      }
+      out.write("\n");
+      out.write(body);
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
+  }
+}
+```
+
+![httpserver](httpserver.png)
+
 ### UDP 소켓 프로그래밍
 
 DatagramSocket과 DatagramPacket 클래스를 사용한다.
