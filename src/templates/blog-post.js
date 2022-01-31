@@ -6,6 +6,7 @@ import { Layout } from '../layout'
 import { Head } from '../components/head'
 import { PostTitle } from '../components/post-title'
 import { PostDate } from '../components/post-date'
+import { TOC } from '../components/toc'
 import { PostContainer } from '../components/post-container'
 import { SocialShare } from '../components/social-share'
 import { SponsorButton } from '../components/sponsor-button'
@@ -35,6 +36,7 @@ export default ({ data, pageContext, location }) => {
       <Head title={postTitle} description={post.excerpt} />
       <PostTitle title={postTitle} />
       <PostDate date={date} />
+      <TOC toc={post.tableOfContents} />
       <PostContainer html={post.html} />
       <SocialShare title={postTitle} author={author} />
       {!!sponsor.buyMeACoffeeId && (
@@ -76,6 +78,7 @@ export const pageQuery = graphql`
       id
       excerpt(pruneLength: 280)
       html
+      tableOfContents
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
