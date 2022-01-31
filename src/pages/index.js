@@ -20,14 +20,22 @@ function getDistance(currentPos) {
   return Dom.getDocumentHeight() - currentPos
 }
 
+function getCategories(posts) {
+  const counts = {}
+  posts.forEach(({ node }) => {
+    const { category } = node.frontmatter
+    if (counts[category]) ++counts[category]
+    else counts[category] = 1
+  })
+
+  return Object.entries(counts).map(([title, count]) => ({ title, count }))
+}
+
 export default ({ data, location }) => {
   const { siteMetadata } = data.site
   const { countOfInitialPost } = siteMetadata.configs
   const posts = data.allMarkdownRemark.edges
-  const categories = useMemo(
-    () => _.uniq(posts.map(({ node }) => node.frontmatter.category)),
-    []
-  )
+  const categories = useMemo(getCategories.bind(null, posts), [])
   const [count, countRef, increaseCount] = useRenderedCount()
   const [category, selectCategory] = useCategory()
 

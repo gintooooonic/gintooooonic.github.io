@@ -1,6 +1,12 @@
 import React, { useRef, useCallback, useEffect } from 'react'
 
-export const Item = ({ title, selectedCategory, onClick, scrollToCenter }) => {
+export const Item = ({
+  title,
+  count,
+  selectedCategory,
+  onClick,
+  scrollToCenter,
+}) => {
   const tabRef = useRef(null)
 
   const handleClick = useCallback(() => {
@@ -21,7 +27,9 @@ export const Item = ({ title, selectedCategory, onClick, scrollToCenter }) => {
       role="tab"
       aria-selected={selectedCategory === title ? 'true' : 'false'}
     >
-      <div onClick={handleClick}>{title}</div>
+      <div onClick={handleClick}>
+        {title} ({count})
+      </div>
     </li>
   )
 }
