@@ -36,6 +36,10 @@ body.light {
     }
   }
 
+  .toc {
+    background-color: $light-toc-background-color;
+  }
+
   .thumbnail {
     h3 {
       color: $dark-gray;

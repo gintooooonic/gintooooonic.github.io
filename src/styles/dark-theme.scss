@@ -37,6 +37,10 @@ body.dark {
     }
   }
 
+  .toc {
+    background-color: $dark-toc-background-color;
+  }
+
   .thumbnail {
     h3 {
       color: $dark-light-font-color;
