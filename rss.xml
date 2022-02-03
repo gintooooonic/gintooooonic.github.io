@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[개발일기]]></title><description><![CDATA[개발일기 블로그입니다.]]></description><link>https://gintooooonic.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 31 Jan 2022 17:13:47 GMT</lastBuildDate><item><title><![CDATA[2026년 12월 31일 목요일]]></title><description><![CDATA[오늘 뭐 했지 학생과 직장인으로서의 지난 20대를 회고 개발자로서 얼마나 성장했고 어떤 성공을 이루었는가 내일 뭐 할까 끊임없이 공부하고 노력하기 한 줄 일기 2021년에 작성해본 5년 뒤의 TIL]]></description><link>https://gintooooonic.github.io/TIL/draft/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/draft/</guid><pubDate>Thu, 31 Dec 2026 23:59:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[개발일기]]></title><description><![CDATA[개발일기 블로그입니다.]]></description><link>https://gintooooonic.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 03 Feb 2022 09:33:46 GMT</lastBuildDate><item><title><![CDATA[2026년 12월 31일 목요일]]></title><description><![CDATA[오늘 뭐 했지 학생과 직장인으로서의 지난 20대를 회고 개발자로서 얼마나 성장했고 어떤 성공을 이루었는가 내일 뭐 할까 끊임없이 공부하고 노력하기 한 줄 일기 2021년에 작성해본 5년 뒤의 TIL]]></description><link>https://gintooooonic.github.io/TIL/draft/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/draft/</guid><pubDate>Thu, 31 Dec 2026 23:59:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;학생과 직장인으로서의 지난 20대를 회고&lt;/li&gt;
 &lt;li&gt;개발자로서 얼마나 성장했고 어떤 성공을 이루었는가&lt;/li&gt;
@@ -8,7 +8,178 @@
 &lt;li&gt;끊임없이 공부하고 노력하기&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;한-줄-일기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%95%9C-%EC%A4%84-%EC%9D%BC%EA%B8%B0&quot; aria-label=&quot;한 줄 일기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;한 줄 일기&lt;/h2&gt;
-&lt;p&gt;2021년에 작성해본 5년 뒤의 TIL&lt;/p&gt;</content:encoded></item><item><title><![CDATA[네트워킹]]></title><description><![CDATA[자바에서는  패키지를 통해
+&lt;p&gt;2021년에 작성해본 5년 뒤의 TIL&lt;/p&gt;</content:encoded></item><item><title><![CDATA[객체 지향과 Spring 프레임워크]]></title><description><![CDATA[1. Spring을 왜 사용할까 Spring이 등장한 배경 과거 EJB(Enterprise Java Beans)가 많이 사용되었음 (Java EE의 핵심 기술. 즉, 표준이었기 때문에) EJB…]]></description><link>https://gintooooonic.github.io/Spring/220203-oop-spring/</link><guid isPermaLink="false">https://gintooooonic.github.io/Spring/220203-oop-spring/</guid><pubDate>Thu, 03 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAIAAAA7N+mxAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAzElEQVQoz2P4TwFgQOb8+///778///79JUczXvAPp+Z/YLkPP15vvD7jystj/0FO+At0BZDx88/3X39+ABl//v1GM4IB2eB1V6csONd05cWxb78+HX24+dSTnUcebNx/b/W+u6uA3DNP9jz6cAtuE4qzgV499nDzjddnnn66++33F6CezTfmHHu05cLzg2ef7j32aOvySz0P3l+DqMRi89dfn/bcXXbn7UUg+/ffX0DuX5g6oBeefroH8QgZAUZEaAOtwhVV/zACnCKbARIgRDFqK6GCAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;spring&quot;
+        title=&quot;spring&quot;
+        src=&quot;/static/f11e41fcb46e962e898e8816ba02d5f5/c1b63/spring.png&quot;
+        srcset=&quot;/static/f11e41fcb46e962e898e8816ba02d5f5/5a46d/spring.png 300w,
+/static/f11e41fcb46e962e898e8816ba02d5f5/0a47e/spring.png 600w,
+/static/f11e41fcb46e962e898e8816ba02d5f5/c1b63/spring.png 1200w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;color: #888888; font-size: 12px;&quot;&gt;
+  https://spring.io/
+&lt;/p&gt;
+&lt;h2 id=&quot;1-spring을-왜-사용할까&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-spring%EC%9D%84-%EC%99%9C-%EC%82%AC%EC%9A%A9%ED%95%A0%EA%B9%8C&quot; aria-label=&quot;1 spring을 왜 사용할까 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. Spring을 왜 사용할까&lt;/h2&gt;
+&lt;h3 id=&quot;spring이-등장한-배경&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#spring%EC%9D%B4-%EB%93%B1%EC%9E%A5%ED%95%9C-%EB%B0%B0%EA%B2%BD&quot; aria-label=&quot;spring이 등장한 배경 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Spring이 등장한 배경&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;과거 EJB(Enterprise Java Beans)가 많이 사용되었음 (Java EE의 핵심 기술. 즉, 표준이었기 때문에)&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;EJB가 갖고 있던 문제점&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;굉장히 비쌈&lt;/li&gt;
+&lt;li&gt;실무에서 너무 복잡하고 느려서 불편함&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rod Johnson, “Expert One-on-One J2EE Design and Development”에서
+EJB를 지적하면서 훨씬 더 단순한 예제 코드를 수록하였음&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;EJB 없어도 충분히 훌륭한 어플리케이션 개발 가능&lt;/li&gt;
+&lt;li&gt;BeanFactory, ApplicationContext, POJO, IoC, DI 등
+현재 스프링의 핵심 기술들이 모두 들어있음&lt;/li&gt;
+&lt;li&gt;Juergen Hoeller, Yann Caroff와 함께 Spring 프레임워크로 발전시켜 2003년애 1.0 버전을 릴리즈&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;spring의-특장점---좋은-객체-지향-프로그래밍&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#spring%EC%9D%98-%ED%8A%B9%EC%9E%A5%EC%A0%90---%EC%A2%8B%EC%9D%80-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D&quot; aria-label=&quot;spring의 특장점   좋은 객체 지향 프로그래밍 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Spring의 특장점 - 좋은 객체 지향 프로그래밍&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Spring의 장점은 여러 가지가 있지만..&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Spring은 좋은 객체 지향 프로그래밍을 할 수 있도록 도와줌&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;객체 지향 언어인 Java의 특징을 적극적으로 활용&lt;/li&gt;
+&lt;li&gt;객체 지향의 원칙을 살리기 위한 기술들을 내포&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;잠깐-용어-정리&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9E%A0%EA%B9%90-%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC&quot; aria-label=&quot;잠깐 용어 정리 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;잠깐, 용어 정리!&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Spring이 뭔가요?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Spring 생태계 전반 (Spring Framework, Spring Boot 등)&lt;/li&gt;
+&lt;li&gt;Spring Framework&lt;/li&gt;
+&lt;li&gt;Spring의 DI 컨테이너 기술&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Spring Boot : 설정을 간편화하고 Tomcat 웹 서버를 내장하는 등
+Spring Framework를 더 편하게 사용할 수 있도록 지원&lt;/li&gt;
+&lt;li&gt;Spring Data, Spring Security와 같은 다양한 프로젝트에 대해서는
+&lt;a href=&quot;https://spring.io/projects&quot;&gt;Spring 공식 페이지&lt;/a&gt;를 참고&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;2-객체-지향-프로그래밍과-spring&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-spring&quot; aria-label=&quot;2 객체 지향 프로그래밍과 spring permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. 객체 지향 프로그래밍과 Spring&lt;/h2&gt;
+&lt;h3 id=&quot;객체-지향-프로그래밍의-특징&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%ED%8A%B9%EC%A7%95&quot; aria-label=&quot;객체 지향 프로그래밍의 특징 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;객체 지향 프로그래밍의 특징&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;추상화&lt;/li&gt;
+&lt;li&gt;캡슐화&lt;/li&gt;
+&lt;li&gt;상속&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;다형성&lt;/strong&gt; ⭐&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;다형성&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%8B%A4%ED%98%95%EC%84%B1&quot; aria-label=&quot;다형성 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;다형성&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In programming languages and type theory, polymorphism(다형성) is the provision of a single interface to entities of different types or the use of a single symbol to represent multiple different types. (Wikipedia)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;역할과 구현의 구분&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;자동차와 아반떼의 구분&lt;/li&gt;
+&lt;li&gt;배역과 배우의 구분&lt;/li&gt;
+&lt;li&gt;인터페이스와 구현 클래스의 구분&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;클라이언트 코드는 서버 코드의 구현에 대해서 알 필요 없이,
+역할에 대해서만 알고 있으면서 동작해야 함&lt;/li&gt;
+&lt;li&gt;유연하고 변경이 용이한 프로그램 (변경해야하는 코드가 적다! 컴퓨터 부품 갈아끼우듯이)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;객체-지향-프로그래밍의-다섯-가지-원칙&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EB%8B%A4%EC%84%AF-%EA%B0%80%EC%A7%80-%EC%9B%90%EC%B9%99&quot; aria-label=&quot;객체 지향 프로그래밍의 다섯 가지 원칙 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;객체 지향 프로그래밍의 다섯 가지 원칙&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;a.k.a. SOLID 원칙&lt;/li&gt;
+&lt;li&gt;by Robert Martin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;single-responsibility-principle-srp-단일-책임-원칙&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#single-responsibility-principle-srp-%EB%8B%A8%EC%9D%BC-%EC%B1%85%EC%9E%84-%EC%9B%90%EC%B9%99&quot; aria-label=&quot;single responsibility principle srp 단일 책임 원칙 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Single Responsibility Principle (SRP, 단일 책임 원칙)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;한 클래스는 하나의 책임만을 가져야 한다.&lt;/li&gt;
+&lt;li&gt;클래스 변경시 파급 효과가 적으면 SRP를 잘 지킨 것&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;openclosed-principle-ocp-개방-폐쇄-원칙&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#openclosed-principle-ocp-%EA%B0%9C%EB%B0%A9-%ED%8F%90%EC%87%84-%EC%9B%90%EC%B9%99&quot; aria-label=&quot;openclosed principle ocp 개방 폐쇄 원칙 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Open/Closed Principle (OCP, 개방-폐쇄 원칙)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;확장에는 열려 있으나 변경에는 닫혀 있어야 한다.&lt;/li&gt;
+&lt;li&gt;코드를 변경하지 않고 새로운 기능을 구현&lt;/li&gt;
+&lt;li&gt;다형성을 활용 (ex. 인터페이스를 구현하는 새로운 클래스를 생성해 갈아끼우기)&lt;/li&gt;
+&lt;li&gt;구현 객체를 변경하고자 하니 클라이언트 코드의 변경이 불가피한데?
+스프링에서 이 문제를 어떻게 해결할까?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// 클라이언트인 MemberService는 서버인 MemberRepository에 의존&lt;/span&gt;
+&lt;span class=&quot;token comment&quot;&gt;// MemberRepository의 구현체를 변경하려면 MemberService의 코드를 변경해야 함&lt;/span&gt;
+&lt;span class=&quot;token comment&quot;&gt;// 이는 OCP에 위배됨&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;MemberService&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token comment&quot;&gt;// private MemberRepository memberRepository = new MemoryMemberRepository();&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;MemberRepository&lt;/span&gt; memberRepository &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;JdbcMemberRepository&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4 id=&quot;liskov-substitution-principle-lsp-리스코프-치환-원칙&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#liskov-substitution-principle-lsp-%EB%A6%AC%EC%8A%A4%EC%BD%94%ED%94%84-%EC%B9%98%ED%99%98-%EC%9B%90%EC%B9%99&quot; aria-label=&quot;liskov substitution principle lsp 리스코프 치환 원칙 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Liskov Substitution Principle (LSP, 리스코프 치환 원칙)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;객체는 프로그램의 정확성을 깨뜨리지 않으면서 하위 타입의 인스턴스로 변경 가능해야 한다.&lt;/li&gt;
+&lt;li&gt;컴파일에 성공하는 것을 넘어서, 하위 클래스는 인터페이스의 규약을 모두 지켜주어야
+믿고 사용할 수 있음&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;상위 클래스인 Car가 있다고 생각해보자.
+Car는 주유를 위한 메서드와 남은 기름의 양을 나타내는 변수를 가지고 있다.
+
+어느 날 기술의 발전으로 전기차가 등장하였다.
+전기차는 기름을 사용하지 않으며 주유를 하지도 않는다.
+전기차는 전기를 충전하여 동작한다.
+
+주유 메서드에서 전기를 충전하도록 오버라이딩 해도 동작에는 이상이 없을 것이다.
+하지만 이 메서드는 남은 기름의 양을 관리하지 않는다.
+
+만약 Car에 차량 계기판을 위해 남은 기름의 양을 계산해주는 메서드가 있다면?&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4 id=&quot;interface-segregation-principle-isp-인터페이스-분리-원칙&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#interface-segregation-principle-isp-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-%EB%B6%84%EB%A6%AC-%EC%9B%90%EC%B9%99&quot; aria-label=&quot;interface segregation principle isp 인터페이스 분리 원칙 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Interface Segregation Principle (ISP, 인터페이스 분리 원칙)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;범용 인터페이스 하나보다는 특정 클라이언트를 위한 인터페이스 여러 개로 분리하는 것이 낫다.&lt;/li&gt;
+&lt;li&gt;운전자 클라이언트와 정비사 클라이언트를 위해
+자동차 인터페이스를 운전 인터페이스와 정비 인터페이스로 분리하자.&lt;/li&gt;
+&lt;li&gt;정비 인터페이스가 변해도 운전자에게 영향을 주지 않는다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;dependency-inversion-principle-dip-의존관계-역전-원칙&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#dependency-inversion-principle-dip-%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84-%EC%97%AD%EC%A0%84-%EC%9B%90%EC%B9%99&quot; aria-label=&quot;dependency inversion principle dip 의존관계 역전 원칙 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Dependency Inversion Principle (DIP, 의존관계 역전 원칙)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;구체화에 의존하지 말고 추상화에 의존해야 한다.&lt;/li&gt;
+&lt;li&gt;구현 클래스에 의존하지 말고 인터페이스에 의존해야 한다.&lt;/li&gt;
+&lt;li&gt;구현에 의존하지 않고 역할에 의존해야 한다.&lt;/li&gt;
+&lt;li&gt;다형성!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// 클라이언트인 MemberService가 인터페이스인 MemberRepository 뿐만 아니라&lt;/span&gt;
+&lt;span class=&quot;token comment&quot;&gt;// 구현체인 JdbcMemberRepository에도 의존하고 있다!&lt;/span&gt;
+&lt;span class=&quot;token comment&quot;&gt;// 이는 DIP에 위배됨&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;MemberService&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;MemberRepository&lt;/span&gt; memberRepository &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;JdbcMemberRepository&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;spring에서의-객체-지향-프로그래밍&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#spring%EC%97%90%EC%84%9C%EC%9D%98-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D&quot; aria-label=&quot;spring에서의 객체 지향 프로그래밍 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Spring에서의 객체 지향 프로그래밍&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;앞의 코드처럼 다형성만으로는 OCP와 DIP를 지킬 수 없었다.&lt;/li&gt;
+&lt;li&gt;Spring은 DI(Dependency Injection) 컨테이너를 제공하여 이 문제를 해결&lt;/li&gt;
+&lt;li&gt;클라이언트 코드의 변경 없이 기능 확장이 가능&lt;/li&gt;
+&lt;li&gt;이로써 다시 이야기하자면, Spring은 좋은 객체 지향 프로그래밍을 할 수 있도록 도와줌&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;reference&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#reference&quot; aria-label=&quot;reference permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reference&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8&quot;&gt;김영한, 스프링 핵심 원리 - 기본편&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[네트워킹]]></title><description><![CDATA[자바에서는  패키지를 통해
 네트워킹과 관련된 클래스들을 제공한다. InetAddress IP 주소를 다루기 위한 클래스. InetAddress (Java Platform SE 8) - Oracle URL URL을 다루기 위한 클래스. URL (Java…]]></description><link>https://gintooooonic.github.io/Java/220113-networking/</link><guid isPermaLink="false">https://gintooooonic.github.io/Java/220113-networking/</guid><pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;자바에서는 &lt;code class=&quot;language-text&quot;&gt;java.net&lt;/code&gt; 패키지를 통해
 네트워킹과 관련된 클래스들을 제공한다.&lt;/p&gt;
 &lt;h2 id=&quot;inetaddress&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#inetaddress&quot; aria-label=&quot;inetaddress permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;InetAddress&lt;/h2&gt;
