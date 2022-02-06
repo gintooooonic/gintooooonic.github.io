@@ -7,8 +7,8 @@ draft: false
 
 ## Dijkstra 알고리즘이란
 
-- 그래프에서 노드 사이의 최단 경로를 찾는 알고리즘
-- 하나의 노드에서 다른 모든 노드까지의 최단 경로를 구함 (Single-source shortest paths)
+- 그래프에서 노드 사이의 최단 거리를 찾는 알고리즘
+- 하나의 노드에서 다른 모든 노드까지의 최단 거리를 구함 (Single-source shortest paths)
 - 간선의 가중치가 음수인 경우에는 사용할 수 없음
 
 ## 동작 과정
@@ -165,6 +165,41 @@ int main(void) {
     }
 
     return 0;
+}
+```
+
+## 최단 경로 구하기
+
+최단 거리뿐만 아니라 경로도 구하고 싶은 경우,
+[두 번째 솔루션](#두-번째-솔루션-ac)에서 아래와 같이 개선
+
+1. 경로 배열 생성 및 `-1`로 초기화
+
+```cpp
+// int p[NN];
+fill(p, p + N + 1, -1)
+```
+
+2. 최단 거리 갱신시마다 해당 경로를 저장
+
+```cpp
+if (d_from + d_to < d[to]) {
+    d[to] = d_from + d_to;
+    pq.push({ d[to], to });
+    p[to] = from; // 경로를 저장
+}
+```
+
+3. 최단 경로 가져오기
+
+```cpp
+vector<int> getPath(int start, int end) {
+    vector<int> path = { end };
+    while (path.back() != start)
+        path.push_back(p[path.back()]);
+
+    reverse(path.begin(), path.end());
+    return path;
 }
 ```
 
