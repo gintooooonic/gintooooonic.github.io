@@ -107,7 +107,7 @@ public class App {
 - AppConfig 사용 후, 프로그램의 제어권은 AppConfig로 이전됨. 어떤 구현 객체를 사용할지 AppConfig가 결정하고 생성함.
 - 프로그램의 제어 흐름을 직접 제어하지 않고 외부에서 담당하는 형태를 Inversion of Control, 줄여서 IoC라고 표현.
 
-## 5. Spring에서는...
+## 5. Spring에서는..
 
 - Spring 컨테이너를 통해 DI와 IoC와 같은 기능들을 제공.
 - `@Configuration`, `@Bean`, `ApplicationContext` 등
