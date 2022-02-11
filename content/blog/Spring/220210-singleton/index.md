@@ -1,5 +1,5 @@
 ---
-title: 싱글톤
+title: 싱글톤 패턴
 date: '2022-02-10 00:00:00'
 category: Spring
 draft: false
@@ -14,15 +14,39 @@ draft: false
 ## 1. 싱글톤 패턴
 
 - 서버 어플리케이션은 다수의 사용자들에게 요청을 받음
-- 요청을 받을 때마다 Service 객체가 새로 생성된다면? 메모리 자원의 낭비
-- 객체를 하나만 생성해놓고 계속 사용하도록 하는 방법
+- 만약 요청을 받을 때마다 Service 객체가 새로 생성된다면, 메모리 자원의 낭비
+- 이미 만들어둔 객체를 공유해 여러번 사용하는 효율적인 방법
+- 단점도 존재하며, 안티 패턴으로 보는 시각도 있음
+- Spring의 싱글톤 컨테이너는 싱글톤 패턴의 단점들을 해결했다고 함
+
+> #### 싱글톤 패턴의 단점
+>
+> - 싱글톤 패턴 구현을 위해 늘어나는 코드의 양
+> - 클라이언트가 구체 클래스에 의존하는 경우가 발생할 수 있음 (DIP 위반)
+> - DIP 위반에 따라 OCP도 위반할 가능성
+> - 테스트가 어려움
+> - 내부 속성의 변경과 초기화가 어려움
+> - private 생성자로 자식 클래스를 만들기 어려움
+> - 유연성이 떨어짐
+
+```java
+public class SingletonClass {
+    private static final SingletonClass instance = new SingletonClass();
+
+    private SingletonClass() { /* new를 통한 객체 생성 방지 */ }
+
+    public static SingletonClass getInstance() {
+        return instance;
+    }
+}
+```
 
 ## 2. 싱글톤 컨테이너
 
-- Spring의 IoC 컨테이너는 기본적으로 싱글톤 패턴을 적용해 객체를 관리
-- 같은 객체가 두 번 이상 생성되지 않도록 보장
+- Spring의 IoC 컨테이너는 기본적으로 싱글톤 패턴을 통해 객체를 관리
+- 한 번 생성해둔 객체를 가져다 쓸 수 있도록 보장
 
-### Spring 컨테이너가 아닌 경우
+### 싱글톤 컨테이너가 아닌 경우
 
 ```java
 public class AppConfig {
@@ -62,7 +86,7 @@ call AppConfig.memberRepository
 - memberRepository 객체가 여러번 생성됨
 - 당연히 서로 주소가 다른 객체
 
-### Spring 컨테이너인 경우
+### 싱글톤 컨테이너인 경우
 
 ```java
 @Configuration
