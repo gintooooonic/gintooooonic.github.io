@@ -15,6 +15,12 @@ draft: false
 
 ### Minimum spanning tree
 
+![mst](mst.png)
+
+<p align="center" style="color: #888888; font-size: 12px;">
+  https://cp-algorithms.com/graph/mst_prim.html
+</p>
+
 - 그래프에서 얻을 수 있는 Spanning tree 중 비용이 최소인 것
   - Spanning tree의 비용은 간선들의 가중치 합
 - 간선의 개수는 `(정점의 개수) - 1`
@@ -28,7 +34,7 @@ draft: false
   - 두 정점이 이미 연결되어 있는지 확인하기 위해서 [Union Find 알고리즘](https://gintooooonic.github.io/Algorithm/220212-union-find/)을 사용
 - 최적화된 Union Find 알고리즘을 사용하면 `O(M * log(N))` 시간에 동작 가능
 
-## 동작 과정
+### 동작 과정
 
 1. 주어진 그래프의 모든 간선들을 가중치 오름차순으로 정렬
 2. 아직 읽지 않은 최소 가중치의 간선을 선택
@@ -36,7 +42,7 @@ draft: false
 4. 두 정점을 Union
 5. (MST의 비용을 구하는 경우) 간선의 가중치를 합계 값에 합산
 
-## 구현
+### 구현
 
 [BOJ 1197: 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)를 풀이합니다.
 
@@ -108,3 +114,4 @@ int main(void) {
 
 - [Spanning tree - Wikipedia](https://en.wikipedia.org/wiki/Spanning_tree)
 - [Minimum spanning tree - Kruskal with Disjoint Set Union - Algorithms for Competitive Programming](https://cp-algorithms.com/graph/mst_kruskal_with_dsu.html)
+- [Minimum spanning tree - Prim's algorithm - Algorithms for Competitive Programming](https://cp-algorithms.com/graph/mst_prim.html)
