@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[개발일기]]></title><description><![CDATA[개발일기 블로그입니다.]]></description><link>https://gintooooonic.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 21 Feb 2022 19:59:32 GMT</lastBuildDate><item><title><![CDATA[2026년 12월 31일 목요일]]></title><description><![CDATA[오늘 뭐 했지 학생과 직장인으로서의 지난 20대를 회고 개발자로서 얼마나 성장했고 어떤 성공을 이루었는가 내일 뭐 할까 끊임없이 공부하고 노력하기 한 줄 일기 2021년에 작성해본 5년 뒤의 TIL]]></description><link>https://gintooooonic.github.io/TIL/draft/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/draft/</guid><pubDate>Thu, 31 Dec 2026 23:59:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[개발일기]]></title><description><![CDATA[개발일기 블로그입니다.]]></description><link>https://gintooooonic.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 22 Feb 2022 11:45:59 GMT</lastBuildDate><item><title><![CDATA[2026년 12월 31일 목요일]]></title><description><![CDATA[오늘 뭐 했지 학생과 직장인으로서의 지난 20대를 회고 개발자로서 얼마나 성장했고 어떤 성공을 이루었는가 내일 뭐 할까 끊임없이 공부하고 노력하기 한 줄 일기 2021년에 작성해본 5년 뒤의 TIL]]></description><link>https://gintooooonic.github.io/TIL/draft/</link><guid isPermaLink="false">https://gintooooonic.github.io/TIL/draft/</guid><pubDate>Thu, 31 Dec 2026 23:59:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;오늘-뭐-했지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%AD%90-%ED%96%88%EC%A7%80&quot; aria-label=&quot;오늘 뭐 했지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 뭐 했지&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;학생과 직장인으로서의 지난 20대를 회고&lt;/li&gt;
 &lt;li&gt;개발자로서 얼마나 성장했고 어떤 성공을 이루었는가&lt;/li&gt;
@@ -8,7 +8,138 @@
 &lt;li&gt;끊임없이 공부하고 노력하기&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;한-줄-일기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%95%9C-%EC%A4%84-%EC%9D%BC%EA%B8%B0&quot; aria-label=&quot;한 줄 일기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;한 줄 일기&lt;/h2&gt;
-&lt;p&gt;2021년에 작성해본 5년 뒤의 TIL&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Bean 스코프]]></title><description><![CDATA[1. Bean 스코프 Bean이 언제부터 언제까지 존재할 수 있는가 싱글톤 : 기본 설정, 스프링 컨테이너의 시작부터 끝까지 프로토타입 : Bean 조회시 생성하고 컨테이너에서는 보관하지 않음 웹 관련 스코프 : 웹 환경에서만 동작 request…]]></description><link>https://gintooooonic.github.io/Spring/220221-bean-scope/</link><guid isPermaLink="false">https://gintooooonic.github.io/Spring/220221-bean-scope/</guid><pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;2021년에 작성해본 5년 뒤의 TIL&lt;/p&gt;</content:encoded></item><item><title><![CDATA[JPA 시작]]></title><description><![CDATA[1. JPA란  Java Persistence API Java 진영의 ORM 표준 인터페이스 Object-relational mapping OOP의 객체와 RDBMS의 테이블을 매핑하는 기술 프로그래머 입장에서는 객체로서 데이터를 CRUD SQL…]]></description><link>https://gintooooonic.github.io/Spring/220222-jpa-start/</link><guid isPermaLink="false">https://gintooooonic.github.io/Spring/220222-jpa-start/</guid><pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;1-jpa란&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-jpa%EB%9E%80&quot; aria-label=&quot;1 jpa란 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. JPA란&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 49.33333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAABHUlEQVQoz32S266CQAxF+f+f88UniJEgyP0mchWoWU3gjERPk52WmbK726nVNI08n88PcNa2rXRdpyAGy7IItq7r7o+wpmmScRw/wNnj8ZAsy6QsS6nrWmMKmUTfzJIfBiHqIM/zXAnxpqGaPHxVVZprmS2Y8aYGQyWWJIn+iGJwuVz0DlLf9zXeFW4JVMGY5dbm/X4Xz/P0h77vlYB7FM/zrDmc45UwCAI5nU5yPp/FcRxtdRgGsW1brterEsdxLEVR6B0ktAkBM6cgfidEFeAVN4XfWo6iSFzXVYLb7abfkG85jOPno0AIOTMlEaDQNFpmdnSIp+1/CZkrSWAjPa4N/vV6/a0NUqlsgjOq86ogTVMJw1Dnd1xsczvAG2ldBt+r9UqZAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;jpa&quot;
+        title=&quot;jpa&quot;
+        src=&quot;/static/bc64d9906a196f51be7c105dd4a8d4c9/c1b63/jpa.png&quot;
+        srcset=&quot;/static/bc64d9906a196f51be7c105dd4a8d4c9/5a46d/jpa.png 300w,
+/static/bc64d9906a196f51be7c105dd4a8d4c9/0a47e/jpa.png 600w,
+/static/bc64d9906a196f51be7c105dd4a8d4c9/c1b63/jpa.png 1200w,
+/static/bc64d9906a196f51be7c105dd4a8d4c9/2b608/jpa.png 1540w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;color: #888888; font-size: 12px;&quot;&gt;
+  https://kangwoojin.github.io/programing/JPA-%EC%86%8C%EA%B0%9C/
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Java Persistence API&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Java 진영의 ORM 표준 인터페이스&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Object-relational mapping&lt;/li&gt;
+&lt;li&gt;OOP의 객체와 RDBMS의 테이블을 매핑하는 기술&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;프로그래머 입장에서는 객체로서 데이터를 CRUD&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SQL 중심적인 개발에서 객체 중심의 개발로&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;2-jpa의-장점&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-jpa%EC%9D%98-%EC%9E%A5%EC%A0%90&quot; aria-label=&quot;2 jpa의 장점 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. JPA의 장점&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;생산성&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SQL을 작성하는 것보다 훨씬 간단한 CRUD&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;유지보수&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;요구 사항이 바뀌어도 코드 변경이 적음&lt;/li&gt;
+&lt;li&gt;예를 들어, 새로운 필드 추가시 모든 SQL 쿼리문을 수정할 필요 없이 JPA Entity에 필드 하나만 추가&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;패러다임의 불일치를 해결&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;그동안 객체 지향으로 개발하면서 관계형 데이터베이스를 사용&lt;/li&gt;
+&lt;li&gt;JPA를 통해 객체 지향만 고려하며 개발, 데이터베이스는 JPA가 알아서 처리&lt;/li&gt;
+&lt;li&gt;예를 들어, 상속 관계의 객체는 JPA가 슈퍼/서브타입으로 나누고 조회시 조인해서 데이터를 가져옴&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;성능 최적화&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1차 캐시를 통해 같은 트랜잭션 안에서는 같은 엔티티를 반환&lt;/li&gt;
+&lt;li&gt;DB의 Isolation level이 Read Commit이어도 애플리케이션에서 Repeatable Read되도록 보장&lt;/li&gt;
+&lt;li&gt;트랜잭션 안에서의 쓰기 지연을 통해 쿼리를 한번에 모아 보내고 락 시간을 최소화&lt;/li&gt;
+&lt;li&gt;지연 로딩을 통해 객체가 실제 사용될때 로딩&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;3-hibernate&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#3-hibernate&quot; aria-label=&quot;3 hibernate permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;3. Hibernate&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 27.666666666666668%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAYAAADDl76dAAAACXBIWXMAAC4iAAAuIgGq4t2SAAABw0lEQVQY02P4//8/w9GttQz//z9jMPXNY6hvb2NIL65kSCkoZYjPLmSIzSoAsssYUgvLGMJSCxhmT69kOLWrmWHPpjaG/ZsaGA5sbgTS9VB2EwMQqDGc29MgUVBRxOgWVcQEsqCwppE5o6SKLTG3mC8+p5Azo6SSL724gicivZB/zoxqzsuHe1j2b+lgOrS1leXg1hYOoKESB7c0CwD5AgwxmbnVi2aX/X98usGfSzdJKC4rPyUmMy8uOiPPD4grYzPzi+KyC/OS84vdw1Ly+nt7y+IOba6ZtHNNlcXe9dU5ezfUhO/bUJsLZCcA2ZkMUem5E0qqilLzy4qKI1JzA2My8xNjMvLSgYYFAXEFkF8Rl11QCDTQMTItb2p/X5n9wU3VjXvWVTUDDSkBGbp/Y70nkHbfu74mg+HWyYnshzZXr6qsLfjlHpVtK2WZygA0iA+EgYbJAw0TAVoqC3S1WHhagUBNQ7HY/ePVbLvWVskDDeHZs75KcN/GOmGgBfxArMxweEsNw/6N1RZbV1XZHd5UzsAgmgxyNchQYHDkM8QBIwXEjs3KZwAayAA0kOHGoWoGoIEMQAMZgAYC9dczAA0DYwCCZtFprCNUeAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;hibernate&quot;
+        title=&quot;hibernate&quot;
+        src=&quot;/static/d79f0a51ff4d225cfa0f9199d26c05a6/c1b63/hibernate.png&quot;
+        srcset=&quot;/static/d79f0a51ff4d225cfa0f9199d26c05a6/5a46d/hibernate.png 300w,
+/static/d79f0a51ff4d225cfa0f9199d26c05a6/0a47e/hibernate.png 600w,
+/static/d79f0a51ff4d225cfa0f9199d26c05a6/c1b63/hibernate.png 1200w,
+/static/d79f0a51ff4d225cfa0f9199d26c05a6/21b4d/hibernate.png 1280w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;color: #888888; font-size: 12px;&quot;&gt;
+  https://hibernate.org/
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;JPA는 인터페이스, Hibernate는 그 구현체&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hibernate가 먼저 나왔고, Java 진영에서 이를 추상화하여 표준에 포함한 것이 JPA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;EJB를 대체하기 위해 Gavin King 등에 의해 2001년 릴리즈&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;4-기타-키워드&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#4-%EA%B8%B0%ED%83%80-%ED%82%A4%EC%9B%8C%EB%93%9C&quot; aria-label=&quot;4 기타 키워드 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;4. 기타 키워드&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Spring Data JPA&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;JPA를 한 단계 더 추상화하여 Spring에서 더 쉽고 편하게 사용할 수 있도록 제공되는 모듈&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Persistence (영속성)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;데이터를 생성한 프로세스가 종료되어도 데이터가 사라지지 않는 특성&lt;/li&gt;
+&lt;li&gt;영속성 컨텍스트를 통해 Entity를 영구 저장&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;reference&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#reference&quot; aria-label=&quot;reference permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reference&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.inflearn.com/course/ORM-JPA-Basic&quot;&gt;김영한, 자바 ORM 표준 JPA 프로그래밍 - 기본편&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Hibernate_(framework)&quot;&gt;Hibernate (framework) - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://suhwan.dev/2019/02/24/jpa-vs-hibernate-vs-spring-data-jpa/&quot;&gt;JPA, Hibernate, 그리고 Spring Data JPA의 차이점 - suhwan.dev&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Bean 스코프]]></title><description><![CDATA[1. Bean 스코프 Bean이 언제부터 언제까지 존재할 수 있는가 싱글톤 : 기본 설정, 스프링 컨테이너의 시작부터 끝까지 프로토타입 : Bean 조회시 생성하고 컨테이너에서는 보관하지 않음 웹 관련 스코프 : 웹 환경에서만 동작 request…]]></description><link>https://gintooooonic.github.io/Spring/220221-bean-scope/</link><guid isPermaLink="false">https://gintooooonic.github.io/Spring/220221-bean-scope/</guid><pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;
     &gt;
