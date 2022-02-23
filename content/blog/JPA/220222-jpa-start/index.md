@@ -1,7 +1,7 @@
 ---
-title: JPA 시작
+title: JPA란
 date: '2022-02-22 00:00:00'
-category: Spring
+category: JPA
 draft: false
 ---
 
