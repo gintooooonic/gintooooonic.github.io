@@ -40,6 +40,12 @@ body.light {
     background-color: $light-toc-background-color;
   }
 
+  .top {
+    .link {
+      color: $dark-gray;
+    }
+  }
+
   .thumbnail {
     h3 {
       color: $dark-gray;

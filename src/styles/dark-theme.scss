@@ -41,6 +41,12 @@ body.dark {
     background-color: $dark-toc-background-color;
   }
 
+  .top {
+    .link {
+      color: $dark-light-font-color;
+    }
+  }
+
   .thumbnail {
     h3 {
       color: $dark-light-font-color;
