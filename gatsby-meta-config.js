@@ -1,6 +1,6 @@
 module.exports = {
-  title: `개발일기`,
-  description: `개발일기 블로그입니다.`,
+  title: `@gintooooonic`,
+  description: ``,
   author: `gintooooonic`,
   introduction: `웹 프론트엔드와 백엔드 기술을 공부하고 있습니다.`,
   siteUrl: `https://gintooooonic.github.io`, // Your blog site url
