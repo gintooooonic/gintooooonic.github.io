@@ -4,7 +4,7 @@ date: 2021-12-11 00:00:00
 lang: 'en'
 ---
 
-## About @gintooooonic
+## About me
 
 꾸준한 사람이 되고 싶습니다.
 
