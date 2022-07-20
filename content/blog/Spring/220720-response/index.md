@@ -1,6 +1,6 @@
 ---
 title: HTTP API에서 응답하기
-date: '2022-07-20 00:00:00'
+date: '2022-07-20 00:00:01'
 category: Spring
 draft: false
 ---
