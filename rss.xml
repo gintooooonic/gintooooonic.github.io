@@ -1,4 +1,173 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Woody]]></title><description><![CDATA[Programming, Computer Science, IT]]></description><link>https://gintooooonic.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 21 Jul 2022 02:51:56 GMT</lastBuildDate><item><title><![CDATA[HTTP 메시지 컨버터]]></title><description><![CDATA[HTTP 메시지 컨버터 HTTP API처럼 JSON 데이터를 HTTP 바디에서 읽고 쓰는 경우, HTTP 메시지 컨버터를 사용하는 것이 편리 HTTP 요청의 경우, 와 ()일때 메시지 컨버터가 사용됨 HTTP…]]></description><link>https://gintooooonic.github.io/Spring/220720-message-converter/</link><guid isPermaLink="false">https://gintooooonic.github.io/Spring/220720-message-converter/</guid><pubDate>Wed, 20 Jul 2022 00:00:02 GMT</pubDate><content:encoded>&lt;h2 id=&quot;http-메시지-컨버터&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#http-%EB%A9%94%EC%8B%9C%EC%A7%80-%EC%BB%A8%EB%B2%84%ED%84%B0&quot; aria-label=&quot;http 메시지 컨버터 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;HTTP 메시지 컨버터&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Woody]]></title><description><![CDATA[Programming, Computer Science, IT]]></description><link>https://gintooooonic.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 24 Jul 2022 17:48:46 GMT</lastBuildDate><item><title><![CDATA[MVVM 아키텍처 패턴]]></title><description><![CDATA[적합한 아키텍처 패턴을 적용해 iOS 애플리케이션을 개발할 수 있도록,
+자주 사용되는 패턴들을 공부해봐야겠다는 생각이 들었습니다.
+그래서 본 포스트에서는 MVVM 패턴에 대해 학습한 내용들을 정리해보려고 합니다. 이번 학습의 목표는 단순히 MVVM…]]></description><link>https://gintooooonic.github.io/iOS/220723-ios-architecture-patterns/</link><guid isPermaLink="false">https://gintooooonic.github.io/iOS/220723-ios-architecture-patterns/</guid><pubDate>Sun, 24 Jul 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;적합한 아키텍처 패턴을 적용해 iOS 애플리케이션을 개발할 수 있도록,
+자주 사용되는 패턴들을 공부해봐야겠다는 생각이 들었습니다.
+그래서 본 포스트에서는 MVVM 패턴에 대해 학습한 내용들을 정리해보려고 합니다.&lt;/p&gt;
+&lt;p&gt;이번 학습의 목표는 단순히 MVVM 패턴이 무엇인지 조사하는 레벨에 그치지 않고,
+MVVM 패턴이 기존의 어떤 문제점들을 해결했으며
+왜 널리 사용되고 있는지 충분히 이해하는 것입니다.&lt;/p&gt;
+&lt;p&gt;먼저 MVVM 패턴이 무엇인지 간략하게 소개하면서 시작해보겠습니다.&lt;/p&gt;
+&lt;h2 id=&quot;1-mvvm-패턴에-대한-간략한-소개&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-mvvm-%ED%8C%A8%ED%84%B4%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B0%84%EB%9E%B5%ED%95%9C-%EC%86%8C%EA%B0%9C&quot; aria-label=&quot;1 mvvm 패턴에 대한 간략한 소개 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. MVVM 패턴에 대한 간략한 소개&lt;/h2&gt;
+&lt;p&gt;Wikipedia에서는 MVVM 패턴을 이렇게 소개합니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1080px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 52.33333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAACZUlEQVQozz2S60sUYRTG5z+IvgkJQQa1kCYmSVERBF2gL/0HIREEFZn4KSoMojIwPxQVlRGmZDfKpLDAa7K6s/fZZS+a7m7rZa/u7Oyuu2zrr3mn1gMPz3nPec/znHkZyR1Sae74SUPbFI3tU5guT/DFuoqIBbVA00cnOwftmN45qB2w8kyJsF6BtbGH0LmFyp1aKrdrqHSbqKyFkeRgkpar3zl5Y5zTnRPsvfSN12OLhqB1Kc3R9zOc+iRzZtjOvoFpnrsXjF5uvAf15jZyT06gPWghe28P5fgc0qxvlfrzbznc9pljHUPsah3k6ZCTxPIyI6459veOcOTVD473j2J6PEzPtGIIrnztItS2lWjXIX7fqidyrY7SahDJF0py8EIfja29NJ17ScPZF4xY/m0RSWc58OgDu+/3U9/9hh13++izeI1edLQXx8UaXO11OK9sx3O9mVJ6CclwS2osrmQIhGLIriCxWJxUKkVahzP4C3coSnhNI6wbbPA/Nv4Q8cwScptZcEyRCAeMspTJZPTBBOt5jWIhRyGnkUomicfjunCMTDpFTs2wrtfVdBpxX9TjiQQZrUBK1QyOJ9NkVRUpl8vh8/mRrVacLheKx4Pb7cYqzk4nNpsdRfHouQuLLOP1evHod+w2G5bZGWTZgsvpYH5+jnw+j1QsFvUhG2azeVNECAYCAYONYbvdgKwLTk5O4nA4jJ5gAZ/PZ3C5XEYqlUpEo1Fc+naiqCgKwWDQ2EQYCQgTv99vDFYNq+YCYnZZ/ysMweobi08vFAqbLNZX9TcRELmoa5pGNps1csFViH41/gLKrZ+CjdMgUwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;mvvm-wikipedia&quot;
+        title=&quot;mvvm-wikipedia&quot;
+        src=&quot;/static/5ff463a9022d531814423a476bddea72/302a4/mvvm-wikipedia.png&quot;
+        srcset=&quot;/static/5ff463a9022d531814423a476bddea72/5a46d/mvvm-wikipedia.png 300w,
+/static/5ff463a9022d531814423a476bddea72/0a47e/mvvm-wikipedia.png 600w,
+/static/5ff463a9022d531814423a476bddea72/302a4/mvvm-wikipedia.png 1080w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;color: #888888; font-size: 12px;&quot;&gt;
+  https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
+&lt;/p&gt;
+&lt;p&gt;정리하면, MVVM 패턴이란…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Model-view-viewmodel&lt;/strong&gt;의 준말입니다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;아키텍처 패턴&lt;/strong&gt;의 일종입니다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GUI와 비즈니스 로직을 분리&lt;/strong&gt;해 개발할 수 있도록 합니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Microsoft에서 발명되어
+WPF와 Silverlight 개발에 사용된 것이 시초라고 합니다.
+WPF와 Silverlight 프로젝트의 아키텍트였던
+Josh Gossman이 2005년 당시에 작성한 포스트를 &lt;a href=&quot;(https://docs.microsoft.com/en-us/archive/blogs/johngossman/introduction-to-modelviewviewmodel-pattern-for-building-wpf-apps)&quot;&gt;링크&lt;/a&gt;합니다.
+Model, View, ViewModel이 어떤 역할을 하는지에 대한 설명이 있습니다.&lt;/p&gt;
+&lt;p&gt;Wikipedia에서는 MVVM 패턴이 &lt;a href=&quot;https://martinfowler.com/eaaDev/PresentationModel.html&quot;&gt;Martin Fowler의 Presentation Model 패턴&lt;/a&gt;을
+변형한 것이라고 하는데,
+Gossman은 MVC 패턴을 변형한 것이라고 이야기하고 있네요.
+조금 헷갈리지만, 일단은 PM 패턴과 MVC 패턴 모두에게 영향을 받았다고 생각하며 지나가겠습니다.&lt;/p&gt;
+&lt;p&gt;결국 MVVM 패턴은 소프트웨어라는 거대한 몸통을
+Model, View, ViewModel이라는 세 덩어리로
+나누어 개발하는 방법인 것 같습니다.
+&lt;strong&gt;뷰와 비즈니스 로직의 개발을 분리&lt;/strong&gt;하기 위해서요.&lt;/p&gt;
+&lt;h2 id=&quot;2-why-mvvm&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-why-mvvm&quot; aria-label=&quot;2 why mvvm permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. Why MVVM?&lt;/h2&gt;
+&lt;h3 id=&quot;a-josh-gossman-said&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#a-josh-gossman-said&quot; aria-label=&quot;a josh gossman said permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;a. Josh Gossman said…&lt;/h3&gt;
+&lt;p&gt;Gossman의 포스트에 따르면, MVVM 패턴은 MVC 패턴을
+현대적인 UI 개발 플랫폼에 맞춰 변형한 것이라고 합니다.&lt;/p&gt;
+&lt;p&gt;소프트웨어의 화면을 만드는 일은 개발자보단 디자이너의 책임입니다.
+디자이너는 개발자에 비해 코드를 작성할 일이 적고,
+HTML이나 WYSIWYG 툴 등 개발자와는 다른 도구를 사용합니다.
+즉, 화면을 만드는 일과 비즈니스 로직을 만드는 일은
+작업하는 사람도 다르고 사용되는 도구도 다르다 이겁니다.&lt;/p&gt;
+&lt;p&gt;일단 뷰를 비즈니스 로직과 분리해야 한다는 것은 알겠습니다.
+하지만 Gossman의 포스트만으로는 왜 기존에 쓰던 MVC 패턴이 아니라
+MVVM 패턴이 필요하게 된 것인지 잘 이해할 수 없었습니다.
+어렵네요.&lt;/p&gt;
+&lt;p&gt;그래서 iOS 애플리케이션을 개발하는 관점에서
+MVC 패턴을 사용하는 것과 MVVM 패턴을 사용하는 것이
+어떻게 다른지 알아보려고 합니다.&lt;/p&gt;
+&lt;h3 id=&quot;b-mvc-패턴으로-ios-앱을-개발한다면&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#b-mvc-%ED%8C%A8%ED%84%B4%EC%9C%BC%EB%A1%9C-ios-%EC%95%B1%EC%9D%84-%EA%B0%9C%EB%B0%9C%ED%95%9C%EB%8B%A4%EB%A9%B4&quot; aria-label=&quot;b mvc 패턴으로 ios 앱을 개발한다면 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;b. MVC 패턴으로 iOS 앱을 개발한다면&lt;/h3&gt;
+&lt;p&gt;아래 이미지는 Apple에서 공개한 Cocoa MVC 패턴의 구조를 나타낸 것입니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 41.333333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAIAAAB2/0i6AAAACXBIWXMAAAsTAAALEwEAmpwYAAABVElEQVQY001RPU/DMBTM/2dhYWECIXUFiaGoIBZoR0rLUJo0blMlddrmo7Edx9/GSQri6U3v3fnunj3blTEW0+aYlahuhLLTnf8UTMbR7D36HPoTP9s6TFGeGsalbsF9eR3TwIIBiL7A/juuZhEqCW/nZ4wVSlGhd8fToaRx1iR50289x5RK51j8QV0xybkSQkupJVeSKfG7MZRJkOJWUWuvf4PLsxfTtTaaSWmsXqUkLmify3SQWphlyvqJt04xgDhIUAjxZk+Ey9SLC+3WzmFasn6ieEOhD8Fi+jGncIlh6N2MwrsXcD/e3j6Dweu6qp1DrSQnTDn+sWIZ4s67E2XFLny83Iyuk7cBGF6tHi48Y/6HtYuEzEA2D5L1gdZcVbWMMhan+Qk3SikX9Pw31jYF9ArEcS1Q1xURJRGUu8DGyf6dQ+mWpDjjKBfkJHApKSYw+AF8bcVrlhWhXwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;apple-mvc&quot;
+        title=&quot;apple-mvc&quot;
+        src=&quot;/static/95af0a0acd00292cd51928682d0a36a1/c1b63/apple-mvc.png&quot;
+        srcset=&quot;/static/95af0a0acd00292cd51928682d0a36a1/5a46d/apple-mvc.png 300w,
+/static/95af0a0acd00292cd51928682d0a36a1/0a47e/apple-mvc.png 600w,
+/static/95af0a0acd00292cd51928682d0a36a1/c1b63/apple-mvc.png 1200w,
+/static/95af0a0acd00292cd51928682d0a36a1/71e8d/apple-mvc.png 1304w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;color: #888888; font-size: 12px;&quot;&gt;
+  https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Model은 앱의 데이터와 비즈니스 로직을 담당합니다.&lt;/li&gt;
+&lt;li&gt;View는 사용자에게 데이터를 보여주기 위한 UI를 담당합니다.&lt;/li&gt;
+&lt;li&gt;Controller는 View와 Model의 중간 다리 역할로,
+View로부터 사용자 액션을 전달받아 Model에게 알려주기도 하고
+Model의 데이터 변화를 View에게 알려주기도 합니다.&lt;/li&gt;
+&lt;li&gt;자세한 내용은 &lt;a href=&quot;https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html&quot;&gt;Apple 문서&lt;/a&gt;에서 확인할 수 있습니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;기본적으로 iOS의 사용자 인터페이스 프레임워크인 UIKit가 MVC 패턴을 사용합니다.
+하지만 이상적으로 생각했던 MVC 패턴은 없고,
+View와 Controller가 너무 강하게 연결되어 있어 둘을 분리하는 것이 매우 어렵습니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 749px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 42.33333333333334%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA/0lEQVQoz51R25aDIAz0/79yu60iaq14QUA0mwna2of2YXNODCHjMEky2s1aR7dbSd4Hcs6TUhWVqqY815LDtm1782RHTPUMnxAWuZimmQkqinF9Ar7ZUT8/kHkHRYGGfhJCY0Yy3SCOfBwnGoaJ8576fqT7/SF5x/k8e44JN3OHiZBbhMKi0PIzQLqs6XpV1LYdad1IyzirohIya/GQZayj30vOIkBqEyHAAIG4aR50+cmliBzxmB/GcIwGtixRSFFPuF3hGVDXrShDa/8xWUraEoa6sooolytHmPee2zGsZOBHjNRfm93A8B6hMCy85d1ZZDrH150P69PP2E/+BzAece3MhAeOAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;uikit-mvc&quot;
+        title=&quot;uikit-mvc&quot;
+        src=&quot;/static/729472d31688f28712f312cdea4698b3/5bb8b/uikit-mvc.png&quot;
+        srcset=&quot;/static/729472d31688f28712f312cdea4698b3/5a46d/uikit-mvc.png 300w,
+/static/729472d31688f28712f312cdea4698b3/0a47e/uikit-mvc.png 600w,
+/static/729472d31688f28712f312cdea4698b3/5bb8b/uikit-mvc.png 749w&quot;
+        sizes=&quot;(max-width: 749px) 100vw, 749px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;color: #888888; font-size: 12px;&quot;&gt;
+  30개 프로젝트로 배우는 iOS 앱 개발 with Swift 초격차 패키지 Online. - 패스트캠퍼스
+&lt;/p&gt;
+&lt;h3 id=&quot;c-mvvm-패턴으로-ios-앱을-개발한다면&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#c-mvvm-%ED%8C%A8%ED%84%B4%EC%9C%BC%EB%A1%9C-ios-%EC%95%B1%EC%9D%84-%EA%B0%9C%EB%B0%9C%ED%95%9C%EB%8B%A4%EB%A9%B4&quot; aria-label=&quot;c mvvm 패턴으로 ios 앱을 개발한다면 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;c. MVVM 패턴으로 iOS 앱을 개발한다면&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 28.666666666666668%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAGABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAHbgCwn/8QAGBAAAwEBAAAAAAAAAAAAAAAAAQISABP/2gAIAQEAAQUCgbmoCrI//8QAFhEAAwAAAAAAAAAAAAAAAAAAARAh/9oACAEDAQE/ATV//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARIf/aAAgBAgEBPwEwqP/EABYQAQEBAAAAAAAAAAAAAAAAAAEAEP/aAAgBAQAGPwKTP//EABoQAAIDAQEAAAAAAAAAAAAAAAERACExYbH/2gAIAQEAAT8hQ0N24AIDfYJA9n//2gAMAwEAAgADAAAAEA/v/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARMf/aAAgBAwEBPxAKp1f/xAAYEQEBAAMAAAAAAAAAAAAAAAABABEhMf/aAAgBAgEBPxAGByANF//EABoQAQEAAgMAAAAAAAAAAAAAAAERADEhYbH/2gAIAQEAAT8QDhIZS11kwzevF5wWvJ9z/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;mvvm-structure&quot;
+        title=&quot;mvvm-structure&quot;
+        src=&quot;/static/bc32b22d85bb76612b134d037814cfc6/e5166/mvvm-structure.jpg&quot;
+        srcset=&quot;/static/bc32b22d85bb76612b134d037814cfc6/f93b5/mvvm-structure.jpg 300w,
+/static/bc32b22d85bb76612b134d037814cfc6/b4294/mvvm-structure.jpg 600w,
+/static/bc32b22d85bb76612b134d037814cfc6/e5166/mvvm-structure.jpg 1200w,
+/static/bc32b22d85bb76612b134d037814cfc6/d165a/mvvm-structure.jpg 1400w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Model과 View의 역할은 MVC 패턴에서 보았던 것과 같습니다.
+달라진 점은 Controller 대신에 ViewModel이 생겼다는 것입니다.&lt;/p&gt;
+&lt;p&gt;ViewModel은 View와 데이터 바인딩되어 있습니다.
+데이터가 변경되는 경우 View를 업데이트 시켜주기 위함입니다.
+이는 View와 ViewModel이 완전히 분리되어 있는 상태에서 동작하는 것입니다.&lt;/p&gt;
+&lt;p&gt;View와 ViewModel을 분리함으로써
+각 요소마다 한 가지 책임만을 갖도록 구성할 수 있으며(SRP),
+유닛 테스트를 진행하는게 훨씬 쉬워집니다.&lt;/p&gt;
+&lt;h2 id=&quot;reference&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#reference&quot; aria-label=&quot;reference permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reference&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel&quot;&gt;Model–view–viewmodel - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.microsoft.com/en-us/archive/blogs/johngossman/introduction-to-modelviewviewmodel-pattern-for-building-wpf-apps&quot;&gt;Introduction to Model/View/ViewModel pattern for building WPF apps - Microsoft Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fastcampus.co.kr/dev_online_iosappfinal&quot;&gt;30개 프로젝트로 배우는 iOS 앱 개발 with Swift 초격차 패키지 Online. - 패스트캠퍼스&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52&quot;&gt;iOS Architecture Patterns. Demystifying MVC, MVP, MVVM and VIPER - Bohdan Orlov&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[HTTP 메시지 컨버터]]></title><description><![CDATA[HTTP 메시지 컨버터 HTTP API처럼 JSON 데이터를 HTTP 바디에서 읽고 쓰는 경우, HTTP 메시지 컨버터를 사용하는 것이 편리 HTTP 요청의 경우, 와 ()일때 메시지 컨버터가 사용됨 HTTP…]]></description><link>https://gintooooonic.github.io/Spring/220720-message-converter/</link><guid isPermaLink="false">https://gintooooonic.github.io/Spring/220720-message-converter/</guid><pubDate>Wed, 20 Jul 2022 00:00:02 GMT</pubDate><content:encoded>&lt;h2 id=&quot;http-메시지-컨버터&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#http-%EB%A9%94%EC%8B%9C%EC%A7%80-%EC%BB%A8%EB%B2%84%ED%84%B0&quot; aria-label=&quot;http 메시지 컨버터 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;HTTP 메시지 컨버터&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;HTTP API처럼 JSON 데이터를 HTTP 바디에서 읽고 쓰는 경우, HTTP 메시지 컨버터를 사용하는 것이 편리&lt;/li&gt;
 &lt;li&gt;HTTP 요청의 경우, &lt;code class=&quot;language-text&quot;&gt;@RequestBody&lt;/code&gt;와 &lt;code class=&quot;language-text&quot;&gt;HttpEntity&lt;/code&gt;(&lt;code class=&quot;language-text&quot;&gt;RequestEntity&lt;/code&gt;)일때 메시지 컨버터가 사용됨&lt;/li&gt;
