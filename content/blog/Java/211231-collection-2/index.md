@@ -283,3 +283,4 @@ Properties는 `(String, String)` 쌍을 저장하는
 - 남궁성, Java의 정석 (3rd Edition), 도우출판
 - [Java HashMap은 어떻게 동작하는가? - NAVER D2](https://d2.naver.com/helloworld/831311)
 - [HashSet vs TreeSet in Java - GeeksforGeeks](https://www.geeksforgeeks.org/hashset-vs-treeset-in-java/)
+- [Hashmap in Java- Scaler Topics](https://www.scaler.com/topics/java/hashmap-in-java/)
