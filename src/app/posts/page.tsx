@@ -11,11 +11,11 @@ export default function Posts() {
   return <PostList posts={posts} />;
 }
 
-export function PostList({ posts }: PostListProps) {
+function PostList({ posts }: PostListProps) {
   return (
     <ul>
       {posts.map(post => (
-        <li className="mb-7">
+        <li className="mb-7" key={post.slug}>
           <Link href={`posts/${post.slug}`}>
             <div>
               <h2 className="text-lg font-medium">{post.title}</h2>
