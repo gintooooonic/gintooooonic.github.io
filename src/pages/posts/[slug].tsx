@@ -8,7 +8,10 @@ export default function Post({ post }: { post: Post }) {
       <p className="text-neutral-500">{post.description}</p>
       <hr className="mb-10 mt-5" />
 
-      <div className="prose break-words" dangerouslySetInnerHTML={{ __html: post.body.html }} />
+      <div
+        className="prose overflow-x-scroll break-words"
+        dangerouslySetInnerHTML={{ __html: post.body.html }}
+      />
     </Layout>
   );
 }
