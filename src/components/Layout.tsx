@@ -1,5 +1,4 @@
 import Link from "next/link";
-import "./globals.css";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -7,15 +6,13 @@ export const metadata: Metadata = {
   description: "Hello, world!",
 };
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function Layout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="ko">
-      <body className="pb-32 pt-20">
-        <Header />
-        <main className="mx-auto my-12 max-w-xl px-4">{children}</main>
-        <Footer />
-      </body>
-    </html>
+    <div className="pb-32 pt-20">
+      <Header />
+      <main className="mx-auto my-12 max-w-xl px-4">{children}</main>
+      <Footer />
+    </div>
   );
 }
 

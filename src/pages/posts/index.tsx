@@ -1,3 +1,4 @@
+import Layout from "@/components/Layout";
 import { Post, allPosts } from "contentlayer/generated";
 import Link from "next/link";
 
@@ -8,7 +9,13 @@ export default function Posts() {
     .filter(post => !post.draft)
     .sort((a, b) => Date.parse(b.date) - Date.parse(a.date));
 
-  return <PostList posts={posts} />;
+  console.log(posts);
+
+  return (
+    <Layout>
+      <PostList posts={posts} />
+    </Layout>
+  );
 }
 
 function PostList({ posts }: PostListProps) {

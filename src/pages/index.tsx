@@ -1,15 +1,16 @@
+import Layout from "@/components/Layout";
 import { allIntroductions } from "contentlayer/generated";
 
 export default function Home() {
   const introduction = findIntroduction();
 
   return (
-    <main>
+    <Layout>
       <div
         className="prose break-words"
         dangerouslySetInnerHTML={{ __html: introduction.body.html }}
       />
-    </main>
+    </Layout>
   );
 }
 
