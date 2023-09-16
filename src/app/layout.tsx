@@ -12,7 +12,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="ko">
       <body className="pb-32 pt-20">
         <Header />
-        <main className="mx-auto my-10 max-w-xl px-4">{children}</main>
+        <main className="mx-auto my-12 max-w-xl px-4">{children}</main>
         <Footer />
       </body>
     </html>
