@@ -1,4 +1,4 @@
-import { allPosts } from "contentlayer/generated";
+import { Post, allPosts } from "contentlayer/generated";
 
 interface PostProps {
   params: {
@@ -7,12 +7,24 @@ interface PostProps {
 }
 
 export default function Post(props: PostProps) {
-  const post = allPosts.find(post => post.slug === props.params.slug);
-  if (!post) throw new Error(`Post not found for slug : ${props.params.slug}`);
+  const post = findPostBySlug(props.params.slug);
 
   return (
-    <>
-      <div dangerouslySetInnerHTML={{ __html: post.body.html }} />
-    </>
+    <article>
+      <h1 className="mb-3 text-4xl font-bold">{post.title}</h1>
+      <p className="text-neutral-500">{post.description}</p>
+      <hr className="mb-10 mt-5" />
+
+      <div className="prose break-words" dangerouslySetInnerHTML={{ __html: post.body.html }} />
+    </article>
   );
+}
+
+function findPostBySlug(slug: string): Post {
+  const post = allPosts.find(post => post.slug === slug);
+  if (!post) {
+    throw new Error(`'${slug}' 포스트를 찾을 수 없습니다.`);
+  }
+
+  return post;
 }
