@@ -1,0 +1,26 @@
+import Header from "./Header";
+import Footer from "./Footer";
+import Head from "next/head";
+
+export default function Layout(props: LayoutProps) {
+  const title = props.title ?? "w.shin";
+  const description = props.description ?? "Hello, world!";
+
+  return (
+    <div className="pb-32 pt-20">
+      <Head>
+        <title>{title}</title>
+        <meta name="description" content={description} />
+      </Head>
+      <Header />
+      <main className="mx-auto my-12 max-w-xl px-4">{props.children}</main>
+      <Footer />
+    </div>
+  );
+}
+
+interface LayoutProps {
+  children?: React.ReactNode;
+  title?: string;
+  description?: string;
+}
