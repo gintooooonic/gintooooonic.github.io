@@ -1,17 +1,32 @@
-import { allPosts } from "contentlayer/generated";
+import { Post, allPosts } from "contentlayer/generated";
+import Link from "next/link";
+
+export const metadata = { title: "포스트 — w.shin" };
 
 export default function Posts() {
-  const posts = allPosts.sort((a, b) => (a.date < b.date ? 1 : -1));
-  console.log(posts);
+  // 날짜 내림차순으로 정렬
+  const posts = allPosts.sort((a, b) => Date.parse(b.date) - Date.parse(a.date));
+
+  return <PostList posts={posts} />;
+}
+
+export function PostList({ posts }: PostListProps) {
   return (
     <ul>
       {posts.map(post => (
-        <li>
-          <a href={`posts/${post.slug}`}>
-            {post.title} ({post.description})
-          </a>
+        <li className="mb-7">
+          <Link href={`posts/${post.slug}`}>
+            <div>
+              <h2 className="text-lg font-medium">{post.title}</h2>
+              <p className="text-neutral-500">{post.description}</p>
+            </div>
+          </Link>
         </li>
       ))}
     </ul>
   );
+}
+
+interface PostListProps {
+  posts: Post[];
 }
