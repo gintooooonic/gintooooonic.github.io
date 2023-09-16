@@ -1,6 +1,9 @@
 import { defineDocumentType, makeSource } from "contentlayer/source-files";
 import remarkGfm from "remark-gfm";
 
+/**
+ * 포스트
+ */
 export const Post = defineDocumentType(() => ({
   name: "Post",
   filePathPattern: "posts/**/*.md",
@@ -28,9 +31,17 @@ export const Post = defineDocumentType(() => ({
   },
 }));
 
+/**
+ * 소개 글 (content/introduction.md 하나만 사용)
+ */
+export const Introduction = defineDocumentType(() => ({
+  name: "Introduction",
+  filePathPattern: "introduction.md",
+}));
+
 export default makeSource({
   contentDirPath: "./content",
-  documentTypes: [Post],
+  documentTypes: [Post, Introduction],
   markdown: {
     remarkPlugins: [remarkGfm],
   },
