@@ -2,6 +2,7 @@
 title: "GitHub Markdown 2"
 date: "2023-09-16 00:00:01"
 description: "Basic writing and formatting syntax"
+draft: true
 ---
 
 ## Headings

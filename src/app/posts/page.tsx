@@ -4,8 +4,9 @@ import Link from "next/link";
 export const metadata = { title: "포스트 — w.shin" };
 
 export default function Posts() {
-  // 날짜 내림차순으로 정렬
-  const posts = allPosts.sort((a, b) => Date.parse(b.date) - Date.parse(a.date));
+  const posts = allPosts
+    .filter(post => !post.draft)
+    .sort((a, b) => Date.parse(b.date) - Date.parse(a.date));
 
   return <PostList posts={posts} />;
 }
