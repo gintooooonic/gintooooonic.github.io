@@ -6,8 +6,8 @@ interface PostProps {
   };
 }
 
-export default function Post(props: PostProps) {
-  const post = findPostBySlug(props.params.slug);
+export default function Post({ params }: PostProps) {
+  const post = findPostBySlug(params.slug);
 
   return (
     <article>
@@ -18,6 +18,10 @@ export default function Post(props: PostProps) {
       <div className="prose break-words" dangerouslySetInnerHTML={{ __html: post.body.html }} />
     </article>
   );
+}
+
+export async function generateStaticParams(): Promise<PostProps["params"][]> {
+  return allPosts.map(post => ({ slug: post.slug }));
 }
 
 function findPostBySlug(slug: string): Post {
