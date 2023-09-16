@@ -2,17 +2,13 @@ import Layout from "@/components/Layout";
 import { Post, allPosts } from "contentlayer/generated";
 import Link from "next/link";
 
-export const metadata = { title: "포스트 — w.shin" };
-
 export default function Posts() {
   const posts = allPosts
     .filter(post => !post.draft)
     .sort((a, b) => Date.parse(b.date) - Date.parse(a.date));
 
-  console.log(posts);
-
   return (
-    <Layout>
+    <Layout title="포스트 — w.shin">
       <PostList posts={posts} />
     </Layout>
   );
