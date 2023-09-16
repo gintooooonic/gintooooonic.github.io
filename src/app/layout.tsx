@@ -28,10 +28,10 @@ function Header() {
       <nav>
         <ul className="flex select-none flex-row justify-end align-middle font-medium [&>li]:ml-5">
           <li>
-            <Link href="/">Home</Link>
+            <Link href="/">홈</Link>
           </li>
           <li>
-            <Link href="/posts">Posts</Link>
+            <Link href="/posts">포스트</Link>
           </li>
         </ul>
       </nav>
