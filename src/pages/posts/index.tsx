@@ -1,17 +1,44 @@
 import Layout from "@/components/Layout";
 import { Post, allPosts } from "contentlayer/generated";
 import Link from "next/link";
+import { useRouter } from "next/router";
 
 export default function Posts() {
+  const { query } = useRouter();
+  const category = query.category as string | undefined;
+
   const posts = allPosts
     .filter(post => !post.draft)
+    .filter(post => !category || post.category === category)
     .sort((a, b) => Date.parse(b.date) - Date.parse(a.date));
 
   return (
     <Layout title="포스트 — w.shin">
-      <PostList posts={posts} />
+      <ul className="mb-10 flex flex-row text-sm text-neutral-500 [&>li]:mr-5 [&>li]:font-medium">
+        <li>
+          <Link href="" className={category || "text-black"}>
+            전체
+          </Link>
+        </li>
+        {getCategories().map(name => (
+          <li>
+            <Link href={`?category=${name}`} className={name === category ? "text-black" : ""}>
+              {name}
+            </Link>
+          </li>
+        ))}
+      </ul>
+      {posts.length > 0 ? (
+        <PostList posts={posts} />
+      ) : (
+        <p className="text-center text-sm text-neutral-500">포스트가 존재하지 않습니다.</p>
+      )}
     </Layout>
   );
+}
+
+function getCategories(): string[] {
+  return Array.from(new Set(allPosts.map(post => post.category))).sort();
 }
 
 function PostList({ posts }: PostListProps) {

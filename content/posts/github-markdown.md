@@ -2,6 +2,7 @@
 title: "GitHub Markdown"
 date: "2023-09-16 00:00:00"
 description: "Basic writing and formatting syntax"
+category: "Writing"
 ---
 
 ## Headings
