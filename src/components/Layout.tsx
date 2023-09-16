@@ -7,13 +7,13 @@ export default function Layout(props: LayoutProps) {
   const description = props.description ?? "Hello, world!";
 
   return (
-    <div className="pb-32 pt-20">
+    <div className="pb-16 pt-10 sm:pb-32 sm:pt-20">
       <Head>
         <title>{title}</title>
         <meta name="description" content={description} />
       </Head>
       <Header />
-      <main className="mx-auto my-12 max-w-xl px-4">{props.children}</main>
+      <main className="mx-auto my-12 max-w-xl px-5">{props.children}</main>
       <Footer />
     </div>
   );
