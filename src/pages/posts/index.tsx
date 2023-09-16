@@ -21,7 +21,7 @@ export default function Posts() {
           </Link>
         </li>
         {getCategories().map(name => (
-          <li>
+          <li key={name}>
             <Link href={`?category=${name}`} className={name === category ? "text-black" : ""}>
               {name}
             </Link>
