@@ -4,7 +4,7 @@ export default function YouTubePlayer() {
   return (
     <ul className="flex flex-row overflow-x-scroll">
       {youtubeVideoIds.map(id => (
-        <li className="mr-5">
+        <li className="mr-5" key={id}>
           <iframe
             className="rounded-lg"
             width="320"
