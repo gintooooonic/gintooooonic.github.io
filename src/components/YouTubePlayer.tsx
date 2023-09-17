@@ -2,7 +2,7 @@ export default function YouTubePlayer() {
   const youtubeVideoIds = ["jfKfPfyJRdk", "t99W9uDdc_M"];
 
   return (
-    <ul className="flex flex-row overflow-x-scroll">
+    <ul className="no-scrollbar flex flex-row overflow-x-scroll">
       {youtubeVideoIds.map(id => (
         <li className="mr-5" key={id}>
           <iframe
