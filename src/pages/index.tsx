@@ -1,4 +1,5 @@
 import Layout from "@/components/Layout";
+import YouTubePlayer from "@/components/YouTubePlayer";
 import { allIntroductions } from "contentlayer/generated";
 
 export default function Home() {
@@ -10,6 +11,9 @@ export default function Home() {
         className="prose break-words"
         dangerouslySetInnerHTML={{ __html: introduction.body.html }}
       />
+      <div className="my-10">
+        <YouTubePlayer />
+      </div>
     </Layout>
   );
 }
