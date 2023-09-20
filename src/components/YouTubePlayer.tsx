@@ -1,5 +1,5 @@
 export default function YouTubePlayer() {
-  const youtubeVideoIds = ["jfKfPfyJRdk", "t99W9uDdc_M"];
+  const youtubeVideoIds = ["jfKfPfyJRdk", "TpPwI_Lo0YY", "t99W9uDdc_M"];
 
   return (
     <ul className="no-scrollbar flex flex-row overflow-x-scroll">
