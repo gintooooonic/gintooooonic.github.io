@@ -1,6 +1,6 @@
+import Head from "next/head";
 import Header from "./Header";
 import Footer from "./Footer";
-import Head from "next/head";
 
 export default function Layout(props: LayoutProps) {
   const title = props.title ?? "w.shin";

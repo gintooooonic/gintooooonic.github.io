@@ -1,6 +1,6 @@
+import { allIntroductions } from "contentlayer/generated";
 import Layout from "@/components/Layout";
 import YouTubePlayer from "@/components/YouTubePlayer";
-import { allIntroductions } from "contentlayer/generated";
 
 export default function Home() {
   const introduction = findIntroduction();
