@@ -1,7 +1,7 @@
 import Layout from "@/components/Layout";
 import { Post, allPosts } from "contentlayer/generated";
 
-export default function Post({ post }: { post: Post }) {
+export default function PostViewPage({ post }: { post: Post }) {
   return (
     <Layout title={`${post.title} — w.shin`}>
       <h1 className="mb-3 text-3xl font-bold">{post.title}</h1>

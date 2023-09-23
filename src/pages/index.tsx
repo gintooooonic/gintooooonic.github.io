@@ -2,7 +2,7 @@ import { allIntroductions } from "contentlayer/generated";
 import Layout from "@/components/Layout";
 import YouTubePlayer from "@/components/YouTubePlayer";
 
-export default function Home() {
+export default function MainPage() {
   const introduction = findIntroduction();
 
   return (

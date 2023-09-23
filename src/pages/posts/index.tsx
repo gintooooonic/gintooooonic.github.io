@@ -3,7 +3,7 @@ import { Post, allPosts } from "contentlayer/generated";
 import Link from "next/link";
 import { useRouter } from "next/router";
 
-export default function Posts() {
+export default function PostListPage() {
   const { query } = useRouter();
   const category = query.category as string | undefined;
 
