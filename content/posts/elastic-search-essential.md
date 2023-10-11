@@ -1,7 +1,7 @@
 ---
 title: "[Elasticsearch Essential] 강의 Summary"
 date: "2023-10-12 00:02:26"
-description: "신뢰성, 확장성, 유지보수성"
+description: "Elasticsearch 감 잡기"
 category: "Study"
 draft: false
 ---
