@@ -2,7 +2,7 @@
 title: "[데이터 중심 애플리케이션 설계] 1장 Summary"
 date: "2023-10-12 00:02:13"
 description: "신뢰성, 확장성, 유지보수성"
-category: "Reading"
+category: "Study"
 draft: false
 ---
 
