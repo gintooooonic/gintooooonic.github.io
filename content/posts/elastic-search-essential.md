@@ -18,7 +18,7 @@ draft: false
     - **준실시간** 검색 시스템 : 데이터가 저장되고 나서 거의 바로 검색이 가능
         - 데이터가 저장되는 시점과 검색 가능한 시점의 간격(`refresh_interval` 설정값으로 조정 가능)이 거의 실시간 수준으로 짧음
         - `refresh_interval` 설정의 기본값은 1초
-        - [Near real-time search | Elasticsearch Guide [8.10]](https://www.elastic.co/guide/en/elasticsearch/reference/8.10/near-real-time.html#img-pre-refresh)
+        - [Near real-time search | Elasticsearch Guide [8.10]](https://www.elastic.co/guide/en/elasticsearch/reference/8.10/near-real-time.html)
     - 고가용성을 위한 **클러스터(한 대 이상의 노드) 구성** : 안정성 증가, 부하 분산
     - **동적 스키마** 지원
         - 미리 스키마를 정의하지 않아도 됨 (<-> RDBMS의 경우 테이블 스키마를 정의해야 데이터 입력 가능)
