@@ -32,6 +32,35 @@ export const Post = defineDocumentType(() => ({
 }));
 
 /**
+ * 페이지
+ */
+export const Page = defineDocumentType(() => ({
+  name: "Page",
+  filePathPattern: "pages/**/*.md",
+  fields: {
+    title: { type: "string", required: true },
+    description: { type: "string", required: true },
+    date: { type: "date", required: true },
+    draft: { type: "boolean", required: false },
+  },
+  computedFields: {
+    slug: {
+      type: "string",
+      resolve: page => {
+        const path = page._raw.flattenedPath;
+        const prefix = page._raw.sourceFileDir + "/";
+
+        if (path.startsWith(prefix)) {
+          return path.slice(prefix.length);
+        }
+
+        return path;
+      },
+    },
+  },
+}));
+
+/**
  * 소개 글 (content/introduction.md 하나만 사용)
  */
 export const Introduction = defineDocumentType(() => ({
@@ -41,7 +70,7 @@ export const Introduction = defineDocumentType(() => ({
 
 export default makeSource({
   contentDirPath: "./content",
-  documentTypes: [Post, Introduction],
+  documentTypes: [Post, Page, Introduction],
   markdown: {
     remarkPlugins: [remarkGfm],
   },
