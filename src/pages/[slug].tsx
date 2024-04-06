@@ -1,5 +1,5 @@
 import Layout from "@/components/Layout";
-import { Page, Post, allPages, allPosts } from "contentlayer/generated";
+import { Page, allPages } from "contentlayer/generated";
 
 export default function MdPage({ page }: { page: Page }) {
   console.log('page : ', allPages)
