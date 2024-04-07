@@ -2,13 +2,13 @@ import Layout from "@/components/Layout";
 import { Post, allPosts } from "contentlayer/generated";
 import Link from "next/link";
 import { useRouter } from "next/router";
+import {allPostsWithoutDraft} from "@/utils/contentlayer";
 
 export default function PostListPage() {
   const { query } = useRouter();
   const category = query.category as string | undefined;
 
-  const posts = allPosts
-    .filter(post => !post.draft)
+  const posts = allPostsWithoutDraft
     .filter(post => !category || post.category === category)
     .sort((a, b) => Date.parse(b.date) - Date.parse(a.date));
 
@@ -38,7 +38,7 @@ export default function PostListPage() {
 }
 
 function getCategories(): string[] {
-  return Array.from(new Set(allPosts.map(post => post.category))).sort();
+  return Array.from(new Set(allPostsWithoutDraft.map(post => post.category))).sort();
 }
 
 function PostList({ posts }: PostListProps) {

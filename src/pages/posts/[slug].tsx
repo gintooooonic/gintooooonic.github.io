@@ -1,5 +1,6 @@
 import Layout from "@/components/Layout";
 import { Post, allPosts } from "contentlayer/generated";
+import {allPostsWithoutDraft} from "@/utils/contentlayer";
 
 export default function PostViewPage({ post }: { post: Post }) {
   return (
@@ -18,7 +19,7 @@ export default function PostViewPage({ post }: { post: Post }) {
 
 export async function getStaticPaths() {
   return {
-    paths: allPosts.map(post => ({ params: { slug: post.slug } })),
+    paths: allPostsWithoutDraft.map(post => ({ params: { slug: post.slug } })),
     fallback: false,
   };
 }
@@ -32,7 +33,7 @@ export async function getStaticProps({ params }: any) {
 }
 
 function findPostBySlug(slug: string): Post {
-  const post = allPosts.find(post => post.slug === slug);
+  const post = allPostsWithoutDraft.find(post => post.slug === slug);
   if (!post) {
     throw new Error(`'${slug}' 포스트를 찾을 수 없습니다.`);
   }

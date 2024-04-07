@@ -1,8 +1,8 @@
 import Layout from "@/components/Layout";
 import { Page, allPages } from "contentlayer/generated";
+import {allPagesWithoutDraft} from "@/utils/contentlayer";
 
 export default function MdPage({ page }: { page: Page }) {
-  console.log('page : ', allPages)
   return (
     <Layout title={`${page.title} — w.shin`}>
       <h1 className="mb-3 text-3xl font-bold">{page.title}</h1>
@@ -19,7 +19,7 @@ export default function MdPage({ page }: { page: Page }) {
 
 export async function getStaticPaths() {
   return {
-    paths: allPages.map(page => ({ params: { slug: page.slug } })),
+    paths: allPagesWithoutDraft.map(page => ({ params: { slug: page.slug } })),
     fallback: false,
   };
 }
@@ -33,7 +33,7 @@ export async function getStaticProps({ params }: any) {
 }
 
 function findPageBySlug(slug: string): Page {
-  const page = allPages.find(page => page.slug === slug);
+  const page = allPagesWithoutDraft.find(page => page.slug === slug);
   if (!page) {
     throw new Error(`'${slug}' 포스트를 찾을 수 없습니다.`);
   }

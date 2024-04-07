@@ -1,5 +1,6 @@
 import { defineDocumentType, makeSource } from "contentlayer/source-files";
 import remarkGfm from "remark-gfm";
+import {allPosts} from "contentlayer/generated";
 
 /**
  * 포스트
