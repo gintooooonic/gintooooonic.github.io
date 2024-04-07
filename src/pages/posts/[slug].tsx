@@ -1,6 +1,6 @@
 import Layout from "@/components/Layout";
-import { Post, allPosts } from "contentlayer/generated";
-import {allPostsWithoutDraft} from "@/utils/contentlayer";
+import { Post } from "contentlayer/generated";
+import { allPostsWithoutDraft } from "@/utils/contentlayer";
 
 export default function PostViewPage({ post }: { post: Post }) {
   return (

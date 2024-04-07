@@ -1,8 +1,8 @@
 import Layout from "@/components/Layout";
-import { Post, allPosts } from "contentlayer/generated";
+import { Post } from "contentlayer/generated";
 import Link from "next/link";
 import { useRouter } from "next/router";
-import {allPostsWithoutDraft} from "@/utils/contentlayer";
+import { allPostsWithoutDraft } from "@/utils/contentlayer";
 
 export default function PostListPage() {
   const { query } = useRouter();

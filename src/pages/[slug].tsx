@@ -1,6 +1,6 @@
 import Layout from "@/components/Layout";
-import { Page, allPages } from "contentlayer/generated";
-import {allPagesWithoutDraft} from "@/utils/contentlayer";
+import { Page } from "contentlayer/generated";
+import { allPagesWithoutDraft } from "@/utils/contentlayer";
 
 export default function MdPage({ page }: { page: Page }) {
   return (
