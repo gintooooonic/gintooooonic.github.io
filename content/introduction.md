@@ -1,4 +1,4 @@
 ### 👋
 
 - [github.com/gintooooonic](https://github.com/gintooooonic)
-- [me@woodyshin.com](mailto:me@woodyshin.com)
+- [thisis@wshin.me](mailto:thisis@wshin.me)
