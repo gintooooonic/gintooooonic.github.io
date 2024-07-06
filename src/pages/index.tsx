@@ -2,13 +2,13 @@ import Layout from "@/components/Layout";
 import { Post } from "contentlayer/generated";
 import Link from "next/link";
 import { useRouter } from "next/router";
-import { allPostsWithoutDraft } from "@/utils/contentlayer";
+import Posts from "@/services/posts";
 
 export default function PostListPage() {
   const { query } = useRouter();
   const category = query.category as string | undefined;
 
-  const posts = allPostsWithoutDraft
+  const posts = Posts.findAll()
     .filter(post => !category || post.category === category)
     .sort((a, b) => Date.parse(b.date) - Date.parse(a.date));
 
@@ -20,7 +20,7 @@ export default function PostListPage() {
             전체
           </Link>
         </li>
-        {getCategories().map(name => (
+        {Posts.findAllCategories().map(name => (
           <li key={name}>
             <Link href={`?category=${name}`} className={name === category ? "text-black" : ""}>
               {name}
@@ -37,11 +37,7 @@ export default function PostListPage() {
   );
 }
 
-function getCategories(): string[] {
-  return Array.from(new Set(allPostsWithoutDraft.map(post => post.category))).sort();
-}
-
-function PostList({ posts }: PostListProps) {
+function PostList({ posts }: { posts: Post[] }) {
   return (
     <ul>
       {posts.map(post => (
@@ -56,8 +52,4 @@ function PostList({ posts }: PostListProps) {
       ))}
     </ul>
   );
-}
-
-interface PostListProps {
-  posts: Post[];
 }
