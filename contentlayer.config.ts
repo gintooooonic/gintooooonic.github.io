@@ -39,7 +39,7 @@ export const Page = defineDocumentType(() => ({
   filePathPattern: "pages/**/*.md",
   fields: {
     title: { type: "string", required: true },
-    description: { type: "string", required: true },
+    description: { type: "string", required: false },
     date: { type: "date", required: true },
     draft: { type: "boolean", required: false },
   },
