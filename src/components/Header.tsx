@@ -15,12 +15,9 @@ function Navigator() {
   return (
     <nav>
       <ul className="flex select-none flex-row justify-end align-middle font-medium [&>li]:ml-5">
-        <li>
+        {/* <li>
           <Link href="/">Home</Link>
-        </li>
-        <li>
-          <Link href="/about">About</Link>
-        </li>
+        </li> */}
       </ul>
     </nav>
   );
