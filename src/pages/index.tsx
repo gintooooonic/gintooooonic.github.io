@@ -44,6 +44,7 @@ function PostList({ posts }: { posts: Post[] }) {
         <li className="mb-7" key={post.slug}>
           <Link href={`posts/${post.slug}`}>
             <div>
+              <p className="text-xs font-medium">{post.category}</p>
               <h2 className="text-lg font-medium">{post.title}</h2>
               <p className="text-neutral-500">{post.description}</p>
             </div>
