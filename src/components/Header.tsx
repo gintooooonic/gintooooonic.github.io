@@ -1,4 +1,5 @@
 import Link from "next/link";
+import DarkModeToggleButton from "./DarkModeToggleButton";
 
 export default function Header() {
   return (
@@ -6,19 +7,7 @@ export default function Header() {
       <h1 className="select-none text-xl font-bold">
         <Link href="/">w.shin</Link>
       </h1>
-      <Navigator />
+      <DarkModeToggleButton isDarkMode={true} onClick={() => {}} />
     </header>
-  );
-}
-
-function Navigator() {
-  return (
-    <nav>
-      <ul className="flex select-none flex-row justify-end align-middle font-medium [&>li]:ml-5">
-        {/* <li>
-          <Link href="/">Home</Link>
-        </li> */}
-      </ul>
-    </nav>
   );
 }
