@@ -13,7 +13,7 @@ export default function Layout(props: LayoutProps) {
         <meta name="description" content={description} />
       </Head>
       <Header />
-      <main className="mx-auto my-12 max-w-2xl px-5">{props.children}</main>
+      <main className="mx-auto mb-16 mt-12 max-w-2xl px-5">{props.children}</main>
       <Footer />
     </div>
   );
