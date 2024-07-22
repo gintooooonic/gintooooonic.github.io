@@ -5,7 +5,7 @@ import Posts from "@/services/posts";
 export default function PostViewPage({ post }: { post: Post }) {
   return (
     <Layout title={`${post.title} — w.shin`}>
-      <h1 className="mb-3 text-3xl font-bold">{post.title}</h1>
+      <h2 className="mb-3 text-2xl font-bold">{post.title}</h2>
       <p className="text-neutral-500">{post.description}</p>
       <hr className="mb-10 mt-5" />
 
